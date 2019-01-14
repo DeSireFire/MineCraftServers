@@ -1,0 +1,86 @@
+#
+# MoreFish Configuration by elsiff
+#
+# Wiki: https://github.com/elsiff/MoreFish/wiki
+#
+# Warning: DO NOT edit rewards.yml with your file editor, instead use in-game command '/mf rewards'.
+#
+
+version: 210
+
+general:
+  locale: 'en'
+  check-update: true
+  auto-start: true
+  use-boss-bar: true
+  only-for-contest: true
+  no-fishing-unless-contest: true
+  contest-disabled-worlds: []
+  replace-only-fish: false
+  save-records: true
+
+auto-running:
+  enable: true
+  required-players: 1
+  timer: 300
+  # HH:mm (H: 0-23, m: 0-59)
+  start-time:
+  - "00:00"
+  - "00:30"
+  - "01:00"
+  - "01:30"
+  - "02:00"
+  - "02:30"
+  - "03:00"
+  - "03:30"
+  - "08:00"
+  - "08:30"
+  - "09:00"
+  - "09:30"
+  - "10:00"
+  - "10:30"
+  - "11:00"
+  - "11:30"
+  - "12:00"
+  - "12:30"
+  - "13:00"
+  - "13:30"
+  - "14:00"
+  - "14:30"
+  - "15:00"
+  - "15:30"
+  - "16:00"
+  - "16:30"
+  - "17:00"
+  - "17:30"
+  - "18:00"
+  - "18:30"
+  - "19:00"
+  - "19:30"
+  - "20:00"
+  - "20:30"
+  - "21:00"
+  - "21:30"
+  - "22:00"
+  - "22:30"
+  - "23:00"
+  - "23:30"
+
+
+fish-shop:
+  enable: true
+  multiplier: 0.1
+  round-decimal-points: true
+
+# -- Announcement Value --
+# '-1' means server broadcast
+# '0' is only for the catcher
+# Positive number means the block radius of announcing messages
+messages:
+  announce-catch: -1
+  announce-new-1st: -1
+  broadcast-start: true
+  broadcast-stop: true
+  show-top-on-ending: true
+  contest-bar-color: 'red'
+  top-number: 3

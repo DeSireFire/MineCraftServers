@@ -1,0 +1,44 @@
+# 
+#   此插件语言文件由我的世界中文论坛ID:1207741285汉化
+#   謎旳拾陆 将选项 GENERIC_错误: 修正为 GENERIC_ERROR: 以及小细节QwQ
+NOT_PLAYER: '&4错误&8: &c你需要输入一个皮肤ID!'
+NOT_ONLINE: '&4错误&8: &c玩家不在线!'
+SKIN_COOLDOWN: '&e你可以每 %s 秒改变一次皮肤.'
+SKIN_CHANGE_SUCCESS: '&2你的皮肤已经改变.'
+PLAYER_HAS_NO_PERMISSION: '&4错误&8: &c你没有权限这样做.'
+SKIN_DISABLED: '&4错误&8: &c此皮肤被管理员禁用.'
+UNKNOWN_COMMAND: '&c未知的命令. 输入 "/help" 需求帮助.'
+ALT_API_FAILED: '&4错误&8: &c皮肤的 API 数据已超载,请稍后再试!'
+NOT_PREMIUM: '&4错误&8: &c拥有此名字的高级玩家不存在.'
+RATE_LIMITED: "&4错误&8: &cYou are rate limited for this skin! \n&cPlease wait10 minutes\
+  \ before requesting the same skin again."
+GENERIC_ERROR: '&4错误&8: &c请求皮肤数据时出错,请重试!'
+SKIN_DATA_DROPPED: '&2%player 皮肤数据删除成功.'
+SKIN_DATA_SAVED: '&2%player 皮肤数据保存成功.'
+SR_LINE: '&7&m----------------------------------------'
+HELP_PLAYER: |2-
+    &2&lSkinsRestorer &7- &f&lv%ver%
+      &2/skin <皮肤ID> &7-&f 更改你想要的正版用户皮肤.
+ADMIN_SET_SKIN: '&2已设置成 %player 的皮肤.'
+HELP_ADMIN: |2-
+    &2&lSkinsRestorer &7- &f&lv%ver% &c&l管理员指令
+
+      &2/sr set <玩家ID> <皮肤ID> &7- &f设置玩家皮肤..
+      &2/sr drop <皮肤ID> &7- &f删除皮肤数据.
+      &2/sr reload &7- &f重新加载配置/语言文件.
+      &2/sr props [玩家ID] &7- &f还原玩家实际皮肤.
+RELOAD: '&2成功重新加载配置和语言文件!'
+NO_SKIN_DATA: '&4错误&8: &c此皮肤没有数据了,这个ID不是正版或者就是没皮肤?'
+OUTDATED: "&4你正在运行一个旧版的 SKINSRESTORER!\n&c更新地址 to latest version on Spigot: \n&ehttps://www.spigotmc.org/resources/skinsrestorer.2124/"
+SKIN_COOLDOWN_NEW: '&4Error&8: &cYou can change your skin again in &e%s &cseconds.'
+WAIT_A_MINUTE: '&4Error&8: &cPlease wait a minute before requesting that skin again.
+  (Rate Limited)'
+HELP_CONFIG: |2-
+    &2&lSkinsRestorer &7- &c&lConfig
+
+      &2/sr joinSkins <true/false> &7- &fToggles the skins on join.
+      &2/sr SkinWithoutPerm <true/false> &7- &fConfigures the DisabledSkins section.
+      &2/sr SkinExpiresAfter <time> &7- &fHow long the a skin is cached.
+      &2/sr skinCooldown <time> &7- &f/skin cooldown in minute(s).
+      &2/sr defaultSkins <true/false/add [skin]> &7- &fConfigures the DefaultSkins section.
+      &2/sr updater <true/false> &7- &fToggles the updater

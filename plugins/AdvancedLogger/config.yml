@@ -1,0 +1,11 @@
+AVL:
+  Metrics: true
+  Command_Log: true
+  Chat_Log: true
+  Player_Name_Log: true
+  Player_UUID_Log: true
+  Console_Commands_Log: true
+  ServerData: true
+  Join_Log: true
+  Quit_Log: true
+  KillDeathLog: true

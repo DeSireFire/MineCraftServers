@@ -1,0 +1,540 @@
+[22:15:24] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[22:15:24] [Server thread/INFO]: Loading properties
+[22:15:24] [Server thread/INFO]: Default game type: SURVIVAL
+[22:15:24] [Server thread/INFO]: This server is running Paper version git-Paper-1304 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[22:15:24] [Server thread/INFO]: Debug logging is disabled
+[22:15:24] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:15:24] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:15:24] [Server thread/INFO]: Generating keypair
+[22:15:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:15:24] [Server thread/INFO]: Using default channel type
+[22:15:25] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[22:15:26] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.14.2
+[22:15:26] [Server thread/INFO]: [ItemEditor] Loading ItemEditor v1.2
+[22:15:26] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v2.1.7
+[22:15:26] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.2-SNAPSHOT
+[22:15:26] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.8.2
+[22:15:26] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5.0-SNAPSHOT-b725
+[22:15:26] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.3.0
+[22:15:26] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.12.2) has not yet been tested! Proceed with caution.
+[22:15:26] [Server thread/INFO]: [AdvancedLogger] Loading AdvancedLogger v2.0
+[22:15:26] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v13.2
+[22:15:26] [Server thread/INFO]: [FastAsyncWorldEdit] Loading FastAsyncWorldEdit v19.01.12-dc2d277-1245-22.0.7
+[22:15:26] [Server thread/INFO]: [Yum] Loading Yum v2.7.10-git-fcf06780f0196bfb77ed26d9c792cda10547bfb4
+[22:15:26] [Server thread/INFO]: [网络管理] 注入网络管理系统 将托管服务器网络!
+[22:15:26] [Server thread/INFO]: [MiaoBoard] Loading MiaoBoard v2.4.0-git-31044286414e1154a5873e3682cad0168057a165
+[22:15:26] [Server thread/INFO]: [FixCaseSentiveBugs] Loading FixCaseSentiveBugs v1.2-SNAPSHOT
+[22:15:26] [Server thread/INFO]: [Vault] Loading Vault v1.6.6-b${env.TRAVIS_BUILD_NUMBER}
+[22:15:26] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[22:15:26] [Server thread/INFO]: [Essentials] Loading Essentials v2.0.1-b571
+[22:15:26] [Server thread/INFO]: [ColorMOTD] Loading ColorMOTD v1.5.3
+[22:15:26] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.2.6
+[22:15:26] [Server thread/INFO]: [QuickShop] Loading QuickShop v0.9.34
+[22:15:26] [Server thread/INFO]: [GreatFireWall] Loading GreatFireWall v5.0
+[22:15:26] [Server thread/INFO]: [MoreFish] Loading MoreFish v2.1.3
+[22:15:26] [Server thread/INFO]: [Residence] Loading Residence v4.7.3.1
+[22:15:26] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.0.1-b571
+[22:15:26] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.0.1-b571
+[22:15:26] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.0.1-b571
+[22:15:26] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.0.1-b571
+[22:15:26] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.0.1-b571
+[22:15:26] [Server thread/INFO]: [LockettePro] Loading LockettePro v2.8.1
+[22:15:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:15:26] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.3.0
+[22:15:26] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[22:15:26] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v19.01.12-dc2d277-1245-22.0.7
+[22:15:27] [Server thread/INFO]: [Yum] Enabling Yum v2.7.10-git-fcf06780f0196bfb77ed26d9c792cda10547bfb4
+[22:15:27] [Server thread/INFO]: [Yum] 服务端未注入安全拦截器 关闭功能...
+[22:15:27] [Server thread/INFO]: [Yum] 网络管理系统已启用...
+[22:15:27] [Server thread/INFO]: [Yum] 线程管理系统已启用...
+[22:15:27] [Server thread/INFO]: [Yum] 性能监控系统已启用...
+[22:15:27] [Server thread/INFO]: [Yum] I O 管理系统已启用...
+[22:15:27] [Server thread/INFO]: [Vault] Enabling Vault v1.6.6-b${env.TRAVIS_BUILD_NUMBER}
+[22:15:27] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[22:15:27] [Server thread/INFO]: [Vault] [Permission] GroupManager found: Waiting
+[22:15:27] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[22:15:27] [Server thread/INFO]: [Vault] [Chat] GroupManager found: Waiting
+[22:15:27] [Server thread/INFO]: [Vault] Enabled Version 1.6.6-b${env.TRAVIS_BUILD_NUMBER}
+[22:15:27] [Server thread/INFO]: [ColorMOTD] Enabling ColorMOTD v1.5.3
+[22:15:27] [Server thread/INFO]: [ColorMOTD] ├使用 ProtocolLib 4.3.0 作为前置
+[22:15:27] [Server thread/INFO]: [ColorMOTD] │├正在载入配置文件..
+[22:15:27] [Server thread/INFO]: [ColorMOTD] │├配置文件编码为UTF-8...
+[22:15:27] [Server thread/INFO]: [ColorMOTD] │├正在加载图标...
+[22:15:27] [Server thread/INFO]: [ColorMOTD] ││├成功加载图标"1.png"
+[22:15:27] [Server thread/INFO]: [ColorMOTD] ││├成功加载图标"2.png"
+[22:15:27] [Server thread/INFO]: [ColorMOTD] ││├成功加载图标"3.png"
+[22:15:27] [Server thread/INFO]: [ColorMOTD] ││├成功加载维护模式下的图标
+[22:15:27] [Server thread/INFO]: [ColorMOTD] │├载入成功
+[22:15:27] [Server thread/INFO]: [ColorMOTD] │├软前置加载...
+[22:15:27] [Server thread/INFO]: [ColorMOTD] │├找到Essentials,建立连接...
+[22:15:27] [Server thread/INFO]: [ColorMOTD] ├正在注册MOTD监听器...
+[22:15:27] [Server thread/INFO]: ColorMOTD v1.5.3加载完成,用时309毫秒
+[22:15:27] [Server thread/INFO]: [GreatFireWall] Enabling GreatFireWall v5.0
+[22:15:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:15:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:15:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:15:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:15:27] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[22:15:27] [Server thread/INFO]: Preparing level "world"
+[22:15:27] [Server thread/INFO]: -------- World Settings For [world] --------
+[22:15:27] [Server thread/INFO]: Mob Spawn Range: 4
+[22:15:27] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:15:27] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:15:27] [Server thread/INFO]: View Distance: 4
+[22:15:27] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:15:27] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:15:27] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:15:27] [Server thread/INFO]: Nerfing mobs spawned from spawners: true
+[22:15:27] [Server thread/INFO]: Random Lighting Updates: false
+[22:15:27] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:15:27] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:15:27] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:15:27] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:15:27] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:15:27] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:15:27] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:15:27] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:15:27] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:15:27] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:15:27] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:15:27] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:15:27] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:15:27] [Server thread/INFO]: Structure Info Saving: true
+[22:15:27] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:15:27] [Server thread/INFO]: Max TNT Explosions: 100
+[22:15:27] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:15:27] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[22:15:28] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[22:15:28] [Server thread/INFO]: Mob Spawn Range: 4
+[22:15:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:15:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:15:28] [Server thread/INFO]: View Distance: 4
+[22:15:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:15:28] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:15:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:15:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: true
+[22:15:28] [Server thread/INFO]: Random Lighting Updates: false
+[22:15:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:15:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:15:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:15:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:15:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:15:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:15:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:15:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:15:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:15:28] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:15:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:15:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:15:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:15:28] [Server thread/INFO]: Structure Info Saving: true
+[22:15:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:15:28] [Server thread/INFO]: Max TNT Explosions: 100
+[22:15:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:15:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[22:15:28] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[22:15:28] [Server thread/INFO]: Mob Spawn Range: 4
+[22:15:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:15:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:15:28] [Server thread/INFO]: View Distance: 4
+[22:15:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:15:28] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:15:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:15:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: true
+[22:15:28] [Server thread/INFO]: Random Lighting Updates: false
+[22:15:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:15:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:15:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:15:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:15:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:15:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:15:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:15:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:15:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:15:28] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:15:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:15:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:15:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[22:15:28] [Server thread/INFO]: Structure Info Saving: true
+[22:15:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:15:28] [Server thread/INFO]: Max TNT Explosions: 100
+[22:15:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:15:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[22:15:28] [Server thread/INFO]: Preparing start region for level 0 (Seed: -7998012468065561645)
+[22:15:28] [Server thread/INFO]: Preparing start region for level 1 (Seed: 4864245436565773480)
+[22:15:29] [Server thread/INFO]: Preparing start region for level 2 (Seed: 4864245436565773480)
+[22:15:29] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.14.2
+[22:15:29] [Server thread/INFO]: [CoreProtect] CoreProtect 已被成功启用!
+[22:15:29] [Server thread/INFO]: [CoreProtect] 使用 SQLite 储存数据.
+[22:15:29] [Server thread/INFO]: [ItemEditor] Enabling ItemEditor v1.2
+[22:15:29] [Server thread/INFO]: [ItemEditor] ItemEditor插件正在启动中，作者：沉寂
+[22:15:29] [Server thread/INFO]: [ItemEditor] 正在加载ASMTool
+[22:15:29] [Server thread/INFO]: [ItemEditor] 成功加载ASMTool。耗时：23ms
+[22:15:29] [Server thread/WARN]: [ItemEditor] 检测到服务端是Spigot或其派生服务端，将加载Tellraw编辑器
+[22:15:29] [Server thread/INFO]: [ItemEditor] 正在加载Tellraw编辑器
+[22:15:29] [Server thread/INFO]: [ItemEditor] Tellraw编辑器加载成功。耗时：5ms
+[22:15:29] [Thread-10/INFO]: [ItemEditor]正在检查版本
+[22:15:29] [Server thread/INFO]: [ItemEditor] ItemEditor插件正在启动完成，启动耗时:50ms
+[22:15:29] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v2.1.7
+[22:15:29] [Thread-10/INFO]: [Yum] [Yum 网络管理] 插件 ItemEditor 尝试访问网络 请注意服务器网络安全!
+[22:15:29] [Thread-10/INFO]: [Yum] [Yum 网络管理] 地址: http://chenji158.oschina.io/itemeditor/ItemEditor.yml
+[22:15:29] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[22:15:29] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[22:15:29] [Server thread/INFO]: [LoginSecurity] Connection to database....
+[22:15:29] [Server thread/ERROR]: [com.avaje.ebean.config.PropertyMapLoader] ebean.properties not found
+[22:15:29] [Server thread/INFO]: [com.avaje.ebeaninternal.server.lib.sql.DataSourcePool] DataSourcePool [LoginSecurityDB] autoCommit[false] transIsolation[SERIALIZABLE] min[2] max[20]
+[22:15:29] [Server thread/INFO]: [com.avaje.ebeaninternal.server.subclass.SubClassManager] SubClassFactory parent ClassLoader [org.bukkit.plugin.java.PluginClassLoader]
+[22:15:30] [Server thread/INFO]: [com.avaje.ebeaninternal.server.deploy.BeanDescriptorManager] Explicit Identity on com.lenis0012.bukkit.loginsecurity.storage.Migration but not supported by DB Platform - ignored
+[22:15:30] [Server thread/INFO]: [com.avaje.ebeaninternal.server.deploy.BeanDescriptorManager] Explicit Identity on com.lenis0012.bukkit.loginsecurity.storage.PlayerProfile but not supported by DB Platform - ignored
+[22:15:30] [Server thread/INFO]: [com.avaje.ebeaninternal.server.deploy.BeanDescriptorManager] Explicit Identity on com.lenis0012.bukkit.loginsecurity.storage.ActionEntry but not supported by DB Platform - ignored
+[22:15:30] [Server thread/INFO]: [com.avaje.ebeaninternal.server.deploy.BeanDescriptorManager] Explicit Identity on com.lenis0012.bukkit.loginsecurity.storage.PlayerInventory but not supported by DB Platform - ignored
+[22:15:30] [Server thread/INFO]: [com.avaje.ebeaninternal.server.deploy.BeanDescriptorManager] Explicit Identity on com.lenis0012.bukkit.loginsecurity.storage.PlayerLocation but not supported by DB Platform - ignored
+[22:15:30] [Thread-10/WARN]: org.bukkit.configuration.InvalidConfigurationException: Top level is not a Map.
+[22:15:30] [Thread-10/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:57)
+[22:15:30] [Thread-10/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:162)
+[22:15:30] [Thread-10/WARN]: 	at chenji.itemeditor.util.CheckUpdate.run(CheckUpdate.java:26)
+[22:15:30] [Thread-10/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[22:15:30] [Server thread/INFO]: [com.avaje.ebeaninternal.server.deploy.BeanDescriptorManager] Entities enhanced[0] subclassed[5]
+[22:15:30] [Server thread/INFO]: [LoginSecurity] Checking database version...
+[22:15:30] [Server thread/INFO]: [LoginSecurity] Applied 0 missing database upgrades.
+[22:15:30] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[22:15:30] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[22:15:30] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.2-SNAPSHOT
+[22:15:30] [Server thread/INFO]: GroupManager - INFO - World Found: world
+[22:15:30] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
+[22:15:30] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[22:15:30] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[22:15:30] [Server thread/INFO]: GroupManager version 2.2-SNAPSHOT is enabled!
+[22:15:30] [Server thread/INFO]: [Vault][Permission] GroupManager hooked.
+[22:15:30] [Server thread/INFO]: [Vault][Chat] GroupManager - Chat hooked.
+[22:15:30] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.8.2
+[22:15:30] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[22:15:30] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion list from extendedclip.com...
+[22:15:30] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5.0-SNAPSHOT-b725
+[22:15:31] [Server thread/INFO]: Could not set generator for world 'world_the_end': Plugin 'PlotSquared' does not exist
+[22:15:31] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
+[22:15:31] [Server thread/INFO]: [Multiverse-Core] Version 2.5.0-SNAPSHOT-b725 (API v20) Enabled - By Rigby, fernferret, lithium3141 and main--
+[22:15:31] [Server thread/INFO]: [AdvancedLogger] Enabling AdvancedLogger v2.0
+[22:15:31] [Server thread/INFO]: [Yum] [Yum 网络管理] 插件 AdvancedLogger 尝试在主线程访问网络 可能会导致服务器卡顿或无响应!
+[22:15:31] [Server thread/INFO]: [Yum] [Yum 网络管理] 已阻止插件 AdvancedLogger 访问网络!
+[22:15:31] [Server thread/INFO]: [Yum] [Yum 网络管理] 地址: http://herbystar.eu/api.php
+[22:15:31] [Server thread/WARN]: java.io.IOException: [Yum 网络防护] 已开启网络防护 并被联网规则拦截!
+[22:15:31] [Server thread/WARN]: 	at pw.yumc.Yum.managers.NetworkManager$YumProxySelector.select(NetworkManager.java:58)
+[22:15:31] [Server thread/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+[22:15:31] [Server thread/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+[22:15:31] [Server thread/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+[22:15:31] [Server thread/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(Unknown Source)
+[22:15:31] [Server thread/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream(Unknown Source)
+[22:15:31] [Server thread/WARN]: 	at de.Herbystar.AVL.Updater.Marketplace.update(Marketplace.java:32)
+[22:15:31] [Server thread/WARN]: 	at de.Herbystar.AVL.Main.onEnable(Main.java:38)
+[22:15:31] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264)
+[22:15:31] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:316)
+[22:15:31] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+[22:15:31] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugin(CraftServer.java:383)
+[22:15:31] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugins(CraftServer.java:332)
+[22:15:31] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.t(MinecraftServer.java:442)
+[22:15:31] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.l(MinecraftServer.java:403)
+[22:15:31] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.a(MinecraftServer.java:341)
+[22:15:31] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:292)
+[22:15:31] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:616)
+[22:15:31] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[22:15:31] [Server thread/INFO]: 
+[22:15:31] [Server thread/INFO]: ==========>[AVL Terms]<==========
+[22:15:31] [Server thread/INFO]: -> You are not permitted to claim this plugin as your own!
+[22:15:31] [Server thread/INFO]: -> You are not permitted to decompiling the plugin's sourcecode!
+[22:15:31] [Server thread/INFO]: -> You are not permitted to modify the code or the plugin and call it your own!
+[22:15:31] [Server thread/INFO]: -> You are not permitted to redistributing this plugin as your own!
+[22:15:31] [Server thread/INFO]: =======>[Terms Accepted!]<=======
+[22:15:31] [Server thread/INFO]: 
+[22:15:31] [Server thread/INFO]: [AdvancedLogger] Started Metrics successful!
+[22:15:31] [Server thread/INFO]: [AdvancedLogger] MySQL-Service disabled!
+[22:15:31] [Server thread/INFO]: [AdvancedLogger] Version: 2.0 by [Herbystar] enabled!
+[22:15:31] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v13.2
+[22:15:31] [Server thread/INFO]: [SkinsRestorer] Detected Minecraft v1_12_R1, using UniversalSkinFactory.
+[22:15:31] [Server thread/INFO]: [SkinsRestorer] Detected Multiverse-Core! Using it for dimensions.
+[22:15:31] [Server thread/INFO]: [MiaoBoard] Enabling MiaoBoard v2.4.0-git-31044286414e1154a5873e3682cad0168057a165
+[22:15:31] [Server thread/INFO]: [FixCaseSentiveBugs] Enabling FixCaseSentiveBugs v1.2-SNAPSHOT
+[22:15:31] [Server thread/INFO]: =============================
+[22:15:31] [Server thread/INFO]: [大小写绑定]插件开启
+[22:15:31] [Server thread/INFO]: [大小写绑定]作者: 星燚
+[22:15:31] [Server thread/INFO]: =============================
+[22:15:31] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[22:15:31] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[22:15:31] [Server thread/INFO]: (FAWE) Replacing commands is currently undefined behavior: { stencil,color }
+[22:15:32] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[22:15:32] [Server thread/INFO]: [Essentials] Enabling Essentials v2.0.1-b571
+[22:15:32] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[22:15:32] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
+[22:15:32] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[22:15:32] [Server thread/INFO]: [Essentials] Using locale zh
+[22:15:32] [Server thread/INFO]: [Essentials] Using Paper 1.12+ ServerListPingEvent methods
+[22:15:32] [Server thread/INFO]: [Essentials] Metrics disabled per bStats config.
+[22:15:32] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[22:15:32] [Server thread/INFO]: [Essentials] Using Vault based permissions (GroupManager)
+[22:15:32] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.2.6
+[22:15:32] [Server thread/INFO]: [HolographicDisplays] Found ProtocolLib, using new version.
+[22:15:32] [Server thread/INFO]: [HolographicDisplays] Enabled player relative placeholders with ProtocolLib.
+[22:15:32] [Server thread/INFO]: [QuickShop] Enabling QuickShop v0.9.34
+[22:15:32] [Thread-7/INFO]: [Yum] [Yum 网络管理] 插件 CoreProtect 尝试访问网络 请注意服务器网络安全!
+[22:15:32] [Thread-7/INFO]: [Yum] [Yum 网络管理] 地址: https://servermods.forgesvc.net/servermods/files?projectIds=37375
+[22:15:32] [Server thread/INFO]: [QuickShop] Found permission provider.
+[22:15:32] [Server thread/INFO]: [QuickShop] Starting item scheduler
+[22:15:32] [Server thread/INFO]: [QuickShop] Limit cfg found...
+[22:15:32] [Server thread/INFO]: [QuickShop] Limits.use: false
+[22:15:32] [Server thread/INFO]: [QuickShop] {quickshop=0, quickshop.vip=20}
+[22:15:32] [Server thread/INFO]: [QuickShop] Loading shops from database...
+[22:15:32] [Server thread/INFO]: [QuickShop] Loaded 0 shops.
+[22:15:32] [Server thread/INFO]: Cleaning purchase messages from database that are over a week old...
+[22:15:32] [Server thread/INFO]: [QuickShop] Registering Listeners
+[22:15:32] [Server thread/INFO]: [QuickShop] QuickShop loaded!
+[22:15:32] [Server thread/INFO]: [MoreFish] Enabling MoreFish v2.1.3
+[22:15:32] [Server thread/INFO]: [MoreFish] Loaded 27 fish successfully.
+[22:15:34] [Timer-0/INFO]: [Yum] [线程管理] 插件 MoreFish 在主线程进行网络操作 服务器处于停止状态...
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 java.net.DualStackPlainSocketImpl.connect0(未知:-2)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 java.net.DualStackPlainSocketImpl.socketConnect(未知:-1)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 java.net.AbstractPlainSocketImpl.doConnect(未知:-1)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 java.net.AbstractPlainSocketImpl.connectToAddress(未知:-1)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 java.net.AbstractPlainSocketImpl.connect(未知:-1)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 java.net.PlainSocketImpl.connect(未知:-1)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 java.net.SocksSocketImpl.connect(未知:-1)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 java.net.Socket.connect(未知:-1)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 java.net.Socket.connect(未知:-1)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 sun.net.NetworkClient.doConnect(未知:-1)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 sun.net.www.http.HttpClient.openServer(未知:-1)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 sun.net.www.http.HttpClient.openServer(未知:-1)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 sun.net.www.http.HttpClient.<init>(未知:-1)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 sun.net.www.http.HttpClient.New(未知:-1)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 sun.net.www.http.HttpClient.New(未知:-1)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(未知:-1)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 sun.net.www.protocol.http.HttpURLConnection.plainConnect0(未知:-1)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 sun.net.www.protocol.http.HttpURLConnection.plainConnect(未知:-1)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 sun.net.www.protocol.http.HttpURLConnection.connect(未知:-1)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(未知:-1)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 sun.net.www.protocol.http.HttpURLConnection.getOutputStream(未知:-1)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 me.elsiff.morefish.protocol.UpdateChecker.loadNewVersion(UpdateChecker.java:40)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 me.elsiff.morefish.protocol.UpdateChecker.<init>(UpdateChecker.java:18)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 me.elsiff.morefish.MoreFish.onEnable(MoreFish.java:54)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:316)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugin(CraftServer.java:383)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugins(CraftServer.java:332)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 net.minecraft.server.v1_12_R1.MinecraftServer.t(MinecraftServer.java:442)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 net.minecraft.server.v1_12_R1.MinecraftServer.l(MinecraftServer.java:403)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 net.minecraft.server.v1_12_R1.MinecraftServer.a(MinecraftServer.java:341)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:292)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:616)
+[22:15:34] [Timer-0/INFO]: [Yum]     位于 java.lang.Thread.run(未知:-1)
+[22:15:35] [Server thread/WARN]: java.lang.NullPointerException
+[22:15:35] [Server thread/WARN]: 	at me.elsiff.morefish.protocol.UpdateChecker.loadNewVersion(UpdateChecker.java:42)
+[22:15:35] [Server thread/WARN]: 	at me.elsiff.morefish.protocol.UpdateChecker.<init>(UpdateChecker.java:18)
+[22:15:35] [Server thread/WARN]: 	at me.elsiff.morefish.MoreFish.onEnable(MoreFish.java:54)
+[22:15:35] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264)
+[22:15:35] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:316)
+[22:15:35] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+[22:15:35] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugin(CraftServer.java:383)
+[22:15:35] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugins(CraftServer.java:332)
+[22:15:35] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.t(MinecraftServer.java:442)
+[22:15:35] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.l(MinecraftServer.java:403)
+[22:15:35] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.a(MinecraftServer.java:341)
+[22:15:35] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:292)
+[22:15:35] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:616)
+[22:15:35] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[22:15:35] [Server thread/INFO]: [MoreFish] Found Vault for economy support.
+[22:15:35] [Server thread/INFO]: [MoreFish] Found PlaceholderAPI for placeholders support.
+[22:15:35] [Server thread/INFO]: [MoreFish] Plugin has been enabled!
+[22:15:35] [Server thread/INFO]: [Residence] Enabling Residence v4.7.3.1
+[22:15:35] [Server thread/INFO]: [Residence] Can't find world with (plot) name
+[22:15:35] [Server thread/INFO]: [Residence] Found Vault using permissions plugin:GroupManager
+[22:15:35] [Thread-15/INFO]: [Yum] [Yum 网络管理] 插件 HolographicDisplays 尝试访问网络 请注意服务器网络安全!
+[22:15:35] [Thread-15/INFO]: [Yum] [Yum 网络管理] 地址: https://servermods.forgesvc.net/servermods/files?projectIds=75097
+[22:15:36] [Server thread/INFO]: [Residence] Scanning for economy systems...
+[22:15:36] [Server thread/INFO]: [Residence] Found Vault using economy system: Essentials Economy
+[22:15:36] [Server thread/INFO]: [Residence] Loading save data for world world...
+[22:15:36] [Server thread/INFO]: [Residence] Loaded world data. (12 ms)
+[22:15:36] [Server thread/INFO]: [Residence] Loading save data for world world_nether...
+[22:15:36] [Server thread/INFO]: [Residence] Loaded world_nether data. (10 ms)
+[22:15:36] [Server thread/INFO]: [Residence] Loading save data for world world_the_end...
+[22:15:36] [Server thread/INFO]: [Residence] Loaded world_the_end data. (3 ms)
+[22:15:36] [Server thread/INFO]: [Residence] Loading world data into memory...
+[22:15:36] [Server thread/INFO]: [Residence] Loaded world data into memory. (1 ms)
+[22:15:36] [Server thread/INFO]: [Residence] Loading world_nether data into memory...
+[22:15:36] [Server thread/INFO]: [Residence] Loaded world_nether data into memory. (2 ms)
+[22:15:36] [Server thread/INFO]: [Residence] Loading world_the_end data into memory...
+[22:15:36] [Server thread/INFO]: [Residence] Loaded world_the_end data into memory. (1 ms)
+[22:15:36] [Server thread/INFO]: [Residence] Found WorldEdit
+[22:15:36] [Server thread/INFO]: [Residence] Enabled! Version 4.7.3.1 by Zrips
+[22:15:36] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.0.1-b571
+[22:15:36] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.0.1-b571
+[22:15:36] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.0.1-b571
+[22:15:36] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com/.
+[22:15:36] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.0.1-b571
+[22:15:36] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.0.1-b571
+[22:15:36] [Server thread/INFO]: [LockettePro] Enabling LockettePro v2.8.1
+[22:15:36] [Server thread/INFO]: Done (9.064s)! For help, type "help" or "?"
+[22:15:36] [Server thread/INFO]: Timings Reset
+[22:15:36] [Server thread/INFO]: (FAWE) Plugin 'Residence' found. Using it now.
+[22:15:36] [Craft Scheduler Thread - 1/INFO]: [Yum] [Yum 网络管理] 插件 FastAsyncWorldEdit 尝试访问网络 请注意服务器网络安全!
+[22:15:36] [Craft Scheduler Thread - 1/INFO]: [Yum] [Yum 网络管理] 地址: https://empcraft.com/fawe/version.php?bukkit
+[22:15:36] [Server thread/INFO]: (FAWE) Detected class org.bukkit.event.block.BlockExplodeEvent
+[22:15:36] [Server thread/INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+[22:15:36] [Craft Scheduler Thread - 11/INFO]: [Yum] [Yum 网络管理] 插件 PlaceholderAPI 尝试访问网络 请注意服务器网络安全!
+[22:15:36] [Craft Scheduler Thread - 11/INFO]: [Yum] [Yum 网络管理] 地址: http://api.extendedclip.com/
+[22:15:37] [Craft Scheduler Thread - 17/WARN]: Failed to load player data for 1570b02a-0545-32bc-9864-1782548a6f22
+[22:15:37] [Craft Scheduler Thread - 17/WARN]: Failed to load player data for ead200cf-06ac-3b39-9c22-ef59b1c9ed7f
+[22:15:37] [Craft Scheduler Thread - 17/WARN]: Failed to load player data for 21fdd980-b6fd-3406-b29b-d78cee94d42d
+[22:15:37] [Craft Scheduler Thread - 21/INFO]: [Vault] Checking for Updates ... 
+[22:15:37] [Craft Scheduler Thread - 18/INFO]: [Yum] [Yum 网络管理] 插件 SkinsRestorer 尝试访问网络 请注意服务器网络安全!
+[22:15:37] [Craft Scheduler Thread - 18/INFO]: [Yum] [Yum 网络管理] 地址: http://api.spiget.org/v2/resources/2124?ut=1547475337039
+[22:15:37] [Craft Scheduler Thread - 17/WARN]: Failed to load player data for 2b789ce4-d309-3330-b632-a0c3e851c142
+[22:15:37] [Craft Scheduler Thread - 17/WARN]: Failed to load player data for bb245350-6e7f-3ce2-a964-14c8bb44fd71
+[22:15:37] [Craft Scheduler Thread - 17/WARN]: Failed to load player data for cb5cb0d8-c47f-33c6-9230-bb5e6f625a77
+[22:15:37] [Craft Scheduler Thread - 17/WARN]: Failed to load player data for 9ba71dc9-8050-3228-b63e-3bf88103b259
+[22:15:37] [Craft Scheduler Thread - 17/WARN]: Failed to load player data for 7ed22766-05c5-382b-a1f6-7c93eed861fa
+[22:15:37] [Craft Scheduler Thread - 17/WARN]: Failed to load player data for 13b4fa21-e3a7-3d37-8125-d8339686319b
+[22:15:37] [Craft Scheduler Thread - 17/WARN]: Failed to load player data for e0985755-3706-3438-827b-6ef641f9a8f1
+[22:15:37] [Craft Scheduler Thread - 17/WARN]: Failed to load player data for 8c4e5598-7527-3941-a717-1bdd2c60d5c1
+[22:15:37] [Craft Scheduler Thread - 17/WARN]: Failed to load player data for 08cebd03-4cce-31e5-8d12-845b4af87187
+[22:15:37] [Craft Scheduler Thread - 17/WARN]: Failed to load player data for e1f991e3-0d1e-3c52-9ce9-5030c778e29d
+[22:15:37] [Craft Scheduler Thread - 17/WARN]: Failed to load player data for 5bd42379-181c-3a54-b5b8-f50f7fe5fe6a
+[22:15:37] [Craft Scheduler Thread - 17/WARN]: Failed to load player data for 7b371a7f-eeb0-3f33-a289-79bb26d420a9
+[22:15:37] [Craft Scheduler Thread - 17/WARN]: Failed to load player data for afd5dc7f-483c-3fef-8152-0d1fac58877b
+[22:15:37] [Craft Scheduler Thread - 20/INFO]: [Residence] Failed to check for Residence update on spigot web page.
+[22:15:37] [Thread-7/INFO]: [Yum] [Yum 网络管理] 插件 CoreProtect 尝试访问网络 请注意服务器网络安全!
+[22:15:37] [Thread-7/INFO]: [Yum] [Yum 网络管理] 地址: http://stats.coreprotect.net/u/?data=25565:2.14.2
+[22:15:38] [Server thread/INFO]: [HolographicDisplays] Found a new version available: v2.3.2
+[22:15:38] [Server thread/INFO]: [HolographicDisplays] Download it on Bukkit Dev:
+[22:15:38] [Server thread/INFO]: [HolographicDisplays] dev.bukkit.org/bukkit-plugins/holographic-displays
+[22:15:39] [Craft Scheduler Thread - 5/INFO]: [Yum] [Yum 网络管理] 插件 ColorMOTD 尝试访问网络 请注意服务器网络安全!
+[22:15:39] [Craft Scheduler Thread - 5/INFO]: [Yum] [Yum 网络管理] 地址: http://vcheck.windit.net/mc_plugin/andylizi/colormotd/update.json
+[22:15:39] [Craft Scheduler Thread - 21/INFO]: [Yum] [Yum 网络管理] 插件 Vault 尝试访问网络 请注意服务器网络安全!
+[22:15:39] [Craft Scheduler Thread - 21/INFO]: [Yum] [Yum 网络管理] 地址: https://servermods.forgesvc.net/servermods/files?projectids=33184
+[22:15:39] [Craft Scheduler Thread - 21/WARN]: [Vault] Stable Version: 1.7.1 is out! You are still running version: 1.6.6
+[22:15:39] [Craft Scheduler Thread - 21/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[22:15:40] [Craft Scheduler Thread - 18/INFO]: [Yum] [Yum 网络管理] 插件 SkinsRestorer 尝试访问网络 请注意服务器网络安全!
+[22:15:40] [Craft Scheduler Thread - 18/INFO]: [Yum] [Yum 网络管理] 地址: http://api.spiget.org/v2/resources/2124/versions/latest?ut=1547475340359
+[22:15:40] [Thread-19/INFO]: [Yum] [Yum 网络管理] 插件 ProtocolLib 尝试访问网络 请注意服务器网络安全!
+[22:15:40] [Thread-19/INFO]: [Yum] [Yum 网络管理] 地址: https://servermods.forgesvc.net/servermods/files?projectIds=45564
+[22:15:40] [Craft Scheduler Thread - 11/INFO]: [PlaceholderAPI] 126 placeholder expansions are available on the cloud.
+[22:15:40] [Craft Scheduler Thread - 11/INFO]: [PlaceholderAPI] 0 expansions you use have updates.
+[22:15:40] [Thread-18/INFO]: [Yum] [Yum 网络管理] 插件 ProtocolLib 尝试访问网络 请注意服务器网络安全!
+[22:15:40] [Thread-18/INFO]: [Yum] [Yum 网络管理] 地址: https://servermods.forgesvc.net/servermods/files?projectIds=45564
+[22:15:40] [Craft Scheduler Thread - 6/INFO]: 仓库: Yum官方仓库 更新成功!
+[22:15:40] [Craft Scheduler Thread - 6/INFO]: 仓库: Yum代理仓库 更新成功!
+[22:15:40] [Craft Scheduler Thread - 6/INFO]: 仓库: Yum代理仓库 更新成功!
+[22:15:40] [Craft Scheduler Thread - 16/WARN]: [Fatal Error] pom.xml:6:3: 元素类型 "hr" 必须由匹配的结束标记 "</hr>" 终止。
+[22:15:40] [Craft Scheduler Thread - 6/INFO]: 仓库: Yum源仓库 更新成功!
+[22:15:40] [Craft Scheduler Thread - 6/INFO]: 仓库: Yum收费仓库 更新成功!
+[22:15:40] [Craft Scheduler Thread - 6/INFO]: 仓库: MengCraft仓库 更新成功!
+[22:15:40] [Server thread/INFO]: [ProtocolLib] The updater found an update, but because of the UpdateType being set to NO_DOWNLOAD, it wasn't downloaded.
+[22:15:40] [Server thread/INFO]: [ProtocolLib] The updater found an update, but because of the UpdateType being set to NO_DOWNLOAD, it wasn't downloaded.
+[22:15:40] [Server thread/INFO]: [ProtocolLib] The updater found an update, but because of the UpdateType being set to NO_DOWNLOAD, it wasn't downloaded.
+[22:15:40] [Server thread/INFO]: [ProtocolLib] The updater found an update, but because of the UpdateType being set to NO_DOWNLOAD, it wasn't downloaded.
+[22:15:40] [Craft Scheduler Thread - 6/INFO]: 仓库: SUM香港仓库 更新成功!
+[22:15:40] [Craft Scheduler Thread - 6/INFO]: 仓库: ProtocolLib仓库 更新成功!
+[22:15:40] [Craft Scheduler Thread - 6/INFO]: 源: Yum中心源 更新成功!
+[22:15:41] [Thread-21/INFO]: [Yum] [Yum 网络管理] 插件 ProtocolLib 尝试访问网络 请注意服务器网络安全!
+[22:15:41] [Thread-21/INFO]: [Yum] [Yum 网络管理] 地址: https://servermods.forgesvc.net/servermods/files?projectIds=45564
+[22:15:41] [Thread-20/INFO]: [Yum] [Yum 网络管理] 插件 ProtocolLib 尝试访问网络 请注意服务器网络安全!
+[22:15:41] [Thread-20/INFO]: [Yum] [Yum 网络管理] 地址: https://servermods.forgesvc.net/servermods/files?projectIds=45564
+[22:16:27] [User Authenticator #1/INFO]: UUID of player NataliaTsunako is 184fefba-6a38-33e9-bbfa-eb5789fd2028
+[22:16:27] [Server thread/INFO]: [Yum] [Yum 网络管理] 插件 SkinsRestorer 尝试在主线程访问网络 可能会导致服务器卡顿或无响应!
+[22:16:27] [Server thread/INFO]: [Yum] [Yum 网络管理] 已阻止插件 SkinsRestorer 访问网络!
+[22:16:27] [Server thread/INFO]: [Yum] [Yum 网络管理] 地址: https://api.mojang.com/users/profiles/minecraft/nataliatsunako
+[22:16:27] [Server thread/INFO]: [SkinsRestorer] Switching to proxy to get skin property.
+[22:16:27] [Server thread/INFO]: [Yum] [Yum 网络管理] 插件 SkinsRestorer 尝试在主线程访问网络 可能会导致服务器卡顿或无响应!
+[22:16:27] [Server thread/INFO]: [Yum] [Yum 网络管理] 已阻止插件 SkinsRestorer 访问网络!
+[22:16:27] [Server thread/INFO]: [Yum] [Yum 网络管理] 地址: https://getmeproxy.com/api/v1.0/api.php?key=c84d1076312bcf1e875c94d4e20692f5&checked=1&s=5&list=text
+[22:16:27] [Server thread/WARN]: java.io.IOException: [Yum 网络防护] 已开启网络防护 并被联网规则拦截!
+[22:16:27] [Server thread/WARN]: 	at pw.yumc.Yum.managers.NetworkManager$YumProxySelector.select(NetworkManager.java:58)
+[22:16:27] [Server thread/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+[22:16:27] [Server thread/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+[22:16:27] [Server thread/WARN]: 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+[22:16:27] [Server thread/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[22:16:27] [Server thread/WARN]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[22:16:27] [Server thread/WARN]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+[22:16:27] [Server thread/WARN]: 	at skinsrestorer.shared.utils.ProxyManager.readURL(ProxyManager.java:52)
+[22:16:27] [Server thread/WARN]: 	at skinsrestorer.shared.utils.ProxyManager.updateProxies(ProxyManager.java:34)
+[22:16:27] [Server thread/WARN]: 	at skinsrestorer.shared.utils.ProxyManager.getList(ProxyManager.java:25)
+[22:16:27] [Server thread/WARN]: 	at skinsrestorer.shared.utils.MojangAPI.readURLProxy(MojangAPI.java:167)
+[22:16:27] [Server thread/WARN]: 	at skinsrestorer.shared.utils.MojangAPI.getUUIDProxy(MojangAPI.java:118)
+[22:16:27] [Server thread/WARN]: 	at skinsrestorer.shared.utils.MojangAPI.getUUID(MojangAPI.java:111)
+[22:16:27] [Server thread/WARN]: 	at skinsrestorer.shared.storage.SkinStorage.getOrCreateSkinForPlayer(SkinStorage.java:108)
+[22:16:27] [Server thread/WARN]: 	at skinsrestorer.bukkit.SkinsRestorer$4.onLogin(SkinsRestorer.java:234)
+[22:16:27] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.MethodHandleEventExecutor.execute(MethodHandleEventExecutor.java:35)
+[22:16:27] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78)
+[22:16:27] [Server thread/WARN]: 	at pw.yumc.Yum.inject.ListenerInjector.execute(ListenerInjector.java:88)
+[22:16:27] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[22:16:27] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:515)
+[22:16:27] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:500)
+[22:16:27] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.PlayerList.onPlayerJoin(PlayerList.java:370)
+[22:16:27] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.PlayerList.a(PlayerList.java:183)
+[22:16:27] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.LoginListener.b(LoginListener.java:175)
+[22:16:27] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.LoginListener.e(LoginListener.java:65)
+[22:16:27] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.NetworkManager.a(NetworkManager.java:254)
+[22:16:27] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.ServerConnection.c(ServerConnection.java:150)
+[22:16:27] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:940)
+[22:16:27] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:426)
+[22:16:27] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:767)
+[22:16:27] [Server thread/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:665)
+[22:16:27] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[22:16:27] [Server thread/INFO]: [Yum] [Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 68ms 平均耗时 68ms!
+[22:16:27] [Server thread/INFO]: NataliaTsunako[/127.0.0.1:6725] logged in with entity id 155 at ([world]267.0019922018254, 63.0, 277.24528917445133)
+[22:16:30] [Craft Scheduler Thread - 7/INFO]: [Residence] Failed to check for Residence update on spigot web page.
+[22:16:32] [Server thread/INFO]: [Yum] [Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 105ms 平均耗时 105ms!
+[22:16:32] [pool-5-thread-3/INFO]: [Yum] [Yum 网络管理] 插件 LoginSecurity 尝试访问网络 请注意服务器网络安全!
+[22:16:43] [Server thread/INFO]: NataliaTsunako issued server command: /mf reload
+[22:16:43] [Server thread/INFO]: [MoreFish] Loaded 27 fish successfully.
+[22:17:37] [Server thread/INFO]: NataliaTsunako issued server command: /stop
+[22:17:37] [Server thread/INFO]: [NataliaTsunako: Stopping the server]
+[22:17:37] [Server thread/INFO]: Stopping server
+[22:17:37] [Server thread/INFO]: [LockettePro] Disabling LockettePro v2.8.1
+[22:17:37] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.0.1-b571
+[22:17:37] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.0.1-b571
+[22:17:37] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP v2.0.1-b571
+[22:17:37] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.0.1-b571
+[22:17:37] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.0.1-b571
+[22:17:37] [Server thread/INFO]: [Residence] Disabling Residence v4.7.3.1
+[22:17:37] [Server thread/INFO]: [Residence] Disabled!
+[22:17:37] [Server thread/INFO]: [MoreFish] Disabling MoreFish v2.1.3
+[22:17:37] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder hook for placeholder: morefish
+[22:17:37] [Server thread/INFO]: [MoreFish] Plugin has been disabled!
+[22:17:37] [Server thread/INFO]: [GreatFireWall] Disabling GreatFireWall v5.0
+[22:17:37] [Server thread/INFO]: [QuickShop] Disabling QuickShop v0.9.34
+[22:17:37] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.2.6
+[22:17:37] [Server thread/INFO]: [ColorMOTD] Disabling ColorMOTD v1.5.3
+[22:17:37] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b571
+[22:17:37] [Server thread/INFO]: [Vault][Economy] Essentials Economy unhooked.
+[22:17:37] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.8-SNAPSHOT;cd4729f
+[22:17:37] [Server thread/INFO]: [Vault] Disabling Vault v1.6.6-b${env.TRAVIS_BUILD_NUMBER}
+[22:17:37] [Server thread/INFO]: [FixCaseSentiveBugs] Disabling FixCaseSentiveBugs v1.2-SNAPSHOT
+[22:17:37] [Server thread/INFO]: =============================
+[22:17:37] [Server thread/INFO]: [大小写绑定]插件关闭
+[22:17:37] [Server thread/INFO]: [大小写绑定]作者: 星燚
+[22:17:37] [Server thread/INFO]: =============================
+[22:17:37] [Server thread/INFO]: [MiaoBoard] Disabling MiaoBoard v2.4.0-git-31044286414e1154a5873e3682cad0168057a165
+[22:17:37] [Server thread/INFO]: [Yum] Disabling Yum v2.7.10-git-fcf06780f0196bfb77ed26d9c792cda10547bfb4
+[22:17:37] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v19.01.12-dc2d277-1245-22.0.7
+[22:17:37] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v13.2
+[22:17:37] [Server thread/INFO]: [AdvancedLogger] Disabling AdvancedLogger v2.0
+[22:17:37] [Server thread/INFO]: [AdvancedLogger] Version: 2.0 by [Herbystar] disabled!
+[22:17:37] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.3.0
+[22:17:37] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5.0-SNAPSHOT-b725
+[22:17:37] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.8.2
+[22:17:37] [Server thread/INFO]: [GroupManager] Disabling GroupManager v2.2-SNAPSHOT
+[22:17:37] [Server thread/INFO]: [SkinsRestorer] Proxy list is empty. Getting one.GroupManager - INFO - Scheduled Data Saving is disabled!
+[22:17:37] [Server thread/INFO]: GroupManager version 2.2-SNAPSHOT is disabled!
+[22:17:37] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v2.1.7
+[22:17:37] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[22:17:37] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[22:17:37] [Server thread/INFO]: [ItemEditor] Disabling ItemEditor v1.2
+[22:17:37] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.14.2
+[22:17:38] [Server thread/INFO]: [CoreProtect] 正在完成数据记录. 请稍候...
+[22:17:38] [Server thread/INFO]: [CoreProtect] 成功! 已关闭恢复服务器.
+[22:17:38] [Server thread/INFO]: Saving players
+[22:17:38] [Server thread/INFO]: NataliaTsunako lost connection: Server closed
+[22:17:38] [Server thread/INFO]: NataliaTsunako left the game
+[22:17:38] [Server thread/INFO]: Saving worlds
+[22:17:38] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[22:17:39] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
+[22:17:39] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end

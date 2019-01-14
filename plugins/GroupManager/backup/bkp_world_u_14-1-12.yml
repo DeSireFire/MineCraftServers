@@ -1,0 +1,6 @@
+users:
+  ChangeMePlease:
+    group: Default
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms

@@ -1,0 +1,12 @@
+# ******************************************* #
+#          GreatFireWall by andylizi          #
+# http://www.mcbbs.net/thread-518280-1-1.html #
+# ******************************************* #
+
+pingPacketIn10SecPerIP: 20
+joinRequestIn10SecPerIP: 5
+banTimeOnOverclockingPing: 20
+banTimeOnOverclockingJoin: 30
+warningConsole: true
+warningOPs: true
+whitelist: []

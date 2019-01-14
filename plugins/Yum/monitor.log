@@ -1,0 +1,35 @@
+2018-1-15 14:19:30[Yum 能耗监控] 注意! 插件 Yum 处理 PluginNetworkEvent 事件 耗时 2819ms 平均耗时 59ms!
+2019-1-12 22:52:35[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 83ms 平均耗时 83ms!
+2019-1-12 22:52:36[Yum 能耗监控] 注意! 插件 Residence 处理 EntityChangeBlockEvent 事件 耗时 38ms 平均耗时 38ms!
+2019-1-12 23:32:54[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 94ms 平均耗时 94ms!
+2019-1-12 23:32:54[Yum 能耗监控] 注意! 插件 LoginSecurity 处理 PlayerJoinEvent 事件 耗时 32ms 平均耗时 32ms!
+2019-1-12 23:32:55[Yum 能耗监控] 注意! 插件 PlotSquared 处理 BlockPhysicsEvent 事件 耗时 21ms 平均耗时 21ms!
+2019-1-12 23:32:59[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 134ms 平均耗时 134ms!
+2019-1-12 23:34:09[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 77ms 平均耗时 85ms!
+2019-1-12 23:37:40[Yum 能耗监控] 注意! 插件 LockettePro 处理 StructureGrowEvent 事件 耗时 31ms 平均耗时 31ms!
+2019-1-12 23:49:14[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 74ms 平均耗时 74ms!
+2019-1-12 23:49:20[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 102ms 平均耗时 102ms!
+2019-1-13 2:20:20[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 63ms 平均耗时 63ms!
+2019-1-13 2:20:21[Yum 能耗监控] 注意! 插件 WorldEdit 处理 PlayerGameModeChangeEvent 事件 耗时 130ms 平均耗时 130ms!
+2019-1-13 2:20:27[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 98ms 平均耗时 98ms!
+2019-1-14 0:48:06[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 74ms 平均耗时 74ms!
+2019-1-14 0:48:06[Yum 能耗监控] 注意! 插件 WorldEdit 处理 PlayerGameModeChangeEvent 事件 耗时 146ms 平均耗时 146ms!
+2019-1-14 0:48:13[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 96ms 平均耗时 96ms!
+2019-1-14 0:56:49[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 49ms 平均耗时 49ms!
+2019-1-14 0:56:49[Yum 能耗监控] 注意! 插件 CoreProtect 处理 PlayerJoinEvent 事件 耗时 63ms 平均耗时 63ms!
+2019-1-14 0:56:49[Yum 能耗监控] 注意! 插件 WorldEdit 处理 PlayerGameModeChangeEvent 事件 耗时 119ms 平均耗时 119ms!
+2019-1-14 0:56:54[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 95ms 平均耗时 95ms!
+2019-1-14 0:58:27[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 95ms 平均耗时 95ms!
+2019-1-14 0:58:27[Yum 能耗监控] 注意! 插件 Essentials 处理 PlayerTeleportEvent 事件 耗时 28ms 平均耗时 28ms!
+2019-1-14 0:58:32[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 93ms 平均耗时 93ms!
+2019-1-14 1:00:40[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 102ms 平均耗时 102ms!
+2019-1-14 1:00:44[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 100ms 平均耗时 100ms!
+2019-1-14 1:06:29[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 46ms 平均耗时 46ms!
+2019-1-14 1:06:35[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 97ms 平均耗时 97ms!
+2019-1-14 1:13:53[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 MoreFish 插件 mf Reload 命令 耗时 92ms 平均耗时 22ms!
+2019-1-14 1:16:33[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 MoreFish 插件 mf Reload 命令 耗时 94ms 平均耗时 26ms!
+2019-1-14 1:20:22[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 MoreFish 插件 mf Reload 命令 耗时 102ms 平均耗时 29ms!
+2019-1-14 1:28:36[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 80ms 平均耗时 63ms!
+2019-1-14 1:28:47[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 87ms 平均耗时 92ms!
+2019-1-14 22:16:27[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 68ms 平均耗时 68ms!
+2019-1-14 22:16:32[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 105ms 平均耗时 105ms!
