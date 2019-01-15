@@ -17,7 +17,7 @@ no-fishing-allowed: "&b[MoreFish]&r 你不能钓鱼除非竞赛正在进行中."
 # %time% - 竞赛所剩下的时间 (e.g. 1分 23秒)
 contest-start: "&b[MoreFish]&r 钓鱼竞赛已经开始了!"
 contest-start-timer: "&b[MoreFish]&r 这竞赛会在 %time% 后结束."
-contest-stop: "&b[MoreFish]&r 钓鱼竞赛已经结束了!到沃德妈超市柜台牌子处出售你的战利品吧！"
+contest-stop: "&b[MoreFish]&r 钓鱼竞赛已经结束了!到沃德妈超市门前【fishshop】牌子处(或者输入“/mf[空格]shop”命令直接开启商店)出售你的战利品吧！"
 timer-boss-bar: "&b&l钓鱼竞赛 &r[还有 %time% 比赛结束]"
 time-format-minutes: "分"
 time-format-seconds: "秒"

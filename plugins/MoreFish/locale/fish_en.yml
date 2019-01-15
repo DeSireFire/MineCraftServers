@@ -26,30 +26,30 @@ rarity-list:
     default: true
     color: "reset"
     # 该品质鱼的贩卖价格
-    additional-price: 5.0
+    additional-price: 20.0
     no-broadcast: true
     no-display: true
   junk:
     display-name: "垃圾"
-    chance: 1
+    chance: 5.0
     color: "gray"
     additional-price: 1.0
     no-display: true
   rare:
     display-name: "稀有"
-    chance: 22
+    chance: 60.0
     color: "aqua"
-    additional-price: 25.0
+    additional-price: 80.0
   epic:
     display-name: "史诗"
-    chance: 6.5
+    chance: 40.5
     color: "light_purple"
     additional-price: 125.0
   legendary:
     display-name: "传说"
-    chance: 0.5
+    chance: 10.5
     color: "green"
-    additional-price: 625.0
+    additional-price: 650.0
     firework: true
 
 fish-list:
@@ -191,47 +191,47 @@ fish-list:
       length-min: 60
       length-max: 100
       icon:
-        id: "minecraft:fish"
+        id: "minecraft:salmon"
   epic:
     Clownfish:
-      display-name: "&e[&c传说品质&e]&9小丑鱼"
+      display-name: "&e[&c史诗品质&e]&9小丑鱼"
       length-min: 10
       length-max: 18
       icon:
-        id: "minecraft:fish|2"
+        id: "minecraft:tropical_fish"
     Pufferfish:
-      display-name: "&e[&c传说品质&e]&9河豚"
+      display-name: "&e[&c史诗品质&e]&9河豚"
       length-min: 20
       length-max: 30
       icon:
-        id: "minecraft:fish|3"
+        id: "minecraft:pufferfish"
     SeaTurtle:
-      display-name: "&e[&c传说品质&e]&9海龟"
+      display-name: "&e[&c史诗品质&e]&9海龟"
       length-min: 90
       length-max: 130
       icon:
         id: "minecraft:fish"
     Salmon:
-      display-name: "&e[&c传说品质&e]&9鲑鱼"
+      display-name: "&e[&c史诗品质&e]&9鲑鱼"
       length-min: 100
       length-max: 130
       icon:
-        id: "minecraft:fish|1"
+        id: "minecraft:salmon"
     BlackDrum:
-      display-name: "&e[&c传说品质&e]&9多须石首鱼"
+      display-name: "&e[&c史诗品质&e]&9多须石首鱼"
       length-min: 100
       length-max: 180
       icon:
         id: "minecraft:fish"
     Tuna:
-      display-name: "&e[&c传说品质&e]&9鲔鱼"
+      display-name: "&e[&c史诗品质&e]&9鲔鱼"
       length-min: 130
       length-max: 180
       icon:
         id: "minecraft:fish"
   legendary:
     BlueShark:
-      display-name: "&e[&d史诗品质&e]&5蓝鲨"
+      display-name: "&e[&d传奇品质&e]&5蓝鲨"
       length-min: 160
       length-max: 240
       icon:
@@ -243,7 +243,7 @@ fish-list:
         commands:
         - "minecraft:effect @p minecraft:strength 120 1"
     PygmyWhale:
-      display-name: "&e[&d史诗品质&e]&5抹香鲸"
+      display-name: "&e[&d传奇品质&e]&5抹香鲸"
       length-min: 600
       length-max: 650
       icon:
