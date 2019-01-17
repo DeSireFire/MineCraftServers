@@ -26,30 +26,30 @@ rarity-list:
     default: true
     color: "reset"
     # 该品质鱼的贩卖价格
-    additional-price: 20.0
+    additional-price: 30.0
     no-broadcast: true
     no-display: true
   junk:
     display-name: "垃圾"
-    chance: 5.0
+    chance: 5
     color: "gray"
     additional-price: 1.0
     no-display: true
   rare:
     display-name: "稀有"
-    chance: 60.0
+    chance: 26
     color: "aqua"
-    additional-price: 80.0
+    additional-price: 128.0
   epic:
     display-name: "史诗"
-    chance: 40.5
+    chance: 12
     color: "light_purple"
-    additional-price: 125.0
+    additional-price: 328.0
   legendary:
     display-name: "传说"
-    chance: 10.5
+    chance: 7
     color: "green"
-    additional-price: 650.0
+    additional-price: 648.0
     firework: true
 
 fish-list:
@@ -131,29 +131,29 @@ fish-list:
       length-min: 16
       length-max: 16
       icon:
-        id: "minecraft:fishing_rod|30"
-      skip-item-format: true
+        id: "minecraft:fishing_rod"
+      skip-item-format: false
     SpongeBob:
       display-name: "&e[&8低劣品质&e]&f蟹堡王试验的失败品"
       length-min: 16
       length-max: 16
       icon:
         id: "minecraft:sponge"
-      skip-item-format: true
+      skip-item-format: false
     CatShit:
       display-name: "&e[&8低劣品质&e]&f泡发的猫屎"
       length-min: 16
       length-max: 16
       icon:
         id: "minecraft:fire_charge"
-      skip-item-format: true
+      skip-item-format: false
     louShit:
       display-name: "&e[&8低劣品质&e]&f撒发出致命恶臭的烂肉"
       length-min: 16
       length-max: 16
       icon:
         id: "minecraft:rotten_flesh"
-      skip-item-format: true
+      skip-item-format: false
     
   rare:
     Jellyfish:
@@ -170,7 +170,7 @@ fish-list:
       length-min: 30
       length-max: 50
       icon:
-        id: "minecraft:dye"
+        id: "minecraft:fish"
       commands:
       - "minecraft:effect @p minecraft:blindness 5 1"
       - "tellraw @p [\"\",{\"text\":\"[MoreFish]\",\"color\":\"aqua\"},{\"text\":\" 这乌贼喷你一脸墨汁!\",\"color\":\"none\"}]"
@@ -191,20 +191,20 @@ fish-list:
       length-min: 60
       length-max: 100
       icon:
-        id: "minecraft:salmon"
+        id: "minecraft:fish"
   epic:
     Clownfish:
       display-name: "&e[&c史诗品质&e]&9小丑鱼"
       length-min: 10
       length-max: 18
       icon:
-        id: "minecraft:tropical_fish"
+        id: "minecraft:fish"
     Pufferfish:
-      display-name: "&e[&c史诗品质&e]&9河豚"
+      display-name: "&e[&c史诗品质&e]&9变异的河豚"
       length-min: 20
       length-max: 30
       icon:
-        id: "minecraft:pufferfish"
+        id: "minecraft:fish"
     SeaTurtle:
       display-name: "&e[&c史诗品质&e]&9海龟"
       length-min: 90
@@ -216,7 +216,7 @@ fish-list:
       length-min: 100
       length-max: 130
       icon:
-        id: "minecraft:salmon"
+        id: "minecraft:fish"
     BlackDrum:
       display-name: "&e[&c史诗品质&e]&9多须石首鱼"
       length-min: 100
