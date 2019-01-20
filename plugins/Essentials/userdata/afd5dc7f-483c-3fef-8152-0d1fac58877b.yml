@@ -1,0 +1,22 @@
+lastAccountName: hiahia
+timestamps:
+  login: 1547882652925
+  logout: 1547883368194
+  lastteleport: 1547449253542
+ipAddress: 125.47.41.157
+lastlocation:
+  world: world
+  x: 228.33791322364956
+  y: 63.9375
+  z: 277.63719649439906
+  yaw: -120.28335
+  pitch: -3.0000033
+logoutlocation:
+  world: world
+  x: 237.14145787727745
+  y: 64.0
+  z: 306.38030767116203
+  yaw: 26.562166
+  pitch: 3.1500137
+money: '3238.40'
+afk: false

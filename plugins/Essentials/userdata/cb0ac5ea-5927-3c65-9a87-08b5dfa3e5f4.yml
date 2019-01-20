@@ -1,0 +1,21 @@
+lastAccountName: Mercury
+timestamps:
+  login: 1547981332864
+  logout: 1547958181579
+ipAddress: 223.90.115.7
+geolocation: China
+lastlocation:
+  world: world
+  x: 220.0
+  y: 64.0
+  z: 244.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: 181.69730130200827
+  y: 70.0
+  z: 472.3954028608738
+  yaw: -57.893555
+  pitch: 11.249981
+money: '3.75'

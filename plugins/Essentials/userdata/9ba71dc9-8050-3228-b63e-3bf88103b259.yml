@@ -1,0 +1,22 @@
+lastAccountName: Sodital
+timestamps:
+  login: 1547977119015
+  lastteleport: 1547977975320
+  logout: 1547978372735
+ipAddress: 116.77.73.255
+lastlocation:
+  world: world
+  x: 304.3157508660224
+  y: 84.0
+  z: 514.2651813003623
+  yaw: 182.85017
+  pitch: 90.0
+logoutlocation:
+  world: world
+  x: 221.09166439478452
+  y: 64.0
+  z: 248.57773769649916
+  yaw: 34.500473
+  pitch: -8.700024
+money: '8063.0'
+afk: false

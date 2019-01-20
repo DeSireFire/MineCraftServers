@@ -1,0 +1,79 @@
+arena-start: 游戏开始!
+arena-end: 游戏结束.
+arena-does-not-exist: 没有找到那个竞技场. 请使用&e/ma arenas&r查看可加入的竞技场列表.
+arena-end-global: 竞技场 &e%&r 的游戏已结束! 请使用 &e/ma j %&r 来加入新的一局游戏!
+arena-join-global: 竞技场 &e%&r 的游戏正在准备开始!请使用&e/ma j %&r 来加入!
+arena-lboard-not-found: 那个竞技场没有设置排行榜.
+arena-auto-start: 竞技场自动开始游戏还有 &c%&r 秒.
+arena-start-delay: 竞技场即将开始，请等待 &e%&r 秒.
+join-not-enabled: MobArena插件未启用.
+join-in-other-arena: 你已经加入了竞技场了! 请先退出.
+join-arena-not-enabled: 这个竞技场未开放.
+join-arena-not-setup: 这个竞技场尚未配置完成.
+join-arena-edit-mode: 这个竞技场还在编辑模式.
+join-arena-permission: 你没有加入这个竞技场的权限.
+join-fee-required: '你的钱不够. 加入竞技场的价格: &c%&r'
+join-fee-paid: '加入竞技场的价格: &c%&r'
+join-arena-is-running: 这个竞技场的游戏已经开始了.
+join-already-playing: 你正在游戏!
+join-arg-needed: 你必须指定一个竞技场.
+join-no-permission: 你被禁止加入任何竞技场的游戏.
+join-too-far: 你距离竞技场太远了.
+join-empty-inv: 你需要清空背包才能加入竞技场.
+join-player-limit-reached: 竞技场的人数已达上限.
+join-store-inv-fail: 保存背包失败. 请重试.
+join-existing-inv-restored: 你的背包物品已还原
+join-player-joined: 你加入了竞技场. 玩的开心!
+leave-not-playing: 你不在竞技场里面.
+leave-not-ready: 你还没有准备,请右键铁块进行准备.
+leave-player-left: 你离开了竞技场,感谢游戏!
+player-died: '&c%&r死了!'
+golem-died: 一个友方铁傀儡死亡了!
+spec-player-spectate: 开始旁观这场比赛!
+spec-from-arena: 开始旁观这场比赛!
+spec-not-running: 这个竞技场没有在运行.
+spec-empty-inv: 请先清空你的背包!
+spec-already-playing: 在竞技场内无法加入旁观者模式!
+not-ready-players: '未准备的玩家: &c%&r'
+force-start-running: 竞技场的游戏已经开始了.
+force-start-not-ready: 无法强制开始, 没有玩家准备.
+force-start-started: 强制开始游戏.
+force-end-empty: 没有人在竞技场中.
+force-end-ended: 强制竞技场游戏结束.
+force-end-idle: 你太慢了!
+rewards-give: 你的奖励已发放!
+lobby-drop-item: 你不能丢弃你的物品!
+lobby-player-ready: 你已经准备完成了!
+lobby-pick-class: 你需要先选择一个职业!
+lobby-class-full: 这个职业不能再选择了, 人数已满!
+lobby-not-enough-players: 玩家人数不足无法开始.至少需要&c%&r名玩家.
+lobby-right-click: 左键.而不是右键.
+lobby-class-picked: 你选择了&e%&r作为你的职业!
+lobby-class-random: 你会被随机选择一个职业.
+lobby-class-permission: 你没有使用这个职业的权限!
+lobby-class-price: 这个职业需要&c%&r (在开始游戏前支付).
+lobby-class-too-expensive: 你没有足够的钱使用这个职业(&c%&r)
+lobby-no-such-class: 没有名为&c%&r的职业.
+warp-to-arena: 禁止在竞技场内传送!
+warp-from-arena: 传送在竞技场内是禁止的!
+wave-default: 第 &b#%&r 波!
+wave-special: 第 &b#%&r 波! [特殊]
+wave-swarm: 第 &b#%&r 波! [大群]
+wave-supply: 第 &b#%&r 波! [补给]
+wave-upgrade: 第 &b#%&r 波! [升级]
+wave-boss: 第 &b#%&r 波! [BOSS]
+wave-boss-ability: 'BOSS使用了技能: &c%&r!'
+wave-boss-low-health: Boss被杀死了!
+wave-reward: '你已经获得了奖励: &e%&r'
+misc-list-players: '目前存活的玩家: &a%&r'
+misc-list-arenas: '可以加入的竞技场: %'
+misc-command-not-allowed: 你不能在竞技场内使用那个命令!
+misc-no-access: 你不能使用那个命令.
+misc-not-from-console: 你不能在控制台执行命令.
+misc-help: 想要插件命令列表,请使用&e/ma help&r
+misc-multiple-matches: 你是在说这个命令吗?
+misc-no-matches: 未找到该命令.请使用&e/ma help&r
+misc-ma-leave-reminder: 请使用&e/ma leave&r当你结束游戏的时候.
+misc-none: '&6<无>&r'
+wave-boss-killed: '&a%&r killed the boss!'
+wave-boss-reward-earned: 'You earned: &e%'

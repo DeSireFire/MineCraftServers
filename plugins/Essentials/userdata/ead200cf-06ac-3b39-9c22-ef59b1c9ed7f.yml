@@ -1,0 +1,30 @@
+lastAccountName: RichangP
+timestamps:
+  login: 1547914726855
+  lastteleport: 1547916257924
+  logout: 1547916405514
+ipAddress: 116.77.73.255
+lastlocation:
+  world: world
+  x: 233.5088436875448
+  y: 72.0
+  z: 135.59788540911828
+  yaw: -349.37708
+  pitch: 29.249996
+homes:
+  home:
+    world: world
+    x: 210.27217029925924
+    y: 95.0
+    z: 327.05112436540855
+    yaw: 114.15054
+    pitch: 3.4499283
+afk: false
+logoutlocation:
+  world: world
+  x: 216.13664554786794
+  y: 73.0
+  z: 293.5452557094873
+  yaw: 54.300045
+  pitch: 12.000002
+money: '95868.549999999997471'

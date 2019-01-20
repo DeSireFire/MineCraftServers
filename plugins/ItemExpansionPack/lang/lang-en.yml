@@ -1,0 +1,321 @@
+# Created by LK520, Translated by AndyYu
+# It might have grammar mistakes
+Setting:
+      Translator: '&fTranslator: AndyYu'
+      Lang: '&fYour language: §eEnglish(US)'
+Language:
+#吃掉毒苹果后输出的语句
+      PoisonAppleMsg: '§eOh my GOD!!! You ate a poisonous apple!'
+#吃掉香蕉后输出的语句
+      BananaMsg: '§aYou have been healed by the banana~'
+#吃掉奇异果后输出的语句
+      KiwiFruitMsg: '§bOh! You are shining!'
+#吃掉火龙果后输出的语句
+      DragonFruitMsg: '§cHow are you feeling? After eating the DragonFruit?'
+#吃掉葡萄后输出的语句
+      GrapeMsg: '§6You can get extra health after eating grape!'
+#吃掉草莓后输出的语句
+      StrawberryMsg: '§cDig! Dig! Dig faster!'
+#吃掉菠萝后输出的语句
+      PineappleMsg: 'It is said that you can lose weight after eating this.'
+#吃掉橘子后输出的语句
+      OrangeMsg: 'Too sour, huh?'
+#吃掉芒果输出的语句
+      MongoMsg: 'Oh, lucky Mango!'
+#吃掉神圣果实输出的语句
+      SuperMsg: 'WOW, fantastic effects!'
+#使用末影珍珠·影能输出的语句
+      EnderPMsg: 'Mmm...Damage Resistance!'
+#吃掉西瓜沙冰后输出的语句
+      MelonIceMsg: 'Brrrrrrr...too cooooold....'
+#吃掉苹果糖之后输出的语句
+      AppleSMsg: 'Your maxhealth will increase after eating this sugar!'
+#神圣光环效果触发输出的语句
+#变量%real_damage%为玩家造成的伤害，%added_damage%为额外追加的伤害
+      GuanghuanMsg: '&a&lHolyRing>>>&rThe damage you dealed: &6%real_damage% &c❤&fNormal Damage
+      （&6%added_damage%&f)&c❤&fBonus Damage）'
+#红色刀锋效果触发时输出的语句
+      RedSwordMsg: '&cRedEdge enabled, now you have Strength effect.'
+      RedSwordMsg2: '&cRedEdge activated! Critical damage!'
+#剧毒刀刃（包括二阶）效果触发时输出的语句
+      PosionSword: '&2Your enemy is in poison!'
+#凋零刀刃（包括二、三阶）效果触发时输出的语句
+      WitherSword: '&5Your enemy is under a curse by wither!'
+#元素刃·幽暗效果触发时输出的语句
+      YuansuA: 'Your enemy is blind now!'
+#元素刃·轻柔效果触发时输出的语句
+      YuansuB: 'Your enemy is in levitation!'
+#元素刃·追击效果触发时输出的语句
+      YuansuC: 'Your enemy is in slowness!'
+#寒冰之刃效果触发时输出的语句
+      IceSword: '&bYour enemy is frozen!'
+#经验果实吃下后输出的语句
+      ExpFriut: '&aYou gain more exp after eating ExpFruit!'
+#绿宝石弓技能发动提示的语句
+      EmeraldBow: '&6The skill &aFixing &6of Emerald Bow is activated! Your bow has been fixed!'
+#火鸟之翼技能发动时提示的语句
+      FireBirdWings: '&6The skill &aSpeed &6of PhoenixWings is activated! You have speed effect now!'
+#胡萝卜汁吃下后触发的语句
+      CarrotJuice: '&6Carrot Juice! My favorite!'
+#猪肉烩吃下后输出的语句
+      Pock: '&6The PorkSoup is yummy!'
+#羊肉汤锅吃下后输出的语句
+      Yangrou: '&6LambSoup! Im lovin it!'
+#麻辣牛肉吃下后输出的语句
+      Niurou: '&6Oh, it''s too hot!'
+#鱿鱼吃下后输出的语句
+      Marou: '&6Yummy!'
+#马肉吃下后输出的语句
+      Youyu: '&6Yummy!'
+#狼肉吃下后输出的语句
+      LangRou: '&6Om Nom...'
+#猫肉吃下后输出的语句
+      Maorou: '&6So Tasty...'
+#牛肉汤吃下后输出的语句
+      NiuTang: '&6I like the taste!'
+#鸡汤吃下后输出的语句
+      Jitang: '&6It''s good!'
+#鱼汤吃下后输出的语句
+      Yutang: '&6Yummy!'
+#吸血之刃触发输出的语句(%GetHealth%为吸取到的血量)
+      Xixue: '&4You stole %GetHealth% health from your enemy.'
+#狩猎之刃·亡灵收割经验时输出的语句（%Exp%为收割的经验值）
+      Shoulie: '&6You got %Exp% exp'
+      LightningDown: '§eLightning §cis in cooldown! Please wait a minute!'
+      FireDown: '§4Fireball §cis in cooldown! Please wait a minute!'
+      EnchantBall: '§6EnchantPearl §cis in cooldown! You cant use it!'
+      SwordCant: '§cThe sword doesnt have enough durability!'
+      NoAchievement: '§fNo Achievement.'
+      NoEnoughExp: '§cYou don''t have enough exp!'
+      NoEnoughSnowBall: '§cYou dont have enough snowball in your inventory or it''s not loaded!'
+      NoEnoughFireBall: '§cYou dont have enough fireball in your inventory or it''s not loaded!'
+      NoEnoughSkull: '§cYou dont have enough wither skull in your inventory or it''s not loaded!'
+      Force: '§bYou are frozen!'
+      TooHighHealth: '§cThe health of your enemy is too high! You lost all your hunger!'
+      NoEnoughFood: '§cYou are too hungry!'
+      TeleportReady: '§fTeleporting...'
+      SuccessTele: '§aTeleported successfully!'
+      FailedTele: '§cFailed! Please wait until your current teleporting conpleted!'
+      Respawn: '§fThe Totem is activated! Now respawning...'
+      RespawnSuccess: '§aRespawned successfully! A Totem has been cost!'
+      TooLowHealth: '§cYour health is too low to activate!'
+      NoPremission: '§4You dont have permission to do this.'
+      Title: '§e[IEP]'
+      Check: '§fChecking if there are new config available...'
+      ConfigCheck: 'The item config has changed §f"%changed%"§a options and now it''s up to date!'
+      OptionCheck: 'The general config has changed §f"%changed%"§a options and now it''s up to date!'
+      DropsCheck: 'The drops config has changed §f"%changed%"§a options and now it''s up to date!'
+      CheckError: '§cError occured while checking old config files.'
+      MythicMobsHook: '§fMythicMobs hooked!'
+      PlaceholderAPIHook: '§fPlaceholderAPI hooked!'
+      UnkonwVersion: '§cThis version of Minecraft is not supported by IEP.'
+      LoadingMenu: '§fLoading menu GUI...'
+      LoadingItems: '§fLoading all IEP items...'
+      LoadItem: '§f"%a%"§a items loaded successfully!'
+      LoadFinish: '§aPlugin enabled successfully §b(Took: %time% s)'
+      Disable: '§cPlugin is disabled.'
+      NoPremissionCmd: '§cYou dont have permission to execute this command!'
+      OnlyCanPlayer: '§cOnly players in game can execute this command!'
+      Reload: '§aAll configuration files reloaded successfully!'
+      ReloadSuccess: '§aPlugin reloaded successfully! Executer: §f'
+      CanRecipeItems: '§c§lCraftable Items'
+      SlimeInfo: '§fClick the item below to see how to craft it.'
+      SlimeDesc: '§4Items that havent been listed cant be crafted!'
+      CantRecipe: '§cThis item cant be crafted!'
+      RecipeList: '§c§lRecipe'
+      RecipeGuide: '§6§lRecipe Guide'
+      EneterRecipeGuide: '§a▶ §fClick to see the craft guide.'
+      Allitems: '§2§lItems'
+      itemsInfo: '§a▶ §fClick to see more info about these items.'
+      OutItems: '§2§lItems from IEP module'
+      OutInfo: '§a▶ §fClick to see more info about these items.'
+      OutClass: 'module'
+      Battle: '§c§lCombat †'
+      Magic: '§a§lMagic 卐'
+      Food: '§b§lFood ☀'
+      Others: '§d§lMiscellaneous ♦'
+      Brewing: '§6§lPotion ◑'
+      ClickToOpen: '§fClick to open'
+      NoPlugin: '§fNo module'
+      NoThis: '§cnone'
+      PreviewPage: '§a◀ Previous Page'
+      PreviewLore: '§bClick to previous page.'
+      NextPage: '§aNext Page ▶'
+      NextLore: '§bClick to next page.'
+      About: '§aInfo about ItemExpansionPack'
+      ItemList: '§6ItemExpansionPack List - '
+      Shift: 'It smells delicious!'
+      Jiaozi: 'It''s Chinese traditional food dumplings, yummy!'
+      Tangyuan: 'It''s Chinese traditional food sweet dumplings, so sweeeeeeet!'
+      Niangao: 'Oh, It''s Chinese traditional food rice cake! Im lovin it!'
+      AuthmeHook: 'AuthMe hooked!'
+      Tech: '§e◈ Tech Point: §f '
+      NoUseRedPack: '§7Available RedPack'
+      DamageUp: '§fDamage increase: §a'
+      HealthDown: '§f | §eAttention: §fYou are losing your health! Please calm down immediately!'
+      MaxHigh: '§c(MAX)'
+      ExitHigh: '§aOK...now you calm down.'
+      DamageAdd: '§fYou dealed 1§c❤ §fbonus damage! Current damage:§6'
+      DamageToZero: '§fThe base damage of sword has been removed.'
+      BowToDeath: '§4You died from using dangerous weapon!'
+      BowToDamage: '§4You hurt seriously from using dangerous weapon!'
+      ThirdDamage: 'You will deal 3x damage on this shooting! Please dont shoot again in 5 seconds!'
+      OtherDamage: '§6You dealed bonus damage on the enemy nearby!'
+      OpenRedPack: '§aYou opened this RedPack and got $§c%money%§a'
+      Moneyis: '§eMoney: §f '
+      GetRewardMoney: '§fYou got $§6%money% §f'
+      ErrorVault: '§cFail to hook with Vault, please check if you have installed Vault and another economy plugin.'
+      LoadAchievement: '§fAchievement loading...'
+      LoadErrorAchievement: '§fFail to load achievement!'
+      TypeError: '§cPlease input an vaild number!'
+      TypeTooHigh: '§cYou cant afford this!'
+      RightClickToOpen: '§7<Right click to open>'
+      MythicMobsEditError: '§c Error: §fError: §fThere is something wrong in your MythicMobsHook.yml, please check and correct it.'
+      MythicMobsLoad: '§eMythicMobs hook >> §aData loaded successfully!'
+      MythicMobsFile: '§eMythicMobs hook >>  §cData folder not found! Creating a new one...'
+      AchievementIEP: '§c Error: §fThere is something wrong in your achievement.yml, please check and correct it.'
+      AchievementItem: '§c Error: §fThere is something wrong in your achievement.yml, please check and correct it.'
+      NewAchievementGet: '§fNew achievement completed! you have got你§a '
+      ExpAchievement: ' §aexp§f and §b'
+      MoneyAchievement: ' §emoney§f.'
+      AchievementGetNew: '§fCompleted Achievements: '
+      AllAchievements: '§c§lAll Achievements '
+      HighestAchievement: '§6You have reached the max level of this achievement.'
+      ClickToPutAchievement: '§7< Click to put on this achievement >'
+      NextCase: '§a▶ §fNext stage: '
+      PotionWither: 'Wither'
+      PotionFastDig: 'Haste'
+      PotionLevitation: 'Levitation'
+      PotionConfusion: 'Nausea'
+      PotionDamageResistance: 'Resistance'
+      PotionBlindness: 'Blindness'
+      PotionHunger: 'Hunger'
+      PotionHealthBoost: 'Health Boost'
+      PotionAbsorption: 'Absorption'
+      PotionSaturation: 'Saturation'
+      PotionUnluck: 'Bad luck'
+      PotionGlowing: 'Glowing'
+      StartErrorCheck: '§f正在检查配置文件是否有误...'
+      SafeToLoad: '§f未发现配置文件有误。'
+      GetError: '§c[ItemExpansionPack : 错误] '
+      InConfig: '§f自定义掉落配置文件中的 §a'
+      IsError: ' §f项出现问题，它的数值不能设置为: §c'
+      OutOfIndex: '§c请注意：§f它的值只能设置为0 - 100之间！'
+      OnlyNumber: '§c请注意：§f它的值只能设置为数字！'
+      s: ' §f的§2'
+      InDropSetting: '§f自定义物品掉落设置§2 '
+List: 
+      onEnable: 
+      - '§f================ §d[ItemExpansionPack]§f ================'
+      - '§d¤ §fEnabling ItemExpansionPack...'
+      about: 
+      - '§fAuthor: LK520'
+      - '§Helper: KG/K85/Novice/754503921/AndyYu'
+      - '§fVersion: %Version%'
+      - '§fThank you for using ItemExpansionPack!'
+      - '§fGet more tutorials at:'
+      - '§n§bhttp://www.mcbbs.net/thread-718574-1-1.html'
+Skills: 
+      EatMoney: 
+      - '§e◆ LuckyMoney: §fYou will get extra money after eating.'
+      HarmSelf: 
+      - '§6۞ Heroin:  §fR-click the ground to activate it, your damage'
+      - '§fwill increase but you health will decrease continuously.'
+      - '§fR-click again to inactivate it, you will lose 1 TechPoint'
+      - '§fwhen in/activating.'
+      DamageAdd: 
+      - '§6۞ DamagePlus:  §fIn 20 seconds, everytime you kill an enemy,'
+      - '§fthe sword will lose 1 TechPoints and increase 1§c❤ §f damage, '
+      - '§fafter 20 seconds the damage will go back to normal.'
+      Pull: 
+      - '§6۞ Attraction:  §fAll the entities nearby will be pushed'
+      - '§fto you. Cooldown: 3 sec.'
+      Battery:
+      - '§6۞ Energy: §fPut HolyRing in your mainhand and this item'
+      - '§fin your offhand, then you can add TechPoints to'
+      - '§fthe HolyRing, the maximum is 5.'
+      Technology:
+      - '§6۞ TechRing: §fWhen this item is in offhand, you can'
+      - '§factivate skills with symbol §6۞§f , You must spend'
+      - '§fTechPoints to activate these skills.'
+      DangerousBow:
+      - '§6۞ Punishment:  §fYou will deal 3x damage when shooting,'
+      - '§fbut you must wait 5 sec. to shoot again, if you break'
+      - '§fthis rule, you will lose 80% of you max_health as a punishment.'
+      ThridDamage:
+      - '§6۞ Radiation: §fWhen attacking an enemy 3 times, all the'
+      - '§fentities nearby your enemy will get 50% damage.'
+      KillMoney:
+      - '§e◆ Robbing: §fYou can get extra money from killing.'
+      MobContract:
+      - '§a◆ Invoking: §fLose your health to summon mobs to help you!'
+      Respawn: 
+      - '§a◆ Respawn: §fWhen holding in offhand, it can save you'
+      - '§cwhen you are about to die.'
+      Teleport: 
+      - '§a◆ Teleport: §fYou will be teleported to the place'
+      - '§fyour arrow hit the ground, this will cost lots of durability.'
+      Addition:
+      - '§d◆ Power: §fWhen holding in offhand, it can increase 50% damage'
+      - '§cfor some special weapons.'
+      HealthContract:
+      - '§a◆ HealthExchange: §fExchange your health with your enemy''s'
+      - '§fYou will lose hunger after activating this.'
+      MostDamage:
+      - '§a◆ SnowShoot: §fWhen attacking, you have a chance to shoot'
+      - '§fa snowball at your enemy.'
+      Ice:
+      - '§a◆ Frozen: §fWhen attacking, you have a chance to freeze'
+      - '§fyour enemy, a frozen player cant move for a few seconds.'
+      LevelToEffect:
+      - '§a◆ Wither: §fYour enemy will gain Wither II for 10 sec.'
+      ChangeHeal:
+      - '§a◆ LifeHealing: §fWhen attacking, the health of your target'
+      - '§fwill increase, however yours will decrease. If your '
+      - '§ftarget is undead mob like zombie, its health will decrease.'
+      DamageBoth:
+      - '§a◆ Curse: §fWhen attacking, you enemy will have a'
+      - '§fchance to gain InstantDamage II, and you will gain'
+      - '§fInstant Damage I, too.'
+      UndeathExp: 
+      - '§a◆ Smite: §fWhen attacking the undead mobs, you will'
+      - '§fhave a chance to gain extra exp.'
+      DamageHeal:
+      - '§a◆ Vampire: §fWhen attacking, you can get extra health.'
+      Healself:
+      - '§a◆ Fixing: §fWhen shooting, it has a chance that the'
+      - '§fdurability will increase.'
+      Faster:
+      - '§d◆ Speed: §fWhen holding in mainhand, you will gain'
+      - '§fSpeed effect.'
+      SpeedBoost:
+      - '§a◆ Briskness: §fYou will have a chance to increase'
+      - '§fyour speed after shooting.'
+      HealthBoost:
+      - '§d◆ HealthBoost: §fYour max_health will increase.'
+      Brave:
+      - '§a◆ Strength: §fWhen attacking, you will have a chance to'
+      - '§fgain Strength effect.'
+      EffectOnSword:
+      - '§a◆ Potion: §fYour enemy will get potion effect occasionally.'
+      Lightning:
+      - '§a◆ Lightning: §fR-click a block nearby will summon lightning.'
+      Snowball:
+      - '§a◆ Snowball: §fR-click to shoot snowballs.'
+      Fireball:
+      - '§a◆ Fireball: §fR-click to shoot a fireball.'
+      - '§fIt has a chance to shoot a bigger one to make more damage.'
+      SuperDamage:
+      - '§a◆ CritDamage: §fWhen attacking, your attack will be critical'
+      - '§fand deal 1.6x damage'
+      EnchantBall:
+      - '§a◆ DragonBreath: §fL-click to shoot a dragon_fireball, and create'
+      - '§fpurple clouds (You can collect it with glass bottle)'
+      - '§a◆ GodBless: §fR-click to gain 2 of 5 effects below for 60 sec.'
+      - '§fResistance | HealthBoost | Absorption | Regeneration | Strength'
+      SowrdShootB:
+      - '§d◆ Blindness: §fBlindness for you enemy, night vision for you.'
+      - '§f(After activating you cant antivate other skills from the sword)'
+      SowrdShootC:
+      - '§a◆ Chase: §fR-click to rush up!'
+      - '§f(After activating you cant antivate other skills from the sword)'  

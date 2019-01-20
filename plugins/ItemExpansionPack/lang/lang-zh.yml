@@ -1,0 +1,323 @@
+Setting:
+      Translator: '&f翻译者: LK520'
+      Lang: '&f你选择的语言是：§e中文（中国大陆）'
+Language:
+#吃掉毒苹果后输出的语句
+      PoisonAppleMsg: '§e你居然吃了毒苹果，来感受一下快感吧~'
+#吃掉香蕉后输出的语句
+      BananaMsg: '§a你获得了香蕉的治疗~'
+#吃掉奇异果后输出的语句
+      KiwiFruitMsg: '§b你的身体正在散发光芒'
+#吃掉火龙果后输出的语句
+      DragonFruitMsg: '§c火龙果的强化不是一般般的哦~'
+#吃掉葡萄后输出的语句
+      GrapeMsg: '§6葡萄可以为你提供额外的生命！'
+#吃掉草莓后输出的语句
+      StrawberryMsg: '§c草莓会使你提高一定效率！'
+#吃掉菠萝后输出的语句
+      PineappleMsg: '是否感觉身轻如燕了呢？'
+#吃掉橘子后输出的语句
+      OrangeMsg: '这橘子，好吃吗？'
+#吃掉芒果输出的语句
+      MongoMsg: '你的幸运值正在不断上升'
+#吃掉神圣果实输出的语句
+      SuperMsg: '让这些效果助你一臂之力！'
+#使用末影珍珠·影能输出的语句
+      EnderPMsg: '你获得了短暂的抗性提升保护！'
+#吃掉西瓜沙冰后输出的语句
+      MelonIceMsg: '真爽啊，这西瓜沙冰，都不怕火的说'
+#吃掉苹果糖之后输出的语句
+      AppleSMsg: '苹果糖可以为你增加一定生命值上限'
+#神圣光环效果触发输出的语句
+#变量%real_damage%为玩家造成的伤害，%added_damage%为额外追加的伤害
+      GuanghuanMsg: '&a&l神圣光环>>>&r本次造成的伤害为：&6%real_damage% &c❤&f基础伤害
+      （&6%added_damage%&f)&c❤&f额外加成伤害）'
+#红色刀锋效果触发时输出的语句
+      RedSwordMsg: '&c红色刀锋效果触发，获得力量加成！'
+      RedSwordMsg2: '&c红色刀锋效果触发，造成暴击伤害！'
+#剧毒刀刃（包括二阶）效果触发时输出的语句
+      PosionSword: '&2毒素已经进入到敌人的心脏！'
+#凋零刀刃（包括二、三阶）效果触发时输出的语句
+      WitherSword: '&5敌人受到了凋零的诅咒！'
+#元素刃·幽暗效果触发时输出的语句
+      YuansuA: '敌人陷入了黑夜之中！'
+#元素刃·轻柔效果触发时输出的语句
+      YuansuB: '敌人轻飘飘的，感觉身体被掏空'
+#元素刃·追击效果触发时输出的语句
+      YuansuC: '敌人的速度被削弱，追击吧！'
+#寒冰之刃效果触发时输出的语句
+      IceSword: '&b敌人被冰冻了，暂时无法移动'
+#经验果实吃下后输出的语句
+      ExpFriut: '&a经验果实为你额外增加了经验'
+#绿宝石弓技能发动提示的语句
+      EmeraldBow: '&6绿宝石弓 &a自愈 &6效果发动，弓箭耐久度恢复！'
+#火鸟之翼技能发动时提示的语句
+      FireBirdWings: '&6火鸟之翼 &a敏捷 &6效果发动，获得速度强化！'
+#胡萝卜汁吃下后触发的语句
+      CarrotJuice: '&6胡萝卜汁就是好喝！'
+#猪肉烩吃下后输出的语句
+      Pock: '&6猪肉烩可真好吃啊！'
+#羊肉汤锅吃下后输出的语句
+      Yangrou: '&6真好吃啊！'
+#麻辣牛肉吃下后输出的语句
+      Niurou: '&6真好吃啊！'
+#鱿鱼吃下后输出的语句
+      Marou: '&6真好吃啊！'
+#马肉吃下后输出的语句
+      Youyu: '&6真好吃啊！'
+#狼肉吃下后输出的语句
+      LangRou: '&6真好吃啊！'
+#猫肉吃下后输出的语句
+      Maorou: '&6真好吃啊！'
+#牛肉汤吃下后输出的语句
+      NiuTang: '&6真好吃啊！'
+#鸡汤吃下后输出的语句
+      Jitang: '&6真好吃啊！'
+#鱼汤吃下后输出的语句
+      Yutang: '&6真好吃啊！'
+#吸血之刃触发输出的语句(%GetHealth%为吸取到的血量)
+      Xixue: '&4技能共吸取敌人血量 %GetHealth% 点'
+#狩猎之刃·亡灵收割经验时输出的语句（%Exp%为收割的经验值）
+      Shoulie: '&6本次收割经验值 %Exp% 点'
+      LightningDown: '§e雷电 §c法术还在冷却中，请过一会再使用！'
+      FireDown: '§4火球 §c法术还在冷却中，请过一会再使用！'
+      EnchantBall: '§6附魔珠 §c正在萃取精华，暂时还不能发动技能！'
+      SwordCant: '§c剑耐久不足'
+      NoAchievement: '§f无成就'
+      NoEnoughExp: '§c经验值不足！'
+      NoEnoughSnowBall: '§c背包内雪球数量不足，或未上弹！'
+      NoEnoughFireBall: '§c背包内火焰弹数量不足，或未上弹！'
+      NoEnoughSkull: '§c背包内凋零头数量不足或没上弹！'
+      Force: '§b你被冰冻了，请等待解冻！'
+      TooHighHealth: '§c对方生命值过高，契约失效，饥饿值全部丢失！'
+      NoEnoughFood: '§c饥饿值不足！'
+      TeleportReady: '§f传送即将开始...'
+      SuccessTele: '§a传送成功'
+      FailedTele: '§c传送请求失效，请等待当前传送完成！'
+      Respawn: '§f不死图腾效果发动，即将复活...'
+      RespawnSuccess: '§a复活成功，图腾已被消耗！'
+      TooLowHealth: '§c生命值过低，无法发动效果！'
+      NoPremission: '§4你没有权限打开这个！'
+      Title: '§e[物品扩展包]'
+      Check: '§f正在检查配置文件是否需要更新...'
+      ConfigCheck: '物品配置文件更新了 §f"%changed%"§a 个新选项.'
+      OptionCheck: '通用配置文件更新了 §f"%changed%"§a 个新选项.'
+      CheckError: '§c在检查旧Config文件时发生了错误.'
+      MythicMobsHook: '§fMythicMobs 插件已支持！'
+      PlaceholderAPIHook: '§fPlaceholderAPI 插件已支持！'
+      UnkonwVersion: '§c此游戏版本可能无法正常使用本插件！'
+      LoadingMenu: '§f正在载入菜单界面...'
+      LoadingItems: '§f正在载入所有物品...'
+      LoadItem: '载入了 §f"%a%"§a 个物品'
+      LoadFinish: '§a插件启动成功 §b(耗时：%time% s)'
+      Disable: '§c插件已关闭'
+      NoPremissionCmd: '§c你没有使用该命令的权限！'
+      OnlyCanPlayer: '§c只有玩家才能使用这个命令！'
+      Reload: '§a插件重载成功！'
+      ReloadSuccess: '§a插件配置重载成功！前台执行者：§f'
+      CanRecipeItems: '§c§l可合成物品'
+      SlimeInfo: '§f点击下方物品即可查看合成方法'
+      SlimeDesc: '§4没有列出的物品即为不可合成！'
+      CantRecipe: '§c此物品无法进行合成！'
+      RecipeList: '§c§l合成表'
+      RecipeGuide: '§6§l合成指南'
+      EneterRecipeGuide: '§a▶ §f点击进入，物品合成公式列表。'
+      Allitems: '§2§l物品图鉴'
+      itemsInfo: '§a▶ §f点击进入物品介绍列表，查看所有物品的详细信息。'
+      OutItems: '§2§l附属物品图鉴'
+      OutInfo: '§a▶ §f点击进入物品介绍列表，查看所有物品的详细信息。'
+      OutClass: '附属'
+      Battle: '§c§l战斗物品类 †'
+      Magic: '§a§l魔法物品类 卐'
+      Food: '§b§l食物类 ☀'
+      Others: '§d§l杂项类 ♦'
+      Brewing: '§6§l酿造类 ◑'
+      ClickToOpen: '§f点击打开'
+      NoPlugin: '§f此服务器没有添加任何附属内容！'
+      NoThis: '§c暂无'
+      PreviewPage: '§a◀ 上一页'
+      PreviewLore: '§b点击打开上一页'
+      NextPage: '§a下一页 ▶'
+      NextLore: '§b点击打开下一页'
+      About: '§a关于ItemExpansionPack信息'
+      ItemList: '§6ItemExpansionPack物品列表 - '
+      Shift: '浓浓的香味，弥漫在整个服务器！'
+      Jiaozi: '美味的饺子，好吃'
+      Tangyuan: '服主煮的饺子，难吃'
+      Niangao: '这年糕，甜到掉牙了'
+      AuthmeHook: 'AuthMe插件已支持'
+      Tech: '§e◈ 科技点数：§f '
+      NoUseRedPack: '§7未使用的红包'
+      DamageUp: '§f攻击力提升：§a'
+      HealthDown: '§f | §e注意：§f你的生命值正在逐渐损失，请尽快结束本次暴走！'
+      MaxHigh: '§c（最高）'
+      ExitHigh: '§a解除暴走模式，完成！'
+      DamageAdd: '§f剑的基础攻击得到了 1§c❤ §f的加成！当前伤害：§6'
+      DamageToZero: '§f剑的基础攻击加成已清零！'
+      BowToDeath: '§4在使用强大武器的时候，你付出了生命的代价！'
+      BowToDamage: '§4在使用强大武器的时候，你承受了前所未有的伤害！'
+      ThirdDamage: '你本次射击将造成3倍伤害，强烈建议5秒内不要再次射击！'
+      OtherDamage: '§6你对周围的敌人造成了额外伤害！'
+      OpenRedPack: '§a你打开了这个红包，领取了 §c%money%§a金币！'
+      Moneyis: '§e金额：§f '
+      GetRewardMoney: '§f你得到了 §6%money% §f金币！'
+      ErrorVault: '§c初始化Vault失败，请检查是否已经安装Vault插件和权限插件、经济插件，否则可能无法正常运行！'
+      LoadAchievement: '§f正在载入成就系统...'
+      LoadErrorAchievement: '§f成就系统载入出现错误！'
+      TypeError: '§c请输入正确的金钱数量！'
+      TypeTooHigh: '§c您输入的数额超过你的最大金币数量！'
+      RightClickToOpen: '§7<你可以右键打开这个红包>'
+      MythicMobsEditError: '§c 错误：§f你的 MythicMobsHook.yml 怪物的掉落内容编辑有误，请重新编辑！'
+      MythicMobsLoad: '§eMythicMobs支持 >> §a数据文件加载成功！'
+      MythicMobsFile: '§eIEP  MythicMobs支持 >>  §c没有找到插件数据文件夹，正在创建...'
+      AchievementIEP: '§c 错误：§f你的 achievement.yml IEP物品奖励内容编辑有误，请重新编辑！'
+      AchievementItem: '§c 错误：§f你的 achievement.yml 普通物品奖励内容编辑有误，请重新编辑！'
+      NewAchievementGet: '§f你完成了一项新的成就！ 你获得了§a '
+      ExpAchievement: ' §f点§a经验值§f奖励！与 §b'
+      MoneyAchievement: ' §f枚§e金币§f奖励。'
+      AchievementGetNew: '§f完成成就：'
+      AllAchievements: '§c§l成就总览'
+      HighestAchievement: '§6此成就已到达最高阶段！'
+      ClickToPutAchievement: '§7< 你可以点击来佩戴这个成就 >'
+      NextCase: '§a▶ §f下一个阶段：'
+      PotionWither: '凋零'
+      PotionFastDig: '急迫'
+      PotionLevitation: '漂浮'
+      PotionConfusion: '反胃'
+      PotionDamageResistance: '抗性提升'
+      PotionBlindness: '失明'
+      PotionHunger: '饥饿'
+      PotionHealthBoost: '生命提升'
+      PotionAbsorption: '伤害吸收'
+      PotionSaturation: '饱和'
+      PotionUnluck: '霉运'
+      PotionGlowing: '发光'
+      DropsCheck: '掉落配置文件更新了 §f"%changed%"§a 个新选项.'
+      StartErrorCheck: '§f正在检查配置文件是否有误...'
+      SafeToLoad: '§f未发现配置文件有误。'
+      GetError: '§c[ItemExpansionPack : 错误] '
+      InConfig: '§f自定义掉落配置文件中的 §a'
+      IsError: ' §f项出现问题，它的数值不能设置为: §c'
+      OutOfIndex: '§c请注意：§f它的值只能设置为0 - 100之间！'
+      OnlyNumber: '§c请注意：§f它的值只能设置为数字！'
+      s: ' §f的§2'
+      InDropSetting: '§f自定义物品掉落设置§2 '
+      AttackSpeed: '攻击速度'
+      AttackDamage: '攻击伤害'
+      InMainHand: '在主手时：'
+List: 
+      onEnable: 
+      - '§f================ §d[物品扩展包]§f ================'
+      - '§d¤ §fItemExpansionPack插件正在启动...'
+      about: 
+      - '§f作者：LK520'
+      - '§f协助：KG/K85/Novice/754503921/AndyYu'
+      - '§f插件版本：%Version%'
+      - '§f欢迎各位服主体验新物品'
+      - '§f插件发布帖'
+      - '§n§bhttp://www.mcbbs.net/thread-718574-1-1.html'
+Skills: 
+      EatMoney: 
+      - '§e◆ 大吉：§f每吃一个就会获得金币哦！'
+      HarmSelf: 
+      - '§6۞ 亡我： §f右键地面开启暴走模式，你的攻击力'
+      - '§f不断提升，同时，你的生命值会随时间不断减少，'
+      - '§f且减少量越来越大，再次右键即可关闭暴走模'
+      - '§f式，开关暴走模式都会消耗 1 科技点。'
+      DamageAdd: 
+      - '§6۞ 血弑： §f从你第一次击杀开始，20秒内，你'
+      - '§f每击杀一个敌人，这把剑就会提升 1§c❤ §f 的'
+      - '§f攻击伤害，但是请注意，你每一次伤害得到'
+      - '§f提升的同时，都会消耗§b 1 §f科技点数。在'
+      - '§f20秒结束时，剑的伤害会恢复到原来的数值。'
+      Pull: 
+      - '§6۞ 引力： §f让周围4格范围内所有实体获得'
+      - '§f一个指向你的空间向量，每次使用都会冷却'
+      - '§f3秒。'
+      Battery:
+      - '§6۞ 能源输入： §f将神圣光环·科技拿在主手，'
+      - '§f此物品装备在副手，即可为光环进行科技点'
+      - '§f充能，每次限5点。'
+      - '§a  (电池可堆叠使用)'
+      Technology:
+      - '§6۞ 科技光环： §f当此物品装备在副手时，你可以'
+      - '§f使用科技技能 (带有§6۞§f图标) ，但是请注意，'
+      - '§f使用科技技能会消耗此光环上的科技点数，当'
+      - '§f科技点数耗尽时，光环将失去效果。'
+      - '§c  (光环不能堆叠使用)'
+      DangerousBow:
+      - '§6۞ 荆棘： §f你射出的箭会造成3倍的伤害，如果'
+      - '§f本次射击与上一次射击间隔低于5秒，你将承'
+      - '§f受基于你最大生命值80%的伤害，但是你仍然'
+      - '§f可以造成3倍伤害！'
+      ThridDamage:
+      - '§6۞ 破刃： §f你每3次攻击，都会对敌人身边的生物'
+      - '§f造成基于本次伤害50%的伤害'
+      KillMoney:
+      - '§e◆ 财源：§f每一次击杀都会额外获得金币！'
+      MobContract:
+      - '§a◆ 生物等价：§f损失血量，召唤怪物协助作战！'
+      Respawn: 
+      - '§a◆ 重生：§f持在副手，在遇到致命伤害时，会复活玩家！'
+      - '§c(不可堆叠使用)'
+      Teleport: 
+      - '§a◆ 传送：§f消耗大量耐久度，传送到弓箭击中点！'
+      Addition:
+      - '§d◆ 力量光环：§f装备在副手时，为特殊武器提供50%伤害加成！'
+      HealthContract:
+      - '§a◆ 血族契约：§f攻击敌人时互换双方血量，消耗饥饿值！'
+      MostDamage:
+      - '§a◆ 无情：§f攻击有概率发射雪球拉开作战距离！'
+      Ice:
+      - '§a◆ 冰冻：§f攻击玩家，玩家有概率被冰冻，在冰冻状态'
+      - '§f下，玩家无法进行普通移动。'
+      LevelToEffect:
+      - '§a◆ 破败：§f攻击附带凋零II效果10秒，同时牺牲3级。'
+      ChangeHeal:
+      - '§a◆ 生命交换：§f攻击敌人会扣除自己的生命值，并'
+      - '§f给予敌人生命值，对亡灵族生物，扣除自己生命值的'
+      - '§f同时，也会对亡灵族造成瞬间伤害效果。'
+      DamageBoth:
+      - '§a◆ 反刺：§f攻击敌人有概率造成瞬间伤害II效果，但'
+      - '§f同时自己也会受到瞬间伤害I效果！'
+      UndeathExp: 
+      - '§a◆ 闪耀：§f攻击亡灵族生物有概率收割经验值。'
+      DamageHeal:
+      - '§a◆ 吸血：§f攻击敌人有概率吸血。'
+      Healself:
+      - '§a◆ 自愈：§f射出弓箭有概率不消耗耐久度'
+      - '§f并恢复一定耐久度。'
+      Faster:
+      - '§d◆ 迅猛：§f当弓箭持在主手时，会获得一定的'
+      - '§f移动速度提升。'
+      SpeedBoost:
+      - '§a◆ 敏捷：§f射出弓箭后有概率获得巨幅速度'
+      - '§f提升一段时间。'
+      HealthBoost:
+      - '§d◆ 充盈：§f生命值上限获得提升。'
+      Brave:
+      - '§a◆ 无畏：§f在攻击敌人时，有概率获得力量效果。'
+      EffectOnSword:
+      - '§a◆ 元素：§f在攻击敌人时，有概率为敌人附上药水效果。'
+      Lightning:
+      - '§a◆ 闪电：§f右键附近的方块，会召唤一道闪电劈向地面。'
+      Snowball:
+      - '§a◆ 雪球：§f右键会射击出连锁雪球，全部'
+      - '§f命中后造成多段击退。'
+      Fireball:
+      - '§a◆ 火焰弹：§f右键发射一枚烈焰弹，有概率发射出'
+      - '§f更大的烈焰弹，并造成强力破坏和伤害！'
+      SuperDamage:
+      - '§a◆ 暴击：§f在攻击敌人时，有概率触发暴击效果，造成'
+      - '§f1.6倍伤害。'
+      EnchantBall:
+      - '§a◆ 龙息：§f左键发射一枚龙息炸弹，并在命中位置'
+      - '§f生成持续的龙息药阵，可以进行采集。'
+      - '§a◆ 滋润：§f右键立即获得随机的2种增益效果60秒！'
+      - '§f抗性提升 | 生命提升 | 伤害吸收 | 生命恢复 | 力量'
+      SowrdShootB:
+      - '§d◆ 视野剥夺：§f成功致盲后会使自己获得相同时间的夜视效果。'
+      - '§f(使用后，无法再次触发其它元素刃的主动技能)'
+      SowrdShootC:
+      - '§a◆ 冷酷追击：§f右键冲刺一小段距离。'
+      - '§f(使用后，无法再次触发其它元素刃的主动技能)'  

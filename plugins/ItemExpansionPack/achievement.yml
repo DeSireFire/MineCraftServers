@@ -1,0 +1,112 @@
+Emerald: §a绿宝石锻造师
+Obsidain: §5黑曜石操纵者
+Element: §b元素使
+Witchcraft: §8巫术师
+A1:
+  Name: §a绿宝石锻造师 I
+  Amount: 10
+  Desc:
+  - §f制造绿宝石系列装备共10次
+  ExpReward: 1
+  MoneyReward: 100.0
+  ItemReward: []
+  IEPItemReward: []
+A2:
+  Name: §a绿宝石锻造师 II
+  Amount: 30
+  Desc:
+  - §f制造绿宝石系列装备共30次
+  ExpReward: 1
+  MoneyReward: 100.0
+  ItemReward: []
+  IEPItemReward: []
+A3:
+  Name: §a绿宝石锻造师 III
+  Amount: 100
+  Desc:
+  - §f制造绿宝石系列装备共100次
+  ExpReward: 1
+  MoneyReward: 100.0
+  ItemReward: []
+  IEPItemReward: []
+A4:
+  Name: §5黑曜石操纵者 I
+  Amount: 500
+  Desc:
+  - §f消耗黑曜石系列装备耐久共500点
+  ExpReward: 1
+  MoneyReward: 100.0
+  ItemReward: []
+  IEPItemReward: []
+A5:
+  Name: §5黑曜石操纵者 II
+  Amount: 3000
+  Desc:
+  - §f消耗黑曜石系列装备耐久共3000点
+  ExpReward: 1
+  MoneyReward: 100.0
+  ItemReward: []
+  IEPItemReward: []
+A6:
+  Name: §5黑曜石操纵者 III
+  Amount: 10000
+  Desc:
+  - §f消耗黑曜石系列装备耐久共10000点
+  ExpReward: 1
+  MoneyReward: 100.0
+  ItemReward: []
+  IEPItemReward: []
+A7:
+  Name: §b元素使 I
+  Amount: 500
+  Desc:
+  - §f成功发动元素刃技能共500次
+  ExpReward: 1
+  MoneyReward: 100.0
+  ItemReward: []
+  IEPItemReward: []
+A8:
+  Name: §b元素使 II
+  Amount: 2000
+  Desc:
+  - §f成功发动元素刃技能共2000次
+  ExpReward: 1
+  MoneyReward: 100.0
+  ItemReward: []
+  IEPItemReward: []
+A9:
+  Name: §b元素使 III
+  Amount: 5000
+  Desc:
+  - §f成功发动元素刃技能共5000次
+  ExpReward: 1
+  MoneyReward: 100.0
+  ItemReward: []
+  IEPItemReward: []
+A10:
+  Name: §8巫术师 I
+  Amount: 500
+  Desc:
+  - §f成功使用法杖500次
+  ExpReward: 1
+  MoneyReward: 100.0
+  ItemReward: []
+  IEPItemReward: []
+A11:
+  Name: §8巫术师 II
+  Amount: 2000
+  Desc:
+  - §f成功使用法杖2000次
+  ExpReward: 1
+  MoneyReward: 100.0
+  ItemReward: []
+  IEPItemReward: []
+A12:
+  Name: §8巫术师 III
+  Amount: 5000
+  Desc:
+  - §f成功使用法杖5000次
+  ExpReward: 1
+  MoneyReward: 100.0
+  ItemReward: []
+  IEPItemReward: []

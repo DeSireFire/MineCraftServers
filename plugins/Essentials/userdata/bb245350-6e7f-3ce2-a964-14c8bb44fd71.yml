@@ -1,0 +1,22 @@
+lastAccountName: zuxt
+timestamps:
+  login: 1547977192092
+  lastteleport: 1547823512370
+  logout: 1547978653177
+ipAddress: 115.58.248.56
+lastlocation:
+  world: world
+  x: 184.52376398878008
+  y: 20.0
+  z: 266.302148568015
+  yaw: 113.36487
+  pitch: 13.412191
+logoutlocation:
+  world: world
+  x: 152.42717435684253
+  y: 50.0625
+  z: 242.0440238155069
+  yaw: 69.73584
+  pitch: 36.978683
+money: '16580.45'
+afk: false

@@ -1,0 +1,21 @@
+lastAccountName: yuuka
+timestamps:
+  login: 1547558767728
+  logout: 1547560521919
+  lastteleport: 1547479141358
+ipAddress: 182.118.252.3
+lastlocation:
+  world: world
+  x: 738.0393590991398
+  y: 63.0
+  z: -223.9155997171358
+  yaw: 0.59977704
+  pitch: 14.549996
+logoutlocation:
+  world: world
+  x: 151.78964179154744
+  y: 53.5
+  z: 246.7065902147504
+  yaw: -337.01242
+  pitch: 2.5499272
+money: '20292.8499999999999'

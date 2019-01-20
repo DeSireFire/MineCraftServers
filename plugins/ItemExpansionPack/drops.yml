@@ -1,0 +1,396 @@
+Drop:
+   D1:
+       #自定义掉落的怪物ID（请在原帖查询）
+       DropMob: []
+       #自定义怪物掉落的概率
+       ChanceMob: 0
+       #自定义使用的物品ID杀死怪物才可掉落（NONE为任何物品）
+       ByWeapon: []
+       #使用某物杀死怪物不会掉落（不设置可留空）
+       DontByWeapon: []
+       #自定义破坏的方块类型掉落
+       DropBlock: 
+       - LEAVES
+       #方块掉落概率
+       ChanceBlock: 5.0
+       #自定义挖掘方块的工具才可以掉落（NONE为任何物品都可以）
+       ByTools: 
+       - NONE
+       #使用某物品挖掘方块不会掉落（不设置可留空）
+       DontByTools: 
+       - SHEARS
+   D2:
+       DropMob: []
+       ChanceMob: 0.0
+       ByWeapon: []
+       DontByWeapon: []
+       DropBlock: 
+       - LEAVES
+       ChanceBlock: 5.0
+       ByTools: 
+       - DIAMOND_SWORD
+       - GOLD_SWORD
+       - IRON_SWORD
+       - STONE_SWORD
+       - WOOD_SWORD
+       DontByTools: []
+   D3:
+       DropMob: []
+       ChanceMob: 0.0
+       ByWeapon: []
+       DontByWeapon: []
+       DropBlock: 
+       - STONE
+       ChanceBlock: 5.0
+       ByTools: 
+       - DIAMOND_PICKAXE
+       - IRON_PICKAXE
+       - GOLD_PICKAXE
+       - STONE_PICKAXE
+       - WOOD_PICKAXE
+       DontByTools: []
+   D4:
+       DropMob: 
+       - BLAZE
+       ChanceMob: 5.0
+       ByWeapon: 
+       - NONE
+       DontByWeapon: []
+       DropBlock: []
+       ChanceBlock: 0.0
+       ByTools: []
+       DontByTools: []
+   D5:
+       DropMob: []
+       ChanceMob: 0.0
+       ByWeapon: []
+       DontByWeapon: []
+       DropBlock: 
+       - VINE
+       ChanceBlock: 5.0
+       ByTools: 
+       - NONE
+       DontByTools: 
+       - SHEARS
+   D6:
+       DropMob: []
+       ChanceMob: 0.0
+       ByWeapon: []
+       DontByWeapon: []
+       DropBlock: 
+       - LOG_2
+       ChanceBlock: 5.0
+       ByTools: 
+       - DIAMOND_SPADE
+       - IRON_SPADE
+       - GOLD_SPADE
+       - STONE_SPADE
+       - WOOD_SPADE
+       DontByTools: []
+   D7:
+       DropMob: []
+       ChanceMob: 0.0
+       ByWeapon: []
+       DontByWeapon: []
+       DropBlock: 
+       - LOG
+       ChanceBlock: 5.0
+       ByTools: 
+       - DIAMOND_SPADE
+       - IRON_SPADE
+       - GOLD_SPADE
+       - STONE_SPADE
+       - WOOD_SPADE
+       DontByTools: []
+   D8:
+       DropMob: 
+       - BAT
+       ChanceMob: 5.0
+       ByWeapon: 
+       - NONE
+       DontByWeapon: []
+       DropBlock: []
+       ChanceBlock: 0.0
+       ByTools: []
+       DontByTools: []
+   D9:
+       DropMob: 
+       - 56
+       ChanceMob: 5.0
+       ByWeapon: 
+       - 1
+       DontByWeapon: []
+       DropBlock: []
+       ChanceBlock: 0.0
+       ByTools: []
+       DontByTools: []
+   D10:
+       DropMob: []
+       ChanceMob: 0.0
+       ByWeapon: []
+       DontByWeapon: []
+       DropBlock: 
+       - 129
+       ChanceBlock: 5.0
+       ByTools: 
+       - 257
+       - 270
+       - 285
+       - 278
+       - 274
+       DontByTools: []
+   D12:
+       DropMob: 
+       - MAGMA_CUBE
+       ChanceMob: 5.0
+       ByWeapon: 
+       - NONE
+       DontByWeapon: []
+       DropBlock: []
+       ChanceBlock: 0.0
+       ByTools: []
+       DontByTools: []
+   D37:
+       DropMob: 
+       - SQUID
+       ChanceMob: 5.0
+       ByWeapon: 
+       - NONE
+       DontByWeapon: []
+       DropBlock: []
+       ChanceBlock: 0.0
+       ByTools: []
+       DontByTools: []
+   D38:
+       DropMob: 
+       - HORSE
+       ChanceMob: 5.0
+       ByWeapon: 
+       - NONE
+       DontByWeapon: []
+       DropBlock: []
+       ChanceBlock: 0.0
+       ByTools: []
+       DontByTools: []
+   D39:
+       DropMob: 
+       - WOLF
+       ChanceMob: 5.0
+       ByWeapon: 
+       - NONE
+       DontByWeapon: []
+       DropBlock: []
+       ChanceBlock: 0.0
+       ByTools: []
+       DontByTools: []
+   D40:
+       DropMob: 
+       - OCELOT
+       ChanceMob: 5.0
+       ByWeapon: 
+       - NONE
+       DontByWeapon: []
+       DropBlock: []
+       ChanceBlock: 0.0
+       ByTools: []
+       DontByTools: []
+   D41:
+       DropMob: []
+       ChanceMob: 0.0
+       ByWeapon: []
+       DontByWeapon: []
+       DropBlock:  
+       - LEAVELS
+       - LEAVELS_2
+       ChanceBlock: 5.0
+       ByTools: 
+       - NONE
+       DontByTools: 
+       - SHEARS
+   D63:
+       DropMob: 
+       - ENDERMAN
+       ChanceMob: 5.0
+       ByWeapon: 
+       - NONE
+       DontByWeapon: []
+       DropBlock: []
+       ChanceBlock: 0.0
+       ByTools: []
+       DontByTools: []
+   D76:
+       DropMob: 
+       - SHULKER
+       ChanceMob: 5.0
+       ByWeapon: 
+       - NONE
+       DontByWeapon: []
+       DropBlock: []
+       ChanceBlock: 0.0
+       ByTools: []
+       DontByTools: []
+   D77:
+       DropMob: 
+       - SNOWMAN
+       ChanceMob: 5.0
+       ByWeapon: 
+       - NONE
+       DontByWeapon: []
+       DropBlock: []
+       ChanceBlock: 0.0
+       ByTools: []
+       DontByTools: []
+   D78:
+       DropMob: 
+       - PIG_ZOMBIE
+       ChanceMob: 5.0
+       ByWeapon: 
+       - NONE
+       DontByWeapon: []
+       DropBlock: []
+       ChanceBlock: 0.0
+       ByTools: []
+       DontByTools: []
+   D106:
+       DropMob: 
+       - ENDERMAN
+       ChanceMob: 5.0
+       ByWeapon: 
+       - NONE
+       DontByWeapon: []
+       DropBlock: []
+       ChanceBlock: 0.0
+       ByTools: []
+       DontByTools: []
+   D114:
+       DropMob: 
+       - WITCH
+       ChanceMob: 5.0
+       ByWeapon: 
+       - NONE
+       DontByWeapon: []
+       DropBlock: []
+       ChanceBlock: 0.0
+       ByTools: []
+       DontByTools: []
+   D115:
+       DropMob: 
+       - WITCH
+       ChanceMob: 5.0
+       ByWeapon: 
+       - NONE
+       DontByWeapon: []
+       DropBlock: []
+       ChanceBlock: 0.0
+       ByTools: []
+       DontByTools: []
+   D116:
+       DropMob: 
+       - WITCH
+       ChanceMob: 5.0
+       ByWeapon: 
+       - NONE
+       DontByWeapon: []
+       DropBlock: []
+       ChanceBlock: 0.0
+       ByTools: []
+       DontByTools: []
+   D117:
+       DropMob: 
+       - WITCH
+       ChanceMob: 5.0
+       ByWeapon: 
+       - NONE
+       DontByWeapon: []
+       DropBlock: []
+       ChanceBlock: 0.0
+       ByTools: []
+       DontByTools: []
+   D118:
+       DropMob: 
+       - WITCH
+       ChanceMob: 5.0
+       ByWeapon: 
+       - NONE
+       DontByWeapon: []
+       DropBlock: []
+       ChanceBlock: 0.0
+       ByTools: []
+       DontByTools: []
+   D119:
+       DropMob: 
+       - WITCH
+       ChanceMob: 5.0
+       ByWeapon: 
+       - NONE
+       DontByWeapon: []
+       DropBlock: []
+       ChanceBlock: 0.0
+       ByTools: []
+       DontByTools: []
+   D120:
+       DropMob: 
+       - WITCH
+       ChanceMob: 5.0
+       ByWeapon: 
+       - NONE
+       DontByWeapon: []
+       DropBlock: []
+       ChanceBlock: 0.0
+       ByTools: []
+       DontByTools: []
+   D121:
+       DropMob: 
+       - WITCH
+       ChanceMob: 5.0
+       ByWeapon: 
+       - NONE
+       DontByWeapon: []
+       DropBlock: []
+       ChanceBlock: 0.0
+       ByTools: []
+       DontByTools: []
+   D122:
+       DropMob: 
+       - WITCH
+       ChanceMob: 5.0
+       ByWeapon: 
+       - NONE
+       DontByWeapon: []
+       DropBlock: []
+       ChanceBlock: 0.0
+       ByTools: []
+       DontByTools: []
+   D123:
+       DropMob: 
+       - WITCH
+       ChanceMob: 5.0
+       ByWeapon: 
+       - NONE
+       DontByWeapon: []
+       DropBlock: []
+       ChanceBlock: 0.0
+       ByTools: []
+       DontByTools: []
+   D124:
+       DropMob: 
+       - WITCH
+       ChanceMob: 5.0
+       ByWeapon: 
+       - NONE
+       DontByWeapon: []
+       DropBlock: []
+       ChanceBlock: 0.0
+       ByTools: []
+       DontByTools: []
+   D125:
+       DropMob: 
+       - WITCH
+       ChanceMob: 5.0
+       ByWeapon: 
+       - NONE
+       DontByWeapon: []
+       DropBlock: []
+       ChanceBlock: 0.0
+       ByTools: []
+       DontByTools: []

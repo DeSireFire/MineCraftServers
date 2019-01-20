@@ -1,0 +1,69 @@
+#==============================+
+#         全局设置             |
+#==============================+
+Global:
+#是否开启配置文件错误自动检查（推荐新手服主开启此选项）
+    ErrorCheck: true
+#是否开启对PlaceholderAPI插件的支持（开启后，可使用所有PlaceholderAPI占位符）
+    PlaceholderAPI: false
+#是否在创造模式破坏方块和杀死怪物时不会掉落对应物品。
+    FixCreativeMod: false
+#是否在玩家使用精准采集镐挖掘方块时不掉落物品。
+    FixSilkTouch: true
+#是否使用ActionBar显示输出的文本内容，而不是发到聊天栏。
+    ActionBar: true
+#禁止使用本插件功能的世界
+    DisableWorlds: []
+#是否开启插件信息显示（开服时后台显示插件信息）
+    infoMessage: true
+#是否开启MythicMobs插件支持
+    MythicMobsHook: false
+#语言选择
+    Language: 'zh'
+#是否开启玩家成就聊天前缀
+    ChatAchievement: false
+    
+#==============================+
+#        资源包设置            |
+#==============================+
+Resource: 
+#是否开启材质包自动推送，开启后，当玩家进入服务器将会自动推送材质包
+#如果玩家拒绝或超过指定的时间未选择，将被强制踢出服务器！
+#需要先安装ProtocolLib插件
+    ResourceSend: true
+#如果玩家拒绝了接受材质包或是材质包下载失败，则踢出玩家
+    KickPlayer: true
+#如果玩家迟迟不选择是否接受材质包，则在指定时间后踢出玩家
+#以秒为单位
+    WaitTime: 10
+#玩家被踢出时的理由
+    Reason: '§f 未使用服务器材质包，自动踢出服务器！'
+#资源包下载URL，默认已给出，非必须情况下无需进行修改
+#备用URL地址：http://www.mcbbs.net/forum.php?mod=attachment&aid=MTE3MzQ0M3xlZDk2MmUwM3wxNTE4MDU4Nzk5fDE0NjYxMDB8NzE4NTc0 (下面的无法使用时再启用备用URL)
+    Url: 'http://lk520.coding.me/ItemExpansionPack/ResourcePack/ResourcePack_Of_Iep.zip'
+#是否要玩家登录后才能才推送材质包
+#需要Authme插件支持
+    Login: false
+#玩家进服后材质包推送延迟，秒为单位，如果要使用此项
+#请不要开启上面的登录推送选项
+    Delay: 1
+#==============================+
+#         其他设置             |
+#==============================+
+Other: 
+#烈焰法杖召唤的火球是否会破坏方块并产生火焰
+      FireballBoom: false
+#使用炎爆 X发射的火焰弹是否会破坏方块
+      FireballBoom2: false
+#是否开启腐肉烧制皮革（修改此选项需重启服务器后生效）
+      RottomToLeather: true
+#物品引导菜单名称
+      GuideGui: '§2§f物品引导 菜单'      
+#不死图腾设置
+      Totem:
+           world: 
+               Gamemode: 0
+           world_nether: 
+               Gamemode: 0
+           world_the_end:
+               Gamemode:  0

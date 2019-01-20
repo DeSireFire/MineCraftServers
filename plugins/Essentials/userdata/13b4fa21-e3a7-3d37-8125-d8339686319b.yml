@@ -1,0 +1,22 @@
+lastAccountName: Jerry
+timestamps:
+  login: 1547737423173
+  logout: 1547747523589
+  lastteleport: 1547746283712
+ipAddress: 116.238.53.152
+logoutlocation:
+  world: world
+  x: 112.23623700859883
+  y: 64.0
+  z: 356.69999998807907
+  yaw: -79.35031
+  pitch: 30.150036
+money: '39676.19999999999988'
+lastlocation:
+  world: world
+  x: 230.04021219431962
+  y: 65.0625
+  z: 258.9589632123132
+  yaw: -2.3993835
+  pitch: 10.499977
+afk: false

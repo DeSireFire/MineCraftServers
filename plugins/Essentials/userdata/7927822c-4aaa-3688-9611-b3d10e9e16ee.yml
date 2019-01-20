@@ -1,0 +1,30 @@
+lastAccountName: rbq
+timestamps:
+  login: 1547711694332
+  logout: 1547718960207
+  lastteleport: 1547718891943
+ipAddress: 42.49.80.225
+lastlocation:
+  world: world
+  x: 16.171780550753862
+  y: 57.0
+  z: 537.4179599593235
+  yaw: 272.72778
+  pitch: 28.968971
+logoutlocation:
+  world: world
+  x: 20.168709191501843
+  y: 80.0
+  z: 525.5511332896915
+  yaw: 253.16199
+  pitch: 20.11545
+homes:
+  home:
+    world: world
+    x: 20.63207210621652
+    y: 84.0
+    z: 531.5368953334388
+    yaw: -161.85028
+    pitch: 43.68973
+money: '29449.15'
+afk: false

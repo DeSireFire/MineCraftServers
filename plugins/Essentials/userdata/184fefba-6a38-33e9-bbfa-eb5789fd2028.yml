@@ -1,22 +1,23 @@
 geolocation: N/A
 lastAccountName: NataliaTsunako
 timestamps:
-  login: 1547475387671
-  logout: 1547400235001
-  lastteleport: 1547307708272
-ipAddress: 127.0.0.1
+  login: 1547974514054
+  logout: 1547974354512
+  lastteleport: 1547979685177
+ipAddress: 182.88.140.168
 lastlocation:
-  world: world_nether
-  x: 25.69999998807907
-  y: 68.0
-  z: 32.69999998807907
-  yaw: 170.7
-  pitch: -7.649999
+  world: world
+  x: 177.2723285096308
+  y: 9.0
+  z: 242.72589148689443
+  yaw: 319.32974
+  pitch: 28.834055
 logoutlocation:
   world: world
-  x: 267.0019922018254
-  y: 63.0
-  z: 277.24528917445133
-  yaw: 180.90198
-  pitch: 30.599962
-money: '20.0'
+  x: 303.31458677444607
+  y: 90.0
+  z: 493.6343921163748
+  yaw: 181.92888
+  pitch: 19.800047
+afk: true
+money: '9107.25'

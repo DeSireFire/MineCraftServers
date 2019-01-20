@@ -14,11 +14,11 @@ Groups:
            # The maximum number of physical areas a residence can have.
            MaxAreasPerResidence: 2
            # The maximum number of blocks a Residence can be, East to West (X).
-           MaxEastWest: 16
+           MaxEastWest: 256
            # (Optional) The minimum number of blocks a Residence can be, East to West (X).
            MinEastWest: 3
            # The maximum number of blocks a Residence can be, North to South (Z).
-           MaxNorthSouth: 16
+           MaxNorthSouth: 256
            # (Optional) The minimum number of blocks a Residence can be, North to South (Z).
            MinNorthSouth: 3
            # The maximum number of blocks a Residence can be, High to Low (Y).
@@ -36,11 +36,11 @@ Groups:
             # Set to 0 to disable subzones.
            SubzoneDepth: 3
            # (Optional) The maximum number of blocks a Residence Subzone can be, East to West (X).
-           SubzoneMaxEastWest: 16
+           SubzoneMaxEastWest: 256
            # (Optional) The minimum number of blocks a Residence Subzone can be, East to West (X).
            SubzoneMinEastWest: 3
            # (Optional) The maximum number of blocks a Residence Subzone can be, North to South (Z).
-           SubzoneMaxNorthSouth: 16
+           SubzoneMaxNorthSouth: 256
            # (Optional) The minimum number of blocks a Residence Subzone can be, North to South (Z).
            SubzoneMinNorthSouth: 3
            # (Optional) The maximum number of blocks a Residence Subzone can be, High to Low (Y).

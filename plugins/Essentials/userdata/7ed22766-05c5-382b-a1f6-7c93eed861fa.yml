@@ -1,0 +1,30 @@
+lastAccountName: AKO
+timestamps:
+  login: 1547974351826
+  logout: 1547977653872
+  lastteleport: 1547976835723
+ipAddress: 58.33.104.60
+logoutlocation:
+  world: world
+  x: 300.5359208546174
+  y: 84.0
+  z: 492.33558513263057
+  yaw: 121.59595
+  pitch: 17.699984
+afk: false
+lastlocation:
+  world: world
+  x: 221.8624718651805
+  y: 70.0625
+  z: 254.54398348946006
+  yaw: -181.94922
+  pitch: 39.45001
+money: '25054.0'
+homes:
+  home:
+    world: world
+    x: 303.6324359680942
+    y: 90.0
+    z: 494.8932805278309
+    yaw: 98.94006
+    pitch: 41.849953

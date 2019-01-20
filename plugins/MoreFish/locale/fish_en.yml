@@ -60,36 +60,72 @@ fish-list:
       length-max: 8
       icon:
         id: "minecraft:fish"
+        lore:
+        - "&7当你吃了它时"
+        - "&7你将会获得少量经验"
+      food-effects:
+        commands:
+        - "minecraft:xp 50 @p"
     Anchovy:
       display-name: "&e[&7普通品质&e]&f鳀鱼"
       length-min: 7
       length-max: 13
       icon:
         id: "minecraft:fish"
+        lore:
+        - "&7当你吃了它时"
+        - "&7你将会获得少量经验"
+      food-effects:
+        commands:
+        - "minecraft:xp 50 @p"
     Croaker:
       display-name: "&e[&7普通品质&e]&f黄花鱼"
       length-min: 12
       length-max: 15
       icon:
         id: "minecraft:fish"
+        lore:
+        - "&7当你吃了它时"
+        - "&7你将会获得少量经验"
+      food-effects:
+        commands:
+        - "minecraft:xp 50 @p"
     Crab:
       display-name: "&e[&7普通品质&e]&f螃蟹"
       length-min: 10
       length-max: 15
       icon:
         id: "minecraft:fish"
+        lore:
+        - "&7当你吃了它时"
+        - "&7你将会获得少量经验"
+      food-effects:
+        commands:
+        - "minecraft:xp 50 @p"
     Mackerel:
       display-name: "&e[&7普通品质&e]&f青花鱼"
       length-min: 15
       length-max: 30
       icon:
         id: "minecraft:fish"
+        lore:
+        - "&7当你吃了它时"
+        - "&7你将会获得少量经验"
+      food-effects:
+        commands:
+        - "minecraft:xp 50 @p"
     Herring:
       display-name: "&e[&7普通品质&e]&f鲱鱼"
       length-min: 20
       length-max: 30
       icon:
         id: "minecraft:fish"
+        lore:
+        - "&7当你吃了它时"
+        - "&7你将会获得少量经验"
+      food-effects:
+        commands:
+        - "minecraft:xp 50 @p"
   junk:
     Pie:
       display-name: "&e[&8低劣品质&e]&f派饼"
@@ -162,9 +198,14 @@ fish-list:
       length-max: 40
       icon:
         id: "minecraft:fish"
-      commands:
-      - "minecraft:effect @p minecraft:poison 3 1"
-      - "tellraw @p [\"\",{\"text\":\"[MoreFish]\",\"color\":\"aqua\"},{\"text\":\" 这水母让你感觉不是很好!\",\"color\":\"none\"}]"
+        lore:
+        - "&7当你吃了它时"
+        - "&7你将会获得少量经验"
+      food-effects:
+        commands:
+        - "minecraft:xp 100 @p"
+        - "minecraft:effect @p minecraft:poison 3 1"
+        - "tellraw @p [\"\",{\"text\":\"[MoreFish]\",\"color\":\"aqua\"},{\"text\":\" 这水母让你感觉不是很好!\",\"color\":\"none\"}]"
     Squid:
       display-name: "&e[&a稀有品质&e]&b乌贼"
       length-min: 30
@@ -180,18 +221,36 @@ fish-list:
       length-max: 75
       icon:
         id: "minecraft:fish"
+        lore:
+        - "&7当你吃了它时"
+        - "&7你将会获得少量经验"
+      food-effects:
+        commands:
+        - "minecraft:xp 100 @p"
     SeaBream:
       display-name: "&e[&a稀有品质&e]&b海鲷"
       length-min: 50
       length-max: 70
       icon:
         id: "minecraft:fish"
+        lore:
+        - "&7当你吃了它时"
+        - "&7你将会获得少量经验"
+      food-effects:
+        commands:
+        - "minecraft:xp 100 @p"
     SeaBass:
       display-name: "&e[&a稀有品质&e]&b黑鲈"
       length-min: 60
       length-max: 100
       icon:
         id: "minecraft:fish"
+        lore:
+        - "&7当你吃了它时"
+        - "&7你将会获得少量经验"
+      food-effects:
+        commands:
+        - "minecraft:xp 100 @p"
   epic:
     Clownfish:
       display-name: "&e[&c史诗品质&e]&9小丑鱼"
@@ -199,36 +258,76 @@ fish-list:
       length-max: 18
       icon:
         id: "minecraft:fish"
+        lore:
+        - "&7当你吃了它时"
+        - "&7你将会获得不少的经验"
+      food-effects:
+        commands:
+        - "minecraft:xp 200 @p"
     Pufferfish:
       display-name: "&e[&c史诗品质&e]&9变异的河豚"
       length-min: 20
       length-max: 30
       icon:
         id: "minecraft:fish"
+        lore:
+        - "&7当你吃了它时"
+        - "&7你将会获得不少的经验"
+        - "&7但是，吃河豚伴随着死亡的风险"
+      food-effects:
+        commands:
+        - "minecraft:xp 400 @p"
+        - "tellraw @p [\"\",{\"text\":\"[MoreFish]\",\"color\":\"aqua\"},{\"text\":\" 你因为野生河豚的美味而爽死了..\",\"color\":\"none\"}]"
+        - "minecraft:effect @p minecraft:Poison 120"
+        - "minecraft:effect @p minecraft:Nausea 120"
     SeaTurtle:
       display-name: "&e[&c史诗品质&e]&9海龟"
       length-min: 90
       length-max: 130
       icon:
         id: "minecraft:fish"
+        lore:
+        - "&7当你吃了它时"
+        - "&7你将会获得不少的经验"
+      food-effects:
+        commands:
+        - "minecraft:xp 200 @p"
     Salmon:
       display-name: "&e[&c史诗品质&e]&9鲑鱼"
       length-min: 100
       length-max: 130
       icon:
         id: "minecraft:fish"
+        lore:
+        - "&7当你吃了它时"
+        - "&7你将会获得不少的经验"
+      food-effects:
+        commands:
+        - "minecraft:xp 200 @p"
     BlackDrum:
       display-name: "&e[&c史诗品质&e]&9多须石首鱼"
       length-min: 100
       length-max: 180
       icon:
         id: "minecraft:fish"
+        lore:
+        - "&7当你吃了它时"
+        - "&7你将会获得不少的经验"
+      food-effects:
+        commands:
+        - "minecraft:xp 200 @p"
     Tuna:
       display-name: "&e[&c史诗品质&e]&9鲔鱼"
       length-min: 130
       length-max: 180
       icon:
         id: "minecraft:fish"
+        lore:
+        - "&7当你吃了它时"
+        - "&7你将会获得不少的经验"
+      food-effects:
+        commands:
+        - "minecraft:xp 200 @p"
   legendary:
     BlueShark:
       display-name: "&e[&d传奇品质&e]&5蓝鲨"

@@ -1,3 +1,545 @@
 Version: 1
-Seed: -7998012468065561645
-Residences: {}
+Seed: -9176133174876510426
+Residences:
+  '233':
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: 767.5
+      Pitch: 0.0
+      Y: 65.0
+      Z: -199.5
+      Yaw: 0.0
+    BlockSellPrice: 0.25
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        21fdd980-b6fd-3406-b29b-d78cee94d42d:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          vehicledestroy: true
+          leash: true
+      AreaFlags:
+        container: false
+        ignite: false
+        shear: false
+        firespread: false
+        use: false
+        destroy: false
+        pvp: false
+        animalkilling: false
+        hook: false
+        build: false
+        explode: false
+        vehicledestroy: false
+        tnt: false
+        leash: false
+        pistonprotection: true
+        tp: true
+        creeper: false
+      OwnerUUID: 21fdd980-b6fd-3406-b29b-d78cee94d42d
+      OwnerLastKnownName: yuuka
+    CreatedOn: 1547386251245
+    Areas:
+      main:
+        X1: 766
+        Y1: 63
+        Z1: -195
+        X2: 764
+        Y2: 61
+        Z2: -200
+  richang:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: 217.0
+      Pitch: 5.4
+      Y: 73.0
+      Z: 293.26
+      Yaw: -182.55
+    BlockSellPrice: 0.25
+    EnterMessage: 欢迎来到坟头枢纽~
+    Permissions:
+      PlayerFlags:
+        ead200cf-06ac-3b39-9c22-ef59b1c9ed7f:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          vehicledestroy: true
+          leash: true
+      AreaFlags:
+        container: true
+        bed: true
+        ignite: true
+        door: true
+        waterflow: true
+        egg: false
+        use: true
+        craft: true
+        decay: false
+        icemelt: true
+        lavaflow: true
+        healing: true
+        hook: false
+        mobexpdrop: false
+        explode: true
+        cake: true
+        snowtrail: false
+        vehicledestroy: false
+        flowinprotection: true
+        shoot: true
+        trample: false
+        animals: true
+        nmonsters: true
+        day: false
+        flow: true
+        wspeed2: false
+        chorustp: true
+        rain: false
+        mobitemdrop: false
+        witherdamage: false
+        grow: true
+        firespread: false
+        destroy: true
+        monsters: true
+        pvp: true
+        lever: true
+        pressure: true
+        brew: true
+        dryup: true
+        nomobs: true
+        feed: true
+        beacon: true
+        canimals: true
+        itemdrop: true
+        dragongrief: true
+        sanimals: true
+        witherspawn: true
+        diode: true
+        tnt: false
+        snowball: false
+        pistonprotection: true
+        glow: false
+        creeper: true
+        damage: false
+        anvil: true
+        riding: true
+        animalkilling: true
+        hotfloor: true
+        button: true
+        iceform: true
+        falldamage: true
+        cmonsters: true
+        witherdestruction: false
+        itempickup: true
+        place: true
+        subzone: true
+        fireball: true
+        coords: false
+        table: true
+        burn: true
+        move: true
+        shear: true
+        nanimals: true
+        piston: true
+        anvilbreak: false
+        spread: false
+        enderpearl: true
+        dye: true
+        trade: true
+        mobkilling: true
+        build: true
+        flowerpot: true
+        chat: true
+        fallinprotection: true
+        enchant: true
+        leash: true
+        tp: true
+      OwnerUUID: ead200cf-06ac-3b39-9c22-ef59b1c9ed7f
+      OwnerLastKnownName: RichangP
+    CreatedOn: 1547634243123
+    Areas:
+      main:
+        X1: 226
+        Y1: 89
+        Z1: 312
+        X2: 198
+        Y2: 58
+        Z2: 278
+  yuuka:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: 183.5
+      Pitch: 0.0
+      Y: 65.0
+      Z: 304.5
+      Yaw: 0.0
+    BlockSellPrice: 0.25
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        21fdd980-b6fd-3406-b29b-d78cee94d42d:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          vehicledestroy: true
+          leash: true
+      AreaFlags:
+        container: false
+        ignite: false
+        shear: false
+        firespread: false
+        use: false
+        destroy: false
+        pvp: false
+        animalkilling: false
+        hook: false
+        build: false
+        explode: false
+        vehicledestroy: false
+        tnt: false
+        leash: false
+        pistonprotection: true
+        tp: true
+        creeper: false
+      OwnerUUID: 21fdd980-b6fd-3406-b29b-d78cee94d42d
+      OwnerLastKnownName: yuuka
+    CreatedOn: 1547367277801
+    Areas:
+      main:
+        X1: 188
+        Y1: 68
+        Z1: 309
+        X2: 178
+        Y2: 57
+        Z2: 299
+  yuuka_1:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: 174.5
+      Pitch: 0.0
+      Y: 64.0
+      Z: 316.5
+      Yaw: 0.0
+    BlockSellPrice: 0.25
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        21fdd980-b6fd-3406-b29b-d78cee94d42d:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          vehicledestroy: true
+          leash: true
+      AreaFlags:
+        container: false
+        ignite: false
+        shear: false
+        firespread: false
+        use: false
+        destroy: false
+        pvp: false
+        animalkilling: false
+        hook: false
+        build: false
+        explode: false
+        vehicledestroy: false
+        tnt: false
+        leash: false
+        pistonprotection: true
+        tp: true
+        creeper: false
+      OwnerUUID: 21fdd980-b6fd-3406-b29b-d78cee94d42d
+      OwnerLastKnownName: yuuka
+    CreatedOn: 1547366404142
+    Areas:
+      main:
+        X1: 176
+        Y1: 66
+        Z1: 318
+        X2: 172
+        Y2: 62
+        Z2: 314
+  zuxt:
+    LeaveMessage: Now leaving %residence.
+    BlockSellPrice: 0.25
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        bb245350-6e7f-3ce2-a964-14c8bb44fd71:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          vehicledestroy: true
+          leash: true
+      AreaFlags:
+        container: false
+        bed: false
+        ignite: false
+        door: false
+        waterflow: false
+        egg: true
+        use: false
+        craft: false
+        decay: false
+        icemelt: true
+        lavaflow: true
+        healing: true
+        hook: false
+        mobexpdrop: false
+        explode: true
+        cake: false
+        snowtrail: true
+        vehicledestroy: false
+        flowinprotection: false
+        shoot: false
+        trample: true
+        animals: false
+        nmonsters: true
+        day: true
+        flow: true
+        wspeed2: true
+        chorustp: false
+        rain: true
+        grow: true
+        mobitemdrop: false
+        witherdamage: true
+        firespread: false
+        night: true
+        destroy: false
+        monsters: true
+        pvp: false
+        lever: false
+        pressure: true
+        brew: false
+        dryup: false
+        nomobs: true
+        feed: true
+        beacon: false
+        canimals: false
+        itemdrop: true
+        dragongrief: false
+        sanimals: true
+        diode: false
+        witherspawn: false
+        tnt: true
+        snowball: true
+        pistonprotection: false
+        glow: true
+        creeper: false
+        damage: false
+        note: true
+        shop: true
+        anvil: false
+        riding: true
+        sun: true
+        animalkilling: false
+        hotfloor: true
+        button: false
+        iceform: true
+        falldamage: true
+        cmonsters: false
+        witherdestruction: false
+        itempickup: true
+        place: true
+        subzone: true
+        coords: false
+        fireball: false
+        table: true
+        burn: false
+        move: true
+        shear: true
+        nanimals: true
+        piston: true
+        anvilbreak: false
+        spread: true
+        enderpearl: true
+        dye: true
+        trade: false
+        mobkilling: false
+        build: false
+        chat: false
+        flowerpot: true
+        enchant: true
+        fallinprotection: true
+        leash: false
+        tp: true
+        smonsters: true
+      OwnerUUID: bb245350-6e7f-3ce2-a964-14c8bb44fd71
+      OwnerLastKnownName: zuxt
+    CreatedOn: 1547550583550
+    Areas:
+      main:
+        X1: 168
+        Y1: 69
+        Z1: 245
+        X2: 160
+        Y2: 64
+        Z2: 232
+  沃德妈超市:
+    LeaveMessage: Hi~欢迎下次再来，沃德妈超市！
+    BlockSellPrice: 0.3
+    EnterMessage: Hi~欢迎光临，沃德妈超市！
+    Permissions:
+      PlayerFlags:
+        184fefba-6a38-33e9-bbfa-eb5789fd2028:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          vehicledestroy: true
+          leash: true
+      AreaFlags:
+        container: true
+        bed: false
+        ignite: false
+        door: true
+        egg: false
+        use: false
+        craft: true
+        decay: false
+        healing: true
+        hook: false
+        explode: false
+        cake: false
+        vehicledestroy: false
+        flowinprotection: false
+        animals: false
+        flow: false
+        chorustp: false
+        grow: false
+        firespread: false
+        destroy: false
+        pvp: false
+        brew: false
+        dryup: true
+        feed: true
+        beacon: false
+        canimals: false
+        dragongrief: true
+        diode: false
+        tnt: false
+        pistonprotection: true
+        glow: true
+        creeper: false
+        damage: false
+        anvil: false
+        animalkilling: true
+        hotfloor: false
+        button: true
+        iceform: true
+        falldamage: false
+        cmonsters: false
+        fireball: false
+        coords: false
+        burn: true
+        shear: false
+        anvilbreak: false
+        enderpearl: false
+        dye: false
+        build: false
+        flowerpot: false
+        chat: true
+        fallinprotection: true
+        enchant: false
+        leash: false
+        tp: true
+      OwnerUUID: 184fefba-6a38-33e9-bbfa-eb5789fd2028
+      OwnerLastKnownName: NataliaTsunako
+    CreatedOn: 1547363110319
+    Areas:
+      main:
+        X1: 243
+        Y1: 83
+        Z1: 274
+        X2: 215
+        Y2: 63
+        Z2: 245
+  预备用地:
+    LeaveMessage: Now leaving %residence.
+    BlockSellPrice: 0.3
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        184fefba-6a38-33e9-bbfa-eb5789fd2028:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          vehicledestroy: true
+          leash: true
+      AreaFlags:
+        container: false
+        ignite: false
+        shear: false
+        firespread: false
+        use: false
+        destroy: false
+        pvp: false
+        animalkilling: false
+        hook: false
+        build: false
+        explode: false
+        vehicledestroy: false
+        tnt: false
+        leash: false
+        pistonprotection: true
+        tp: true
+        creeper: false
+      OwnerUUID: 184fefba-6a38-33e9-bbfa-eb5789fd2028
+      OwnerLastKnownName: NataliaTsunako
+    CreatedOn: 1547545099464
+    Areas:
+      main:
+        X1: 209
+        Y1: 83
+        Z1: 274
+        X2: 170
+        Y2: 63
+        Z2: 234

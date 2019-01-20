@@ -1,0 +1,30 @@
+lastAccountName: ASUKA
+timestamps:
+  login: 1547712220268
+  lastteleport: 1547722651021
+  logout: 1547723768602
+ipAddress: 36.157.134.230
+lastlocation:
+  world: world
+  x: 1500.4270781176845
+  y: 70.0
+  z: -302.2233121771721
+  yaw: -162.49548
+  pitch: -6.434828E-4
+money: '22576.8999999999999898'
+homes:
+  home:
+    world: world
+    x: 1592.1274902384819
+    y: 87.0
+    z: -157.93928031436545
+    yaw: 17.485779
+    pitch: 20.699963
+logoutlocation:
+  world: world
+  x: 1590.6711810525228
+  y: 91.0
+  z: -151.05554707894518
+  yaw: 186.38748
+  pitch: 28.04957
+afk: false

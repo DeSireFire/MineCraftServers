@@ -9,27 +9,631 @@
 2019-1-12 23:37:40[Yum 能耗监控] 注意! 插件 LockettePro 处理 StructureGrowEvent 事件 耗时 31ms 平均耗时 31ms!
 2019-1-12 23:49:14[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 74ms 平均耗时 74ms!
 2019-1-12 23:49:20[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 102ms 平均耗时 102ms!
-2019-1-13 2:20:20[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 63ms 平均耗时 63ms!
-2019-1-13 2:20:21[Yum 能耗监控] 注意! 插件 WorldEdit 处理 PlayerGameModeChangeEvent 事件 耗时 130ms 平均耗时 130ms!
-2019-1-13 2:20:27[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 98ms 平均耗时 98ms!
-2019-1-14 0:48:06[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 74ms 平均耗时 74ms!
-2019-1-14 0:48:06[Yum 能耗监控] 注意! 插件 WorldEdit 处理 PlayerGameModeChangeEvent 事件 耗时 146ms 平均耗时 146ms!
-2019-1-14 0:48:13[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 96ms 平均耗时 96ms!
-2019-1-14 0:56:49[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 49ms 平均耗时 49ms!
-2019-1-14 0:56:49[Yum 能耗监控] 注意! 插件 CoreProtect 处理 PlayerJoinEvent 事件 耗时 63ms 平均耗时 63ms!
-2019-1-14 0:56:49[Yum 能耗监控] 注意! 插件 WorldEdit 处理 PlayerGameModeChangeEvent 事件 耗时 119ms 平均耗时 119ms!
-2019-1-14 0:56:54[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 95ms 平均耗时 95ms!
-2019-1-14 0:58:27[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 95ms 平均耗时 95ms!
-2019-1-14 0:58:27[Yum 能耗监控] 注意! 插件 Essentials 处理 PlayerTeleportEvent 事件 耗时 28ms 平均耗时 28ms!
-2019-1-14 0:58:32[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 93ms 平均耗时 93ms!
-2019-1-14 1:00:40[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 102ms 平均耗时 102ms!
-2019-1-14 1:00:44[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 100ms 平均耗时 100ms!
-2019-1-14 1:06:29[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 46ms 平均耗时 46ms!
-2019-1-14 1:06:35[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 97ms 平均耗时 97ms!
-2019-1-14 1:13:53[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 MoreFish 插件 mf Reload 命令 耗时 92ms 平均耗时 22ms!
-2019-1-14 1:16:33[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 MoreFish 插件 mf Reload 命令 耗时 94ms 平均耗时 26ms!
-2019-1-14 1:20:22[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 MoreFish 插件 mf Reload 命令 耗时 102ms 平均耗时 29ms!
-2019-1-14 1:28:36[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 80ms 平均耗时 63ms!
-2019-1-14 1:28:47[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 87ms 平均耗时 92ms!
-2019-1-14 22:16:27[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 68ms 平均耗时 68ms!
-2019-1-14 22:16:32[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 105ms 平均耗时 105ms!
+Jan 13, 2019 2:31:59 AM[Yum 能耗监控] 注意! 插件 Yum 处理 pw.yumc.Yum.listeners.PluginListener$1 任务 耗时 21ms 平均耗时 21ms!
+Jan 13, 2019 2:32:42 AM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 32ms 平均耗时 32ms!
+Jan 13, 2019 2:32:42 AM[Yum 能耗监控] 注意! 插件 LoginSecurity 处理 PlayerJoinEvent 事件 耗时 65ms 平均耗时 65ms!
+Jan 13, 2019 2:32:42 AM[Yum 能耗监控] 注意! 插件 Essentials 处理 PlayerTeleportEvent 事件 耗时 51ms 平均耗时 51ms!
+Jan 13, 2019 2:32:43 AM[Yum 能耗监控] 注意! 插件 WorldEdit 处理 PlayerGameModeChangeEvent 事件 耗时 187ms 平均耗时 187ms!
+Jan 13, 2019 2:32:50 AM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 240ms 平均耗时 240ms!
+Jan 13, 2019 12:22:53 PM[Yum 能耗监控] 注意! 玩家 yuuka 执行 LoginSecurity 插件 login yuuka 命令 耗时 93ms 平均耗时 56ms!
+Jan 13, 2019 12:23:09 PM[Yum 能耗监控] 注意! 玩家 yuuka 执行 LoginSecurity 插件 login yuuka 命令 耗时 95ms 平均耗时 62ms!
+Jan 13, 2019 12:23:20 PM[Yum 能耗监控] 注意! 玩家 yuuka 执行 LoginSecurity 插件 login yuuka1 命令 耗时 100ms 平均耗时 66ms!
+Jan 13, 2019 1:40:05 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 107ms 平均耗时 58ms!
+Jan 13, 2019 2:02:45 PM[Yum 能耗监控] 注意! 玩家 RichangP 执行 LoginSecurity 插件 login 678585 命令 耗时 101ms 平均耗时 62ms!
+Jan 13, 2019 3:08:19 PM[Yum 能耗监控] 注意! 玩家 yuuka 执行 LoginSecurity 插件 login yuuka1 命令 耗时 99ms 平均耗时 64ms!
+Jan 13, 2019 3:21:51 PM[Yum 能耗监控] 注意! 玩家 hiahia 执行 LoginSecurity 插件 login sundan123 命令 耗时 103ms 平均耗时 63ms!
+Jan 13, 2019 4:10:23 PM[Yum 能耗监控] 注意! 玩家 hiahia 执行 LoginSecurity 插件 login sundan123 命令 耗时 110ms 平均耗时 66ms!
+Jan 13, 2019 4:35:11 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 43ms 平均耗时 43ms!
+Jan 13, 2019 4:35:11 PM[Yum 能耗监控] 注意! 插件 MiaoBoard 处理 PlayerJoinEvent 事件 耗时 25ms 平均耗时 25ms!
+Jan 13, 2019 4:35:11 PM[Yum 能耗监控] 注意! 插件 LoginSecurity 处理 PlayerJoinEvent 事件 耗时 85ms 平均耗时 85ms!
+Jan 13, 2019 4:35:11 PM[Yum 能耗监控] 注意! 插件 Essentials 处理 PlayerTeleportEvent 事件 耗时 59ms 平均耗时 59ms!
+Jan 13, 2019 4:35:36 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 36ms 平均耗时 39ms!
+Jan 13, 2019 4:35:43 PM[Yum 能耗监控] 注意! 玩家 ZANJITSU 执行 LoginSecurity 插件 login gbx19981112 命令 耗时 250ms 平均耗时 250ms!
+Jan 13, 2019 4:36:35 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 23ms 平均耗时 34ms!
+Jan 13, 2019 4:36:50 PM[Yum 能耗监控] 注意! 玩家 hiahia 执行 LoginSecurity 插件 login sundan213 命令 耗时 199ms 平均耗时 224ms!
+Jan 13, 2019 4:36:53 PM[Yum 能耗监控] 注意! 玩家 hiahia 执行 LoginSecurity 插件 login sundan123 命令 耗时 112ms 平均耗时 187ms!
+Jan 13, 2019 4:38:47 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 93ms 平均耗时 163ms!
+Jan 13, 2019 4:46:49 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 22ms 平均耗时 28ms!
+Jan 13, 2019 4:56:28 PM[Yum 能耗监控] 注意! 玩家 Tsunako 执行 LoginSecurity 插件 login 233666 命令 耗时 130ms 平均耗时 157ms!
+Jan 13, 2019 4:57:30 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 28ms 平均耗时 26ms!
+Jan 13, 2019 4:57:30 PM[Yum 能耗监控] 注意! 插件 LoginSecurity 处理 PlayerJoinEvent 事件 耗时 33ms 平均耗时 21ms!
+Jan 13, 2019 4:57:51 PM[Yum 能耗监控] 注意! 玩家 zuxt 执行 LoginSecurity 插件 login 40494049 命令 耗时 99ms 平均耗时 147ms!
+Jan 13, 2019 4:58:15 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 21ms 平均耗时 25ms!
+Jan 13, 2019 4:58:32 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 95ms 平均耗时 140ms!
+Jan 13, 2019 4:59:35 PM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 102ms 平均耗时 135ms!
+Jan 13, 2019 5:50:01 PM[Yum 能耗监控] 注意! 玩家 Tsunako 执行 LoginSecurity 插件 login 233666 命令 耗时 109ms 平均耗时 132ms!
+Jan 13, 2019 6:47:44 PM[Yum 能耗监控] 注意! 玩家 hiahia 执行 LoginSecurity 插件 login sundan123 命令 耗时 99ms 平均耗时 129ms!
+Jan 13, 2019 7:24:49 PM[Yum 能耗监控] 注意! 玩家 zuxt 执行 LoginSecurity 插件 login 40494049 命令 耗时 107ms 平均耗时 127ms!
+Jan 13, 2019 7:29:33 PM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 109ms 平均耗时 125ms!
+Jan 13, 2019 8:10:11 PM[Yum 能耗监控] 注意! 玩家 AKO 执行 LoginSecurity 插件 login 901125 命令 耗时 111ms 平均耗时 124ms!
+Jan 13, 2019 8:10:16 PM[Yum 能耗监控] 注意! 玩家 yuuka 执行 LoginSecurity 插件 login yuuka1 命令 耗时 98ms 平均耗时 122ms!
+Jan 13, 2019 8:18:58 PM[Yum 能耗监控] 注意! 玩家 Vigger 执行 LoginSecurity 插件 login wjl999+1s 命令 耗时 104ms 平均耗时 121ms!
+Jan 13, 2019 8:26:07 PM[Yum 能耗监控] 注意! 玩家 yuuka 执行 LoginSecurity 插件 login yuuka1 命令 耗时 106ms 平均耗时 120ms!
+Jan 13, 2019 8:28:45 PM[Yum 能耗监控] 注意! 玩家 Vigger 执行 LoginSecurity 插件 login wjl999+1s 命令 耗时 103ms 平均耗时 119ms!
+Jan 13, 2019 8:45:07 PM[Yum 能耗监控] 注意! 玩家 hiahia 执行 LoginSecurity 插件 login sundan123 命令 耗时 101ms 平均耗时 118ms!
+Jan 13, 2019 9:15:17 PM[Yum 能耗监控] 注意! 玩家 yuuka 执行 LoginSecurity 插件 login yuuka1 命令 耗时 102ms 平均耗时 117ms!
+Jan 13, 2019 10:33:18 PM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 99ms 平均耗时 106ms!
+Jan 13, 2019 11:00:33 PM[Yum 能耗监控] 注意! 玩家 hiahia 执行 LoginSecurity 插件 login sundan123 命令 耗时 103ms 平均耗时 106ms!
+Jan 14, 2019 12:11:02 AM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 108ms 平均耗时 106ms!
+Jan 14, 2019 1:01:07 AM[Yum 能耗监控] 注意! 玩家 Jerry 执行 LoginSecurity 插件 login 123456 命令 耗时 97ms 平均耗时 97ms!
+Jan 14, 2019 9:22:11 AM[Yum 能耗监控] 注意! 玩家 RichangP 执行 LoginSecurity 插件 login 678585 命令 耗时 101ms 平均耗时 98ms!
+Jan 14, 2019 10:09:45 AM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 102ms 平均耗时 98ms!
+Jan 14, 2019 12:23:30 PM[Yum 能耗监控] 注意! 玩家 hiahia 执行 LoginSecurity 插件 login sundan123 命令 耗时 99ms 平均耗时 98ms!
+Jan 14, 2019 12:24:18 PM[Yum 能耗监控] 注意! 玩家 zuxt 执行 LoginSecurity 插件 login 40494049 命令 耗时 111ms 平均耗时 98ms!
+Jan 14, 2019 12:27:47 PM[Yum 能耗监控] 注意! 玩家 AKO 执行 LoginSecurity 插件 login 901125 命令 耗时 101ms 平均耗时 98ms!
+Jan 14, 2019 1:11:35 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 95ms 平均耗时 98ms!
+Jan 14, 2019 2:06:08 PM[Yum 能耗监控] 注意! 玩家 hiahia 执行 LoginSecurity 插件 login sundan123 命令 耗时 95ms 平均耗时 98ms!
+Jan 14, 2019 2:27:04 PM[Yum 能耗监控] 注意! 玩家 yuuka 执行 LoginSecurity 插件 login yuuka1 命令 耗时 110ms 平均耗时 98ms!
+Jan 14, 2019 2:44:46 PM[Yum 能耗监控] 注意! 玩家 yuuka 执行 LoginSecurity 插件 login yuuka1 命令 耗时 94ms 平均耗时 98ms!
+Jan 14, 2019 4:05:28 PM[Yum 能耗监控] 注意! 插件 Yum 处理 pw.yumc.Yum.listeners.PluginListener$1 任务 耗时 22ms 平均耗时 22ms!
+Jan 14, 2019 4:05:45 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 35ms 平均耗时 35ms!
+Jan 14, 2019 4:05:45 PM[Yum 能耗监控] 注意! 插件 MiaoBoard 处理 PlayerJoinEvent 事件 耗时 22ms 平均耗时 22ms!
+Jan 14, 2019 4:05:46 PM[Yum 能耗监控] 注意! 插件 LoginSecurity 处理 PlayerJoinEvent 事件 耗时 83ms 平均耗时 83ms!
+Jan 14, 2019 4:05:46 PM[Yum 能耗监控] 注意! 插件 Essentials 处理 PlayerTeleportEvent 事件 耗时 35ms 平均耗时 35ms!
+Jan 14, 2019 4:07:27 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 249ms 平均耗时 249ms!
+Jan 14, 2019 4:07:29 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 29ms 平均耗时 28ms!
+Jan 14, 2019 4:07:43 PM[Yum 能耗监控] 注意! 玩家 zuxt 执行 LoginSecurity 插件 login 40494049 命令 耗时 218ms 平均耗时 234ms!
+Jan 14, 2019 4:10:41 PM[Yum 能耗监控] 注意! 插件 Yum 处理 pw.yumc.Yum.listeners.PluginListener$1 任务 耗时 22ms 平均耗时 22ms!
+Jan 14, 2019 4:13:04 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 42ms 平均耗时 42ms!
+Jan 14, 2019 4:13:04 PM[Yum 能耗监控] 注意! 插件 MiaoBoard 处理 PlayerJoinEvent 事件 耗时 22ms 平均耗时 22ms!
+Jan 14, 2019 4:13:04 PM[Yum 能耗监控] 注意! 插件 LoginSecurity 处理 PlayerJoinEvent 事件 耗时 53ms 平均耗时 53ms!
+Jan 14, 2019 4:13:04 PM[Yum 能耗监控] 注意! 插件 Essentials 处理 PlayerTeleportEvent 事件 耗时 40ms 平均耗时 40ms!
+Jan 14, 2019 4:13:12 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 265ms 平均耗时 265ms!
+Jan 14, 2019 4:13:49 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 MoreFish 插件 mf reload 命令 耗时 33ms 平均耗时 33ms!
+Jan 14, 2019 4:15:49 PM[Yum 能耗监控] 注意! 插件 Yum 处理 pw.yumc.Yum.listeners.PluginListener$1 任务 耗时 32ms 平均耗时 32ms!
+Jan 14, 2019 4:15:49 PM[Yum 能耗监控] 注意! 插件 Yum 处理 pw.yumc.Yum.listeners.PluginListener$1 任务 耗时 21ms 平均耗时 21ms!
+Jan 14, 2019 4:15:51 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 35ms 平均耗时 35ms!
+Jan 14, 2019 4:15:51 PM[Yum 能耗监控] 注意! 插件 MiaoBoard 处理 PlayerJoinEvent 事件 耗时 30ms 平均耗时 30ms!
+Jan 14, 2019 4:15:52 PM[Yum 能耗监控] 注意! 插件 LoginSecurity 处理 PlayerJoinEvent 事件 耗时 64ms 平均耗时 64ms!
+Jan 14, 2019 4:15:52 PM[Yum 能耗监控] 注意! 插件 Essentials 处理 PlayerTeleportEvent 事件 耗时 48ms 平均耗时 48ms!
+Jan 14, 2019 4:15:57 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 202ms 平均耗时 202ms!
+Jan 14, 2019 4:16:15 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 MoreFish 插件 mf Shop 命令 耗时 50ms 平均耗时 50ms!
+Jan 14, 2019 4:17:44 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 22ms 平均耗时 28ms!
+Jan 14, 2019 4:17:44 PM[Yum 能耗监控] 注意! 插件 LoginSecurity 处理 PlayerJoinEvent 事件 耗时 44ms 平均耗时 54ms!
+Jan 14, 2019 4:17:57 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 MoreFish 插件 mf reload 命令 耗时 28ms 平均耗时 23ms!
+Jan 14, 2019 4:18:00 PM[Yum 能耗监控] 注意! 玩家 zuxt 执行 LoginSecurity 插件 login 40494049 命令 耗时 196ms 平均耗时 199ms!
+Jan 14, 2019 4:23:21 PM[Yum 能耗监控] 注意! 玩家 hiahia 执行 LoginSecurity 插件 login sundan123 命令 耗时 155ms 平均耗时 184ms!
+Jan 14, 2019 5:41:58 PM[Yum 能耗监控] 注意! 玩家 Jerry 执行 LoginSecurity 插件 login 123456 命令 耗时 93ms 平均耗时 161ms!
+Jan 14, 2019 6:07:40 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerChatEvent 事件 耗时 909ms 平均耗时 27ms!
+Jan 14, 2019 6:14:51 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 34ms 平均耗时 34ms!
+Jan 14, 2019 6:14:51 PM[Yum 能耗监控] 注意! 插件 MiaoBoard 处理 PlayerJoinEvent 事件 耗时 23ms 平均耗时 23ms!
+Jan 14, 2019 6:14:51 PM[Yum 能耗监控] 注意! 插件 LoginSecurity 处理 PlayerJoinEvent 事件 耗时 63ms 平均耗时 63ms!
+Jan 14, 2019 6:14:51 PM[Yum 能耗监控] 注意! 插件 Essentials 处理 PlayerTeleportEvent 事件 耗时 31ms 平均耗时 31ms!
+Jan 14, 2019 6:14:52 PM[Yum 能耗监控] 注意! 插件 WorldEdit 处理 PlayerGameModeChangeEvent 事件 耗时 258ms 平均耗时 258ms!
+Jan 14, 2019 6:14:57 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 150ms 平均耗时 150ms!
+Jan 14, 2019 6:18:04 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 25ms 平均耗时 29ms!
+Jan 14, 2019 6:18:24 PM[Yum 能耗监控] 注意! 玩家 Jerry 执行 LoginSecurity 插件 login 123456 命令 耗时 175ms 平均耗时 162ms!
+Jan 14, 2019 6:23:30 PM[Yum 能耗监控] 注意! 玩家 hiahia 执行 LoginSecurity 插件 login sundan123 命令 耗时 169ms 平均耗时 165ms!
+Jan 14, 2019 7:14:51 PM[Yum 能耗监控] 注意! 玩家 ZANJITSU 执行 LoginSecurity 插件 login gbx19981112 命令 耗时 124ms 平均耗时 155ms!
+Jan 14, 2019 8:38:29 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 39ms 平均耗时 39ms!
+Jan 14, 2019 8:38:29 PM[Yum 能耗监控] 注意! 插件 MiaoBoard 处理 PlayerJoinEvent 事件 耗时 25ms 平均耗时 25ms!
+Jan 14, 2019 8:38:29 PM[Yum 能耗监控] 注意! 插件 LoginSecurity 处理 PlayerJoinEvent 事件 耗时 82ms 平均耗时 82ms!
+Jan 14, 2019 8:38:29 PM[Yum 能耗监控] 注意! 插件 Essentials 处理 PlayerTeleportEvent 事件 耗时 49ms 平均耗时 49ms!
+Jan 14, 2019 8:38:36 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 153ms 平均耗时 153ms!
+Jan 14, 2019 8:38:40 PM[Yum 能耗监控] 注意! 插件 WorldEdit 处理 PlayerInteractEvent 事件 耗时 41ms 平均耗时 41ms!
+Jan 14, 2019 8:38:46 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 MoreFish 插件 mf reload 命令 耗时 33ms 平均耗时 33ms!
+Jan 14, 2019 8:39:53 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 MoreFish 插件 mf reload 命令 耗时 44ms 平均耗时 39ms!
+Jan 14, 2019 10:09:12 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 32ms 平均耗时 32ms!
+Jan 14, 2019 10:09:13 PM[Yum 能耗监控] 注意! 插件 MiaoBoard 处理 PlayerJoinEvent 事件 耗时 23ms 平均耗时 23ms!
+Jan 14, 2019 10:09:13 PM[Yum 能耗监控] 注意! 插件 LoginSecurity 处理 PlayerJoinEvent 事件 耗时 78ms 平均耗时 78ms!
+Jan 14, 2019 10:09:13 PM[Yum 能耗监控] 注意! 插件 Essentials 处理 PlayerTeleportEvent 事件 耗时 60ms 平均耗时 60ms!
+Jan 14, 2019 10:09:18 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 134ms 平均耗时 134ms!
+Jan 14, 2019 10:11:23 PM[Yum 能耗监控] 注意! 插件 Yum 处理 pw.yumc.Yum.listeners.PluginListener$1 任务 耗时 27ms 平均耗时 27ms!
+Jan 14, 2019 10:11:32 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 34ms 平均耗时 34ms!
+Jan 14, 2019 10:11:32 PM[Yum 能耗监控] 注意! 插件 MiaoBoard 处理 PlayerJoinEvent 事件 耗时 26ms 平均耗时 26ms!
+Jan 14, 2019 10:11:32 PM[Yum 能耗监控] 注意! 插件 LoginSecurity 处理 PlayerJoinEvent 事件 耗时 80ms 平均耗时 80ms!
+Jan 14, 2019 10:11:33 PM[Yum 能耗监控] 注意! 插件 Essentials 处理 PlayerTeleportEvent 事件 耗时 54ms 平均耗时 54ms!
+Jan 14, 2019 10:11:38 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 284ms 平均耗时 284ms!
+Jan 14, 2019 10:11:47 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 MoreFish 插件 mf reload 命令 耗时 35ms 平均耗时 35ms!
+Jan 14, 2019 10:13:02 PM[Yum 能耗监控] 注意! 玩家 CONSOLE 执行 MoreFish 插件 mf reload 命令 耗时 41ms 平均耗时 38ms!
+Jan 14, 2019 10:13:35 PM[Yum 能耗监控] 注意! 玩家 CONSOLE 执行 MoreFish 插件 mf reload 命令 耗时 53ms 平均耗时 43ms!
+Jan 14, 2019 10:14:23 PM[Yum 能耗监控] 注意! 玩家 CONSOLE 执行 MoreFish 插件 mf reload 命令 耗时 33ms 平均耗时 33ms!
+Jan 14, 2019 11:12:01 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 24ms 平均耗时 24ms!
+Jan 14, 2019 11:12:01 PM[Yum 能耗监控] 注意! 插件 MiaoBoard 处理 PlayerJoinEvent 事件 耗时 22ms 平均耗时 22ms!
+Jan 14, 2019 11:12:01 PM[Yum 能耗监控] 注意! 插件 LoginSecurity 处理 PlayerJoinEvent 事件 耗时 87ms 平均耗时 87ms!
+Jan 14, 2019 11:12:02 PM[Yum 能耗监控] 注意! 插件 Essentials 处理 PlayerTeleportEvent 事件 耗时 41ms 平均耗时 41ms!
+Jan 14, 2019 11:12:32 PM[Yum 能耗监控] 注意! 玩家 Vigger 执行 LoginSecurity 插件 login wjl999+1s 命令 耗时 207ms 平均耗时 207ms!
+Jan 14, 2019 11:12:49 PM[Yum 能耗监控] 注意! 插件 LoginSecurity 处理 PlayerJoinEvent 事件 耗时 24ms 平均耗时 55ms!
+Jan 14, 2019 11:13:01 PM[Yum 能耗监控] 注意! 玩家 yuuka 执行 LoginSecurity 插件 login yuuka1 命令 耗时 106ms 平均耗时 157ms!
+Jan 14, 2019 11:37:05 PM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 107ms 平均耗时 140ms!
+Jan 14, 2019 11:38:09 PM[Yum 能耗监控] 注意! 玩家 RichangP 执行 LoginSecurity 插件 login 678585 命令 耗时 105ms 平均耗时 131ms!
+Jan 14, 2019 11:39:20 PM[Yum 能耗监控] 注意! 玩家 Jerry 执行 LoginSecurity 插件 login 123456 命令 耗时 144ms 平均耗时 134ms!
+Jan 14, 2019 11:58:10 PM[Yum 能耗监控] 注意! 玩家 AKO 执行 LoginSecurity 插件 login 901125 命令 耗时 98ms 平均耗时 128ms!
+Jan 14, 2019 11:58:47 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 101ms 平均耗时 124ms!
+Jan 15, 2019 1:49:51 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 2194ms 平均耗时 21ms!
+Jan 15, 2019 1:50:44 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 4102ms 平均耗时 54ms!
+Jan 15, 2019 1:51:44 AM[Yum 能耗监控] 注意! 插件 Essentials 处理 SignChangeEvent 事件 耗时 172ms 平均耗时 28ms!
+Jan 15, 2019 1:51:45 AM[Yum 能耗监控] 注意! 插件 Essentials 处理 SignChangeEvent 事件 耗时 213ms 平均耗时 36ms!
+Jan 15, 2019 1:11:57 PM[Yum 能耗监控] 注意! 插件 GroupManager 处理 PlayerJoinEvent 事件 耗时 54ms 平均耗时 54ms!
+Jan 15, 2019 1:11:57 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 25ms 平均耗时 25ms!
+Jan 15, 2019 1:11:57 PM[Yum 能耗监控] 注意! 插件 MiaoBoard 处理 PlayerJoinEvent 事件 耗时 23ms 平均耗时 23ms!
+Jan 15, 2019 1:11:57 PM[Yum 能耗监控] 注意! 插件 LoginSecurity 处理 PlayerJoinEvent 事件 耗时 74ms 平均耗时 74ms!
+Jan 15, 2019 1:11:57 PM[Yum 能耗监控] 注意! 插件 Essentials 处理 PlayerTeleportEvent 事件 耗时 39ms 平均耗时 39ms!
+Jan 15, 2019 1:13:10 PM[Yum 能耗监控] 注意! 玩家 hiahia 执行 LoginSecurity 插件 login sundan123 命令 耗时 244ms 平均耗时 244ms!
+Jan 15, 2019 1:13:25 PM[Yum 能耗监控] 注意! 插件 LoginSecurity 处理 PlayerJoinEvent 事件 耗时 28ms 平均耗时 51ms!
+Jan 15, 2019 1:13:44 PM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 121ms 平均耗时 182ms!
+Jan 15, 2019 1:16:45 PM[Yum 能耗监控] 注意! 玩家 RichangP 执行 LoginSecurity 插件 login 678585 命令 耗时 114ms 平均耗时 160ms!
+Jan 15, 2019 1:18:54 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 30ms 平均耗时 23ms!
+Jan 15, 2019 1:23:40 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 22ms 平均耗时 23ms!
+Jan 15, 2019 1:23:52 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 101ms 平均耗时 116ms!
+Jan 15, 2019 3:33:04 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 109ms 平均耗时 98ms!
+Jan 15, 2019 3:53:36 PM[Yum 能耗监控] 注意! 玩家 zuxt 执行 LoginSecurity 插件 login 40494049 命令 耗时 102ms 平均耗时 99ms!
+Jan 15, 2019 4:04:34 PM[Yum 能耗监控] 注意! 玩家 Jerry 执行 LoginSecurity 插件 login 123456 命令 耗时 101ms 平均耗时 99ms!
+Jan 15, 2019 5:03:01 PM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 104ms 平均耗时 100ms!
+Jan 15, 2019 5:03:13 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 102ms 平均耗时 100ms!
+Jan 15, 2019 5:13:48 PM[Yum 能耗监控] 注意! 玩家 AKO 执行 LoginSecurity 插件 login 901125 命令 耗时 106ms 平均耗时 100ms!
+Jan 15, 2019 5:17:04 PM[Yum 能耗监控] 注意! 玩家 Jerry 执行 LoginSecurity 插件 login 12345 命令 耗时 101ms 平均耗时 100ms!
+Jan 15, 2019 5:17:20 PM[Yum 能耗监控] 注意! 玩家 Jerry 执行 LoginSecurity 插件 login 123456 命令 耗时 104ms 平均耗时 101ms!
+Jan 15, 2019 7:28:47 PM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 104ms 平均耗时 101ms!
+Jan 15, 2019 7:55:39 PM[Yum 能耗监控] 注意! 玩家 RichangP 执行 LoginSecurity 插件 login 678585 命令 耗时 98ms 平均耗时 101ms!
+Jan 15, 2019 7:57:25 PM[Yum 能耗监控] 注意! 玩家 Sodital 执行 LoginSecurity 插件 login 123456 命令 耗时 104ms 平均耗时 101ms!
+Jan 15, 2019 8:04:36 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 96ms 平均耗时 101ms!
+Jan 15, 2019 8:11:18 PM[Yum 能耗监控] 注意! 玩家 Vigger 执行 LoginSecurity 插件 login wjl999+1s 命令 耗时 102ms 平均耗时 101ms!
+Jan 15, 2019 8:14:03 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 111ms 平均耗时 101ms!
+Jan 15, 2019 8:34:58 PM[Yum 能耗监控] 注意! 玩家 Jerry 执行 LoginSecurity 插件 login 123456 命令 耗时 92ms 平均耗时 101ms!
+Jan 15, 2019 8:35:57 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 98ms 平均耗时 101ms!
+Jan 15, 2019 8:40:47 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 96ms 平均耗时 100ms!
+Jan 15, 2019 8:48:21 PM[Yum 能耗监控] 注意! 玩家 ASUKA 执行 LoginSecurity 插件 login 123859476 命令 耗时 100ms 平均耗时 100ms!
+Jan 15, 2019 8:58:33 PM[Yum 能耗监控] 注意! 玩家 AKO 执行 LoginSecurity 插件 login 901125 命令 耗时 102ms 平均耗时 100ms!
+Jan 15, 2019 9:13:01 PM[Yum 能耗监控] 注意! 玩家 rbq 执行 LoginSecurity 插件 login 769997661 命令 耗时 107ms 平均耗时 97ms!
+Jan 15, 2019 9:26:22 PM[Yum 能耗监控] 注意! 玩家 yuuka 执行 LoginSecurity 插件 login yuuka1 命令 耗时 98ms 平均耗时 97ms!
+Jan 15, 2019 9:57:11 PM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 105ms 平均耗时 97ms!
+Jan 15, 2019 10:35:52 PM[Yum 能耗监控] 注意! 玩家 hiahia 执行 LoginSecurity 插件 login sundan123 命令 耗时 100ms 平均耗时 97ms!
+Jan 15, 2019 10:36:25 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 107ms 平均耗时 98ms!
+Jan 15, 2019 11:12:53 PM[Yum 能耗监控] 注意! 插件 Yum 处理 pw.yumc.Yum.listeners.PluginListener$1 任务 耗时 32ms 平均耗时 32ms!
+Jan 15, 2019 11:13:24 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 35ms 平均耗时 35ms!
+Jan 15, 2019 11:13:24 PM[Yum 能耗监控] 注意! 插件 MiaoBoard 处理 PlayerJoinEvent 事件 耗时 21ms 平均耗时 21ms!
+Jan 15, 2019 11:13:24 PM[Yum 能耗监控] 注意! 插件 LoginSecurity 处理 PlayerJoinEvent 事件 耗时 73ms 平均耗时 73ms!
+Jan 15, 2019 11:13:24 PM[Yum 能耗监控] 注意! 插件 Essentials 处理 PlayerTeleportEvent 事件 耗时 43ms 平均耗时 43ms!
+Jan 15, 2019 11:13:24 PM[Yum 能耗监控] 注意! 插件 WorldEdit 处理 PlayerGameModeChangeEvent 事件 耗时 297ms 平均耗时 297ms!
+Jan 15, 2019 11:13:30 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 146ms 平均耗时 146ms!
+Jan 15, 2019 11:59:05 PM[Yum 能耗监控] 注意! 插件 LoginSecurity 处理 PlayerJoinEvent 事件 耗时 29ms 平均耗时 51ms!
+Jan 15, 2019 11:59:06 PM[Yum 能耗监控] 注意! 插件 Essentials 处理 PlayerTeleportEvent 事件 耗时 21ms 平均耗时 32ms!
+Jan 15, 2019 11:59:18 PM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 179ms 平均耗时 162ms!
+Jan 16, 2019 8:28:34 AM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 97ms 平均耗时 140ms!
+Jan 16, 2019 9:16:55 AM[Yum 能耗监控] 注意! 玩家 RichangP 执行 LoginSecurity 插件 login 678585 命令 耗时 97ms 平均耗时 130ms!
+Jan 16, 2019 9:38:52 AM[Yum 能耗监控] 注意! 玩家 RichangP 执行 LoginSecurity 插件 login 678585 命令 耗时 102ms 平均耗时 124ms!
+Jan 16, 2019 11:45:27 AM[Yum 能耗监控] 注意! 玩家 ASUKA 执行 LoginSecurity 插件 login 123859476 命令 耗时 100ms 平均耗时 120ms!
+Jan 16, 2019 1:44:52 PM[Yum 能耗监控] 注意! 玩家 rbq 执行 LoginSecurity 插件 login 769997661 命令 耗时 91ms 平均耗时 116ms!
+Jan 16, 2019 2:23:28 PM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 108ms 平均耗时 115ms!
+Jan 16, 2019 2:54:34 PM[Yum 能耗监控] 注意! 玩家 AKO 执行 LoginSecurity 插件 login 901125 命令 耗时 107ms 平均耗时 114ms!
+Jan 16, 2019 3:32:56 PM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 127ms 平均耗时 105ms!
+Jan 16, 2019 4:09:02 PM[Yum 能耗监控] 注意! 玩家 Jerry 执行 LoginSecurity 插件 login 123456 命令 耗时 106ms 平均耗时 105ms!
+Jan 16, 2019 4:50:29 PM[Yum 能耗监控] 注意! 玩家 hiahia 执行 LoginSecurity 插件 login sundan123 命令 耗时 110ms 平均耗时 105ms!
+Jan 16, 2019 6:02:53 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 111ms 平均耗时 106ms!
+Jan 16, 2019 6:17:08 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 97ms 平均耗时 105ms!
+Jan 16, 2019 6:21:45 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 33ms 平均耗时 33ms!
+Jan 16, 2019 6:21:45 PM[Yum 能耗监控] 注意! 插件 LoginSecurity 处理 PlayerJoinEvent 事件 耗时 58ms 平均耗时 58ms!
+Jan 16, 2019 6:21:45 PM[Yum 能耗监控] 注意! 插件 Essentials 处理 PlayerTeleportEvent 事件 耗时 44ms 平均耗时 44ms!
+Jan 16, 2019 6:21:51 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 140ms 平均耗时 140ms!
+Jan 16, 2019 6:21:54 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 23ms 平均耗时 28ms!
+Jan 16, 2019 6:22:01 PM[Yum 能耗监控] 注意! 玩家 RichangP 执行 LoginSecurity 插件 login 678585 命令 耗时 196ms 平均耗时 168ms!
+Jan 16, 2019 6:22:06 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 36ms 平均耗时 23ms!
+Jan 16, 2019 6:22:47 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 30ms 平均耗时 28ms!
+Jan 16, 2019 6:22:47 PM[Yum 能耗监控] 注意! 插件 LoginSecurity 处理 PlayerJoinEvent 事件 耗时 23ms 平均耗时 31ms!
+Jan 16, 2019 6:22:54 PM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 112ms 平均耗时 149ms!
+Jan 16, 2019 6:23:03 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 27ms 平均耗时 28ms!
+Jan 16, 2019 6:23:14 PM[Yum 能耗监控] 注意! 玩家 rbq 执行 LoginSecurity 插件 login 769997661 命令 耗时 104ms 平均耗时 138ms!
+Jan 16, 2019 6:23:27 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 35ms 平均耗时 21ms!
+Jan 16, 2019 6:23:27 PM[Yum 能耗监控] 注意! 玩家 RichangP 执行 EssentialsSpawn 插件 spawn  命令 耗时 22ms 平均耗时 22ms!
+Jan 16, 2019 6:24:03 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 28ms 平均耗时 22ms!
+Jan 16, 2019 6:24:32 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 41ms 平均耗时 24ms!
+Jan 16, 2019 6:24:37 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 39ms 平均耗时 26ms!
+Jan 16, 2019 6:24:49 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 32ms 平均耗时 26ms!
+Jan 16, 2019 6:25:09 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 30ms 平均耗时 26ms!
+Jan 16, 2019 6:26:12 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 37ms 平均耗时 24ms!
+Jan 16, 2019 6:28:49 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 63ms 平均耗时 22ms!
+Jan 16, 2019 6:44:06 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 28ms 平均耗时 22ms!
+Jan 16, 2019 6:45:01 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 22ms 平均耗时 21ms!
+Jan 16, 2019 6:45:37 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 29ms 平均耗时 21ms!
+Jan 16, 2019 6:47:54 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 27ms 平均耗时 21ms!
+Jan 16, 2019 6:48:10 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 71ms 平均耗时 37ms!
+Jan 16, 2019 6:49:16 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 37ms 平均耗时 22ms!
+Jan 16, 2019 6:49:56 PM[Yum 能耗监控] 注意! 玩家 Jerry 执行 LoginSecurity 插件 login 123456 命令 耗时 95ms 平均耗时 129ms!
+Jan 16, 2019 6:55:41 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 36ms 平均耗时 21ms!
+Jan 16, 2019 6:56:37 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 33ms 平均耗时 36ms!
+Jan 16, 2019 6:56:49 PM[Yum 能耗监控] 注意! 玩家 Sodital 执行 LoginSecurity 插件 login 123456 命令 耗时 99ms 平均耗时 124ms!
+Jan 16, 2019 7:01:31 PM[Yum 能耗监控] 注意! 玩家 ASUKA 执行 LoginSecurity 插件 login 123859476 命令 耗时 99ms 平均耗时 121ms!
+Jan 16, 2019 7:23:44 PM[Yum 能耗监控] 注意! 玩家 ASUKA 执行 LoginSecurity 插件 login 123859476 命令 耗时 104ms 平均耗时 119ms!
+Jan 16, 2019 7:48:10 PM[Yum 能耗监控] 注意! 玩家 Sodital 执行 LoginSecurity 插件 login 123456 命令 耗时 101ms 平均耗时 117ms!
+Jan 16, 2019 8:02:08 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 104ms 平均耗时 115ms!
+Jan 16, 2019 8:09:31 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 23ms 平均耗时 26ms!
+Jan 16, 2019 8:09:49 PM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 96ms 平均耗时 114ms!
+Jan 16, 2019 8:37:44 PM[Yum 能耗监控] 注意! 玩家 hiahia 执行 LoginSecurity 插件 login sundan123 命令 耗时 103ms 平均耗时 113ms!
+Jan 16, 2019 8:39:59 PM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 106ms 平均耗时 112ms!
+Jan 16, 2019 8:52:21 PM[Yum 能耗监控] 注意! 玩家 rbq 执行 LoginSecurity 插件 login 769997661 命令 耗时 99ms 平均耗时 111ms!
+Jan 16, 2019 8:54:55 PM[Yum 能耗监控] 注意! 玩家 AKO 执行 LoginSecurity 插件 login 901125 命令 耗时 104ms 平均耗时 111ms!
+Jan 17, 2019 12:17:52 AM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 103ms 平均耗时 110ms!
+Jan 17, 2019 12:20:51 AM[Yum 能耗监控] 注意! 玩家 Jerry 执行 LoginSecurity 插件 login 123456 命令 耗时 99ms 平均耗时 110ms!
+Jan 17, 2019 12:39:10 AM[Yum 能耗监控] 注意! 玩家 AKO 执行 LoginSecurity 插件 login 901125 命令 耗时 102ms 平均耗时 109ms!
+Jan 17, 2019 3:06:04 AM[Yum 能耗监控] 注意! 玩家 AKO 执行 LoginSecurity 插件 login 901125 命令 耗时 98ms 平均耗时 109ms!
+Jan 17, 2019 8:03:29 AM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 100ms 平均耗时 108ms!
+Jan 17, 2019 9:06:34 AM[Yum 能耗监控] 注意! 玩家 RichangP 执行 LoginSecurity 插件 login 678585 命令 耗时 105ms 平均耗时 108ms!
+Jan 17, 2019 11:28:45 AM[Yum 能耗监控] 注意! 玩家 RichangP 执行 LoginSecurity 插件 login 678585 命令 耗时 115ms 平均耗时 108ms!
+Jan 17, 2019 12:23:54 PM[Yum 能耗监控] 注意! 玩家 hiahia 执行 LoginSecurity 插件 login sundan123 命令 耗时 101ms 平均耗时 108ms!
+Jan 17, 2019 12:50:14 PM[Yum 能耗监控] 注意! 玩家 ASUKA 执行 LoginSecurity 插件 login 123859476 命令 耗时 103ms 平均耗时 108ms!
+Jan 17, 2019 2:27:43 PM[Yum 能耗监控] 注意! 玩家 rbq 执行 LoginSecurity 插件 login 769997661 命令 耗时 98ms 平均耗时 107ms!
+Jan 17, 2019 3:00:56 PM[Yum 能耗监控] 注意! 玩家 AKO 执行 LoginSecurity 插件 login 901125 命令 耗时 106ms 平均耗时 107ms!
+Jan 17, 2019 3:53:44 PM[Yum 能耗监控] 注意! 插件 Yum 处理 pw.yumc.Yum.listeners.PluginListener$1 任务 耗时 60ms 平均耗时 60ms!
+Jan 17, 2019 3:54:34 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerJoinEvent 事件 耗时 33ms 平均耗时 33ms!
+Jan 17, 2019 3:54:34 PM[Yum 能耗监控] 注意! 插件 MiaoBoard 处理 PlayerJoinEvent 事件 耗时 22ms 平均耗时 22ms!
+Jan 17, 2019 3:54:34 PM[Yum 能耗监控] 注意! 插件 LoginSecurity 处理 PlayerJoinEvent 事件 耗时 73ms 平均耗时 73ms!
+Jan 17, 2019 3:54:34 PM[Yum 能耗监控] 注意! 插件 Essentials 处理 PlayerTeleportEvent 事件 耗时 36ms 平均耗时 36ms!
+Jan 17, 2019 3:54:41 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 24ms 平均耗时 21ms!
+Jan 17, 2019 3:54:52 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 41ms 平均耗时 41ms!
+Jan 17, 2019 3:54:54 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 25ms 平均耗时 22ms!
+Jan 17, 2019 3:54:57 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 45ms 平均耗时 43ms!
+Jan 17, 2019 3:54:57 PM[Yum 能耗监控] 注意! 玩家 RichangP 执行 LoginSecurity 插件 login 678585 命令 耗时 297ms 平均耗时 297ms!
+Jan 17, 2019 3:55:37 PM[Yum 能耗监控] 注意! 玩家 rbq 执行 LoginSecurity 插件 login 769997661 命令 耗时 124ms 平均耗时 211ms!
+Jan 17, 2019 3:55:44 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 36ms 平均耗时 35ms!
+Jan 17, 2019 3:55:44 PM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 183ms 平均耗时 201ms!
+Jan 17, 2019 3:56:00 PM[Yum 能耗监控] 注意! 玩家 ASUKA 执行 LoginSecurity 插件 login 123859476 命令 耗时 94ms 平均耗时 175ms!
+Jan 17, 2019 3:56:09 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 23ms 平均耗时 28ms!
+Jan 17, 2019 3:56:12 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 InventoryClickEvent 事件 耗时 243ms 平均耗时 243ms!
+Jan 17, 2019 3:57:25 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 42ms 平均耗时 27ms!
+Jan 17, 2019 4:00:10 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 62ms 平均耗时 31ms!
+Jan 17, 2019 4:01:15 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 25ms 平均耗时 28ms!
+Jan 17, 2019 4:01:16 PM[Yum 能耗监控] 注意! 玩家 AKO 执行 LoginSecurity 插件 login 901125 命令 耗时 183ms 平均耗时 176ms!
+Jan 17, 2019 4:04:09 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 24ms 平均耗时 28ms!
+Jan 17, 2019 4:04:09 PM[Yum 能耗监控] 注意! 玩家 ASUKA 执行 LoginSecurity 插件 login 123859476 命令 耗时 201ms 平均耗时 180ms!
+Jan 17, 2019 4:06:13 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 33ms 平均耗时 23ms!
+Jan 17, 2019 4:06:37 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 45ms 平均耗时 24ms!
+Jan 17, 2019 4:09:30 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 25ms 平均耗时 21ms!
+Jan 17, 2019 4:09:57 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 21ms 平均耗时 21ms!
+Jan 17, 2019 4:10:49 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 21ms 平均耗时 21ms!
+Jan 17, 2019 4:16:31 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 42ms 平均耗时 21ms!
+Jan 17, 2019 4:16:38 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 22ms 平均耗时 21ms!
+Jan 17, 2019 4:17:32 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerChatEvent 事件 耗时 31ms 平均耗时 31ms!
+Jan 17, 2019 4:17:50 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerChatEvent 事件 耗时 22ms 平均耗时 27ms!
+Jan 17, 2019 4:18:27 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerChatEvent 事件 耗时 32ms 平均耗时 28ms!
+Jan 17, 2019 5:28:02 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerChatEvent 事件 耗时 96ms 平均耗时 33ms!
+Jan 17, 2019 5:42:59 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 90ms 平均耗时 168ms!
+Jan 17, 2019 5:43:17 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerChatEvent 事件 耗时 29ms 平均耗时 23ms!
+Jan 17, 2019 5:52:10 PM[Yum 能耗监控] 注意! 玩家 ZANJITSU 执行 LoginSecurity 插件 login gbx19981112 命令 耗时 89ms 平均耗时 158ms!
+Jan 17, 2019 6:04:55 PM[Yum 能耗监控] 注意! 玩家 zuxt 执行 LoginSecurity 插件 login 40494049 命令 耗时 97ms 平均耗时 151ms!
+Jan 17, 2019 6:09:46 PM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 104ms 平均耗时 146ms!
+Jan 17, 2019 7:04:29 PM[Yum 能耗监控] 注意! 玩家 Jerry 执行 LoginSecurity 插件 login 123456 命令 耗时 94ms 平均耗时 142ms!
+Jan 17, 2019 7:04:48 PM[Yum 能耗监控] 注意! 玩家 Sodital 执行 LoginSecurity 插件 login 123456 命令 耗时 99ms 平均耗时 138ms!
+Jan 17, 2019 9:56:15 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 SkillUseEvent 事件 耗时 76ms 平均耗时 76ms!
+Jan 17, 2019 9:57:06 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 SkillUseEvent 事件 耗时 75ms 平均耗时 75ms!
+Jan 17, 2019 9:57:14 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 SkillUseEvent 事件 耗时 71ms 平均耗时 74ms!
+Jan 17, 2019 9:59:49 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 SkillUseEvent 事件 耗时 70ms 平均耗时 73ms!
+Jan 17, 2019 9:59:53 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 SkillUseEvent 事件 耗时 74ms 平均耗时 73ms!
+Jan 17, 2019 9:59:57 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 SkillUseEvent 事件 耗时 58ms 平均耗时 71ms!
+Jan 17, 2019 10:00:00 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 SkillUseEvent 事件 耗时 93ms 平均耗时 74ms!
+Jan 17, 2019 10:00:09 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 SkillUseEvent 事件 耗时 80ms 平均耗时 75ms!
+Jan 17, 2019 10:00:30 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 SkillUseEvent 事件 耗时 72ms 平均耗时 74ms!
+Jan 17, 2019 10:00:35 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 SkillUseEvent 事件 耗时 72ms 平均耗时 74ms!
+Jan 17, 2019 10:29:44 PM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 97ms 平均耗时 135ms!
+Jan 17, 2019 10:29:47 PM[Yum 能耗监控] 注意! 玩家 RichangP 执行 LoginSecurity 插件 login 678585 命令 耗时 91ms 平均耗时 132ms!
+Jan 17, 2019 10:31:13 PM[Yum 能耗监控] 注意! 玩家 AKO 执行 LoginSecurity 插件 login 901125 命令 耗时 98ms 平均耗时 129ms!
+Jan 17, 2019 10:37:59 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerJoinEvent 事件 耗时 25ms 平均耗时 25ms!
+Jan 17, 2019 10:37:59 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 24ms 平均耗时 24ms!
+Jan 17, 2019 10:37:59 PM[Yum 能耗监控] 注意! 插件 MiaoBoard 处理 PlayerJoinEvent 事件 耗时 26ms 平均耗时 26ms!
+Jan 17, 2019 10:37:59 PM[Yum 能耗监控] 注意! 插件 LoginSecurity 处理 PlayerJoinEvent 事件 耗时 99ms 平均耗时 99ms!
+Jan 17, 2019 10:37:59 PM[Yum 能耗监控] 注意! 插件 Essentials 处理 PlayerTeleportEvent 事件 耗时 33ms 平均耗时 33ms!
+Jan 17, 2019 10:37:59 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerJoinEvent 事件 耗时 38ms 平均耗时 31ms!
+Jan 17, 2019 10:38:00 PM[Yum 能耗监控] 注意! 插件 LoginSecurity 处理 PlayerJoinEvent 事件 耗时 25ms 平均耗时 62ms!
+Jan 17, 2019 10:38:11 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerJoinEvent 事件 耗时 39ms 平均耗时 34ms!
+Jan 17, 2019 10:38:18 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 58ms 平均耗时 58ms!
+Jan 17, 2019 10:38:19 PM[Yum 能耗监控] 注意! 玩家 RichangP 执行 LoginSecurity 插件 login 678585 命令 耗时 255ms 平均耗时 255ms!
+Jan 17, 2019 10:38:22 PM[Yum 能耗监控] 注意! 插件 WorldEdit 处理 PlayerInteractEvent 事件 耗时 26ms 平均耗时 26ms!
+Jan 17, 2019 10:38:29 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 InventoryClickEvent 事件 耗时 340ms 平均耗时 340ms!
+Jan 17, 2019 10:38:32 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 25ms 平均耗时 41ms!
+Jan 17, 2019 10:38:32 PM[Yum 能耗监控] 注意! 玩家 zuxt 执行 LoginSecurity 插件 login 40494049 命令 耗时 124ms 平均耗时 190ms!
+Jan 17, 2019 10:38:39 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 45ms 平均耗时 43ms!
+Jan 17, 2019 10:38:40 PM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 188ms 平均耗时 189ms!
+Jan 17, 2019 10:38:44 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerJoinEvent 事件 耗时 22ms 平均耗时 25ms!
+Jan 17, 2019 10:39:04 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 106ms 平均耗时 168ms!
+Jan 17, 2019 10:39:25 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 51ms 平均耗时 32ms!
+Jan 17, 2019 10:39:25 PM[Yum 能耗监控] 注意! 玩家 AKO 执行 LoginSecurity 插件 login 901125 命令 耗时 116ms 平均耗时 158ms!
+Jan 17, 2019 10:41:55 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 31ms 平均耗时 24ms!
+Jan 17, 2019 10:41:58 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 21ms 平均耗时 24ms!
+Jan 17, 2019 10:42:00 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 24ms 平均耗时 24ms!
+Jan 17, 2019 10:43:21 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 44ms 平均耗时 25ms!
+Jan 17, 2019 10:48:34 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 29ms 平均耗时 22ms!
+Jan 17, 2019 10:49:18 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 31ms 平均耗时 21ms!
+Jan 17, 2019 10:49:59 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerDeathEvent 事件 耗时 44ms 平均耗时 44ms!
+Jan 17, 2019 10:51:03 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerDeathEvent 事件 耗时 27ms 平均耗时 35ms!
+Jan 17, 2019 10:52:31 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 31ms 平均耗时 22ms!
+Jan 17, 2019 11:01:12 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 21ms 平均耗时 21ms!
+Jan 17, 2019 11:01:21 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 36ms 平均耗时 21ms!
+Jan 17, 2019 11:02:52 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 30ms 平均耗时 21ms!
+Jan 17, 2019 11:04:53 PM[Yum 能耗监控] 注意! 玩家 Jerry 执行 LoginSecurity 插件 login 123456 命令 耗时 93ms 平均耗时 147ms!
+Jan 17, 2019 11:06:02 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 42ms 平均耗时 22ms!
+Jan 17, 2019 11:06:09 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 28ms 平均耗时 22ms!
+Jan 17, 2019 11:06:15 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 22ms 平均耗时 21ms!
+Jan 17, 2019 11:06:40 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 27ms 平均耗时 21ms!
+Jan 17, 2019 11:06:46 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 32ms 平均耗时 21ms!
+Jan 17, 2019 11:07:23 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 25ms 平均耗时 21ms!
+Jan 17, 2019 11:07:36 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 50ms 平均耗时 22ms!
+Jan 17, 2019 11:07:41 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 32ms 平均耗时 22ms!
+Jan 17, 2019 11:22:59 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 53ms 平均耗时 21ms!
+Jan 17, 2019 11:47:55 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 31ms 平均耗时 21ms!
+Jan 18, 2019 9:26:32 AM[Yum 能耗监控] 注意! 玩家 zuxt 执行 LoginSecurity 插件 login 40494049 命令 耗时 96ms 平均耗时 140ms!
+Jan 18, 2019 9:38:20 AM[Yum 能耗监控] 注意! 玩家 RichangP 执行 LoginSecurity 插件 login 678585 命令 耗时 104ms 平均耗时 135ms!
+Jan 18, 2019 12:14:47 PM[Yum 能耗监控] 注意! 玩家 RichangP 执行 LoginSecurity 插件 login 678585 命令 耗时 105ms 平均耗时 132ms!
+Jan 18, 2019 12:45:25 PM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 101ms 平均耗时 129ms!
+Jan 18, 2019 1:54:10 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 110ms 平均耗时 127ms!
+Jan 18, 2019 2:47:48 PM[Yum 能耗监控] 注意! 玩家 RichangP 执行 LoginSecurity 插件 login 678585 命令 耗时 105ms 平均耗时 125ms!
+Jan 18, 2019 3:23:33 PM[Yum 能耗监控] 注意! 玩家 AKO 执行 LoginSecurity 插件 login 901125 命令 耗时 102ms 平均耗时 123ms!
+Jan 18, 2019 3:28:33 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerJoinEvent 事件 耗时 29ms 平均耗时 29ms!
+Jan 18, 2019 3:28:33 PM[Yum 能耗监控] 注意! 插件 MiaoBoard 处理 PlayerJoinEvent 事件 耗时 21ms 平均耗时 21ms!
+Jan 18, 2019 3:28:33 PM[Yum 能耗监控] 注意! 插件 LoginSecurity 处理 PlayerJoinEvent 事件 耗时 88ms 平均耗时 88ms!
+Jan 18, 2019 3:28:33 PM[Yum 能耗监控] 注意! 插件 Essentials 处理 PlayerTeleportEvent 事件 耗时 32ms 平均耗时 32ms!
+Jan 18, 2019 3:29:03 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 65ms 平均耗时 65ms!
+Jan 18, 2019 3:29:04 PM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 274ms 平均耗时 274ms!
+Jan 18, 2019 3:29:11 PM[Yum 能耗监控] 注意! 插件 WorldEdit 处理 PlayerInteractEvent 事件 耗时 31ms 平均耗时 31ms!
+Jan 18, 2019 3:29:11 PM[Yum 能耗监控] 注意! 插件 LockettePro 处理 PlayerInteractEvent 事件 耗时 25ms 平均耗时 25ms!
+Jan 18, 2019 3:29:13 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerChatEvent 事件 耗时 40ms 平均耗时 40ms!
+Jan 18, 2019 3:29:15 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 InventoryClickEvent 事件 耗时 344ms 平均耗时 344ms!
+Jan 18, 2019 3:29:24 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 43ms 平均耗时 54ms!
+Jan 18, 2019 3:29:27 PM[Yum 能耗监控] 注意! 插件 HolographicDisplays 处理 ChunkLoadEvent 事件 耗时 30ms 平均耗时 30ms!
+Jan 18, 2019 3:30:02 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerJoinEvent 事件 耗时 49ms 平均耗时 39ms!
+Jan 18, 2019 3:30:02 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 36ms 平均耗时 28ms!
+Jan 18, 2019 3:30:10 PM[Yum 能耗监控] 注意! 插件 LoginSecurity 处理 PlayerJoinEvent 事件 耗时 33ms 平均耗时 46ms!
+Jan 18, 2019 3:30:39 PM[Yum 能耗监控] 注意! 玩家 zuxt 执行 LoginSecurity 插件 login 40494094 命令 耗时 161ms 平均耗时 218ms!
+Jan 18, 2019 3:30:41 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 35ms 平均耗时 41ms!
+Jan 18, 2019 3:30:41 PM[Yum 能耗监控] 注意! 玩家 AKO 执行 LoginSecurity 插件 login 901125 命令 耗时 193ms 平均耗时 209ms!
+Jan 18, 2019 3:30:45 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 45ms 平均耗时 41ms!
+Jan 18, 2019 3:30:47 PM[Yum 能耗监控] 注意! 玩家 zuxt 执行 LoginSecurity 插件 login 40494049 命令 耗时 152ms 平均耗时 195ms!
+Jan 18, 2019 3:33:50 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 42ms 平均耗时 37ms!
+Jan 18, 2019 3:36:13 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 70ms 平均耗时 31ms!
+Jan 18, 2019 3:36:45 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 23ms 平均耗时 29ms!
+Jan 18, 2019 3:37:34 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerChatEvent 事件 耗时 22ms 平均耗时 31ms!
+Jan 18, 2019 3:37:46 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 27ms 平均耗时 28ms!
+Jan 18, 2019 3:37:46 PM[Yum 能耗监控] 注意! 玩家 RichangP 执行 LoginSecurity 插件 login 678585 命令 耗时 100ms 平均耗时 176ms!
+Jan 18, 2019 3:39:11 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 29ms 平均耗时 28ms!
+Jan 18, 2019 3:40:01 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 42ms 平均耗时 28ms!
+Jan 18, 2019 3:40:02 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 26ms 平均耗时 23ms!
+Jan 18, 2019 3:40:40 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 98ms 平均耗时 163ms!
+Jan 18, 2019 3:42:44 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 27ms 平均耗时 23ms!
+Jan 18, 2019 3:46:47 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 28ms 平均耗时 21ms!
+Jan 18, 2019 3:46:58 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 30ms 平均耗时 21ms!
+Jan 18, 2019 3:49:40 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 72ms 平均耗时 72ms!
+Jan 18, 2019 3:49:46 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 44ms 平均耗时 58ms!
+Jan 18, 2019 6:59:31 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerJoinEvent 事件 耗时 30ms 平均耗时 22ms!
+Jan 18, 2019 7:00:11 PM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 93ms 平均耗时 153ms!
+Jan 18, 2019 8:59:44 PM[Yum 能耗监控] 注意! 玩家 zuxt 执行 LoginSecurity 插件 login 40494049 命令 耗时 100ms 平均耗时 146ms!
+Jan 18, 2019 9:18:55 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerJoinEvent 事件 耗时 25ms 平均耗时 21ms!
+Jan 18, 2019 9:19:23 PM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 105ms 平均耗时 142ms!
+Jan 18, 2019 9:33:30 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerJoinEvent 事件 耗时 33ms 平均耗时 22ms!
+Jan 18, 2019 9:34:02 PM[Yum 能耗监控] 注意! 玩家 AKO 执行 LoginSecurity 插件 login 901125 命令 耗时 105ms 平均耗时 138ms!
+Jan 18, 2019 9:46:19 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerJoinEvent 事件 耗时 40ms 平均耗时 24ms!
+Jan 18, 2019 9:46:44 PM[Yum 能耗监控] 注意! 玩家 RichangP 执行 LoginSecurity 插件 login 678585 命令 耗时 99ms 平均耗时 135ms!
+Jan 18, 2019 10:47:04 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 68ms 平均耗时 21ms!
+Jan 18, 2019 10:47:06 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 26ms 平均耗时 21ms!
+Jan 18, 2019 10:47:07 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 37ms 平均耗时 21ms!
+Jan 18, 2019 10:47:08 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 43ms 平均耗时 21ms!
+Jan 18, 2019 10:47:09 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 25ms 平均耗时 21ms!
+Jan 18, 2019 10:47:10 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 31ms 平均耗时 22ms!
+Jan 18, 2019 10:48:20 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 23ms 平均耗时 22ms!
+Jan 18, 2019 10:48:21 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 26ms 平均耗时 22ms!
+Jan 18, 2019 10:48:53 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 23ms 平均耗时 22ms!
+Jan 18, 2019 10:48:54 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 26ms 平均耗时 22ms!
+Jan 18, 2019 10:48:57 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 25ms 平均耗时 22ms!
+Jan 18, 2019 10:48:58 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 23ms 平均耗时 22ms!
+Jan 18, 2019 10:48:59 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 25ms 平均耗时 22ms!
+Jan 18, 2019 10:49:08 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 47ms 平均耗时 22ms!
+Jan 18, 2019 10:49:11 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 24ms 平均耗时 22ms!
+Jan 18, 2019 10:49:13 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 26ms 平均耗时 22ms!
+Jan 18, 2019 10:49:14 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 26ms 平均耗时 22ms!
+Jan 18, 2019 10:49:28 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 25ms 平均耗时 22ms!
+Jan 18, 2019 10:49:32 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 33ms 平均耗时 22ms!
+Jan 18, 2019 10:50:03 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 41ms 平均耗时 22ms!
+Jan 18, 2019 10:50:04 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 35ms 平均耗时 23ms!
+Jan 18, 2019 10:50:33 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 44ms 平均耗时 23ms!
+Jan 18, 2019 10:50:54 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 24ms 平均耗时 23ms!
+Jan 18, 2019 10:50:55 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 27ms 平均耗时 23ms!
+Jan 18, 2019 10:50:56 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 23ms 平均耗时 23ms!
+Jan 18, 2019 10:50:59 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 27ms 平均耗时 23ms!
+Jan 18, 2019 10:51:03 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 43ms 平均耗时 23ms!
+Jan 18, 2019 10:51:05 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 30ms 平均耗时 23ms!
+Jan 18, 2019 10:51:06 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 30ms 平均耗时 23ms!
+Jan 18, 2019 10:51:14 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 23ms 平均耗时 23ms!
+Jan 18, 2019 10:51:15 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 40ms 平均耗时 23ms!
+Jan 18, 2019 10:51:16 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 26ms 平均耗时 23ms!
+Jan 18, 2019 10:51:17 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 30ms 平均耗时 23ms!
+Jan 18, 2019 10:52:00 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 36ms 平均耗时 23ms!
+Jan 18, 2019 10:52:01 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 31ms 平均耗时 24ms!
+Jan 18, 2019 10:52:02 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 30ms 平均耗时 24ms!
+Jan 18, 2019 10:52:03 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 25ms 平均耗时 24ms!
+Jan 18, 2019 10:52:04 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 27ms 平均耗时 24ms!
+Jan 18, 2019 10:52:05 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 29ms 平均耗时 24ms!
+Jan 18, 2019 10:52:20 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 23ms 平均耗时 24ms!
+Jan 18, 2019 10:52:21 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 26ms 平均耗时 24ms!
+Jan 18, 2019 10:52:22 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 26ms 平均耗时 24ms!
+Jan 18, 2019 10:52:29 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 27ms 平均耗时 24ms!
+Jan 18, 2019 10:52:30 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 31ms 平均耗时 24ms!
+Jan 18, 2019 10:52:31 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 53ms 平均耗时 24ms!
+Jan 18, 2019 10:52:32 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 25ms 平均耗时 24ms!
+Jan 18, 2019 10:52:56 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 24ms 平均耗时 24ms!
+Jan 18, 2019 10:52:57 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 23ms 平均耗时 24ms!
+Jan 18, 2019 10:52:59 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 32ms 平均耗时 24ms!
+Jan 18, 2019 10:53:14 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 24ms 平均耗时 24ms!
+Jan 18, 2019 10:53:15 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 26ms 平均耗时 24ms!
+Jan 18, 2019 10:53:16 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 27ms 平均耗时 24ms!
+Jan 18, 2019 10:53:25 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 24ms 平均耗时 24ms!
+Jan 18, 2019 10:53:26 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 24ms 平均耗时 24ms!
+Jan 18, 2019 10:53:27 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 24ms 平均耗时 24ms!
+Jan 18, 2019 10:53:53 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 27ms 平均耗时 24ms!
+Jan 18, 2019 10:53:54 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 45ms 平均耗时 24ms!
+Jan 18, 2019 10:53:55 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 36ms 平均耗时 24ms!
+Jan 18, 2019 10:54:15 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 24ms 平均耗时 24ms!
+Jan 18, 2019 10:54:16 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 23ms 平均耗时 24ms!
+Jan 18, 2019 10:54:17 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 33ms 平均耗时 24ms!
+Jan 18, 2019 10:54:18 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 25ms 平均耗时 24ms!
+Jan 18, 2019 10:54:54 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 23ms 平均耗时 24ms!
+Jan 18, 2019 10:54:55 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 25ms 平均耗时 24ms!
+Jan 18, 2019 10:54:56 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 24ms 平均耗时 24ms!
+Jan 18, 2019 10:55:29 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 25ms 平均耗时 24ms!
+Jan 18, 2019 10:55:30 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 26ms 平均耗时 24ms!
+Jan 18, 2019 10:55:31 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 47ms 平均耗时 25ms!
+Jan 18, 2019 10:55:32 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 24ms 平均耗时 25ms!
+Jan 18, 2019 10:55:33 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 25ms 平均耗时 25ms!
+Jan 18, 2019 10:55:34 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 48ms 平均耗时 25ms!
+Jan 18, 2019 10:55:59 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 43ms 平均耗时 25ms!
+Jan 18, 2019 10:56:01 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 64ms 平均耗时 25ms!
+Jan 18, 2019 10:56:02 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 30ms 平均耗时 25ms!
+Jan 18, 2019 10:57:23 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 41ms 平均耗时 25ms!
+Jan 18, 2019 10:57:26 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 23ms 平均耗时 25ms!
+Jan 18, 2019 10:57:27 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 29ms 平均耗时 25ms!
+Jan 18, 2019 10:57:29 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 41ms 平均耗时 25ms!
+Jan 18, 2019 10:57:30 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 33ms 平均耗时 25ms!
+Jan 18, 2019 10:57:31 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 24ms 平均耗时 25ms!
+Jan 18, 2019 10:57:34 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 25ms 平均耗时 25ms!
+Jan 18, 2019 10:57:35 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 24ms 平均耗时 25ms!
+Jan 18, 2019 10:57:36 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 26ms 平均耗时 25ms!
+Jan 18, 2019 10:58:18 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 24ms 平均耗时 25ms!
+Jan 18, 2019 10:58:19 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 24ms 平均耗时 25ms!
+Jan 18, 2019 10:58:20 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 24ms 平均耗时 25ms!
+Jan 18, 2019 10:58:24 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 EntityDeathEvent 事件 耗时 23ms 平均耗时 25ms!
+Jan 19, 2019 12:02:20 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerJoinEvent 事件 耗时 29ms 平均耗时 24ms!
+Jan 19, 2019 12:02:58 AM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 105ms 平均耗时 132ms!
+Jan 19, 2019 12:45:49 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 769ms 平均耗时 24ms!
+Jan 19, 2019 12:46:28 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 183ms 平均耗时 25ms!
+Jan 19, 2019 12:50:21 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 3502ms 平均耗时 41ms!
+Jan 19, 2019 12:50:26 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 3197ms 平均耗时 56ms!
+Jan 19, 2019 12:51:05 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 1898ms 平均耗时 65ms!
+Jan 19, 2019 12:51:28 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 1896ms 平均耗时 74ms!
+Jan 19, 2019 12:59:53 AM[Yum 能耗监控] 注意! 插件 Yum 处理 pw.yumc.Yum.listeners.PluginListener$1 任务 耗时 68ms 平均耗时 68ms!
+Jan 19, 2019 1:00:11 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerJoinEvent 事件 耗时 37ms 平均耗时 37ms!
+Jan 19, 2019 1:00:11 AM[Yum 能耗监控] 注意! 插件 MiaoBoard 处理 PlayerJoinEvent 事件 耗时 23ms 平均耗时 23ms!
+Jan 19, 2019 1:00:11 AM[Yum 能耗监控] 注意! 插件 LoginSecurity 处理 PlayerJoinEvent 事件 耗时 114ms 平均耗时 114ms!
+Jan 19, 2019 1:00:11 AM[Yum 能耗监控] 注意! 插件 Essentials 处理 PlayerTeleportEvent 事件 耗时 46ms 平均耗时 46ms!
+Jan 19, 2019 1:00:23 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerJoinEvent 事件 耗时 91ms 平均耗时 64ms!
+Jan 19, 2019 1:00:39 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 61ms 平均耗时 61ms!
+Jan 19, 2019 1:00:40 AM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 262ms 平均耗时 262ms!
+Jan 19, 2019 1:00:41 AM[Yum 能耗监控] 注意! 插件 WorldEdit 处理 PlayerInteractEvent 事件 耗时 38ms 平均耗时 38ms!
+Jan 19, 2019 1:00:43 AM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 InventoryClickEvent 事件 耗时 285ms 平均耗时 285ms!
+Jan 19, 2019 1:00:56 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 47ms 平均耗时 54ms!
+Jan 19, 2019 1:00:56 AM[Yum 能耗监控] 注意! 玩家 AKO 执行 LoginSecurity 插件 login 901125 命令 耗时 195ms 平均耗时 228ms!
+Jan 19, 2019 1:02:38 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 54ms 平均耗时 54ms!
+Jan 19, 2019 1:02:55 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 31ms 平均耗时 48ms!
+Jan 19, 2019 1:03:12 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 28ms 平均耗时 44ms!
+Jan 19, 2019 1:03:47 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 35ms 平均耗时 43ms!
+Jan 19, 2019 1:06:03 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 50ms 平均耗时 44ms!
+Jan 19, 2019 1:07:11 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 28ms 平均耗时 42ms!
+Jan 19, 2019 1:07:19 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 21ms 平均耗时 39ms!
+Jan 19, 2019 1:08:01 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 29ms 平均耗时 38ms!
+Jan 19, 2019 1:09:38 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 37ms 平均耗时 37ms!
+Jan 19, 2019 1:09:59 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 30ms 平均耗时 36ms!
+Jan 19, 2019 1:12:26 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 31ms 平均耗时 35ms!
+Jan 19, 2019 1:14:06 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 27ms 平均耗时 31ms!
+Jan 19, 2019 1:14:45 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 31ms 平均耗时 30ms!
+Jan 19, 2019 1:22:42 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 29ms 平均耗时 26ms!
+Jan 19, 2019 1:23:24 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 27ms 平均耗时 25ms!
+Jan 19, 2019 1:24:33 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 33ms 平均耗时 25ms!
+Jan 19, 2019 1:25:59 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 23ms 平均耗时 25ms!
+Jan 19, 2019 1:30:37 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 30ms 平均耗时 25ms!
+Jan 19, 2019 1:30:46 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 29ms 平均耗时 25ms!
+Jan 19, 2019 1:31:03 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 21ms 平均耗时 24ms!
+Jan 19, 2019 1:33:05 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 30ms 平均耗时 24ms!
+Jan 19, 2019 1:37:28 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 26ms 平均耗时 24ms!
+Jan 19, 2019 1:38:14 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 26ms 平均耗时 24ms!
+Jan 19, 2019 1:43:41 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 28ms 平均耗时 24ms!
+Jan 19, 2019 1:45:35 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 21ms 平均耗时 24ms!
+Jan 19, 2019 1:56:08 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 28ms 平均耗时 24ms!
+Jan 19, 2019 2:03:26 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 31ms 平均耗时 24ms!
+Jan 19, 2019 2:04:09 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 35ms 平均耗时 24ms!
+Jan 19, 2019 2:07:46 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 29ms 平均耗时 24ms!
+Jan 19, 2019 2:12:00 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 53ms 平均耗时 24ms!
+Jan 19, 2019 2:13:07 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 41ms 平均耗时 24ms!
+Jan 19, 2019 3:12:39 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 29ms 平均耗时 24ms!
+Jan 19, 2019 3:16:52 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 27ms 平均耗时 24ms!
+Jan 19, 2019 3:22:25 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 30ms 平均耗时 24ms!
+Jan 19, 2019 3:29:41 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 31ms 平均耗时 24ms!
+Jan 19, 2019 10:44:52 AM[Yum 能耗监控] 注意! 玩家 RichangP 执行 LoginSecurity 插件 login 678585 命令 耗时 99ms 平均耗时 185ms!
+Jan 19, 2019 10:52:23 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerJoinEvent 事件 耗时 26ms 平均耗时 37ms!
+Jan 19, 2019 10:52:38 AM[Yum 能耗监控] 注意! 玩家 Sodital 执行 LoginSecurity 插件 login 123456 命令 耗时 100ms 平均耗时 164ms!
+Jan 19, 2019 11:54:37 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerJoinEvent 事件 耗时 27ms 平均耗时 36ms!
+Jan 19, 2019 11:55:04 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 21ms 平均耗时 23ms!
+Jan 19, 2019 11:55:04 AM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 106ms 平均耗时 152ms!
+Jan 19, 2019 12:10:25 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 31ms 平均耗时 23ms!
+Jan 19, 2019 12:37:01 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 40ms 平均耗时 23ms!
+Jan 19, 2019 12:38:16 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 21ms 平均耗时 23ms!
+Jan 19, 2019 12:55:12 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 30ms 平均耗时 23ms!
+Jan 19, 2019 1:08:42 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 31ms 平均耗时 22ms!
+Jan 19, 2019 1:58:40 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 21ms 平均耗时 22ms!
+Jan 19, 2019 2:11:03 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerJoinEvent 事件 耗时 29ms 平均耗时 22ms!
+Jan 19, 2019 2:11:15 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 23ms 平均耗时 22ms!
+Jan 19, 2019 2:11:29 PM[Yum 能耗监控] 注意! 玩家 AKO 执行 LoginSecurity 插件 login 901125 命令 耗时 95ms 平均耗时 143ms!
+Jan 19, 2019 2:13:51 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 36ms 平均耗时 22ms!
+Jan 19, 2019 2:15:31 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 93ms 平均耗时 136ms!
+Jan 19, 2019 2:17:19 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 30ms 平均耗时 22ms!
+Jan 19, 2019 2:19:41 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 31ms 平均耗时 22ms!
+Jan 19, 2019 2:25:22 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 35ms 平均耗时 21ms!
+Jan 19, 2019 2:30:33 PM[Yum 能耗监控] 注意! 玩家 Mercury 执行 LoginSecurity 插件 login lanerayi 命令 耗时 101ms 平均耗时 131ms!
+Jan 19, 2019 2:41:01 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 36ms 平均耗时 21ms!
+Jan 19, 2019 2:54:03 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 31ms 平均耗时 21ms!
+Jan 19, 2019 3:06:12 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 27ms 平均耗时 21ms!
+Jan 19, 2019 3:11:24 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 40ms 平均耗时 21ms!
+Jan 19, 2019 3:19:45 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 102ms 平均耗时 128ms!
+Jan 19, 2019 3:24:55 PM[Yum 能耗监控] 注意! 玩家 hiahia 执行 LoginSecurity 插件 login sundan123 命令 耗时 103ms 平均耗时 114ms!
+Jan 19, 2019 3:25:19 PM[Yum 能耗监控] 注意! 玩家 Mercury 执行 LoginSecurity 插件 login lanerayi 命令 耗时 99ms 平均耗时 113ms!
+Jan 19, 2019 3:27:33 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login ganimei 命令 耗时 90ms 平均耗时 111ms!
+Jan 19, 2019 3:27:37 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 95ms 平均耗时 110ms!
+Jan 19, 2019 4:10:15 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 104ms 平均耗时 110ms!
+Jan 19, 2019 5:03:58 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 100ms 平均耗时 109ms!
+Jan 19, 2019 5:42:30 PM[Yum 能耗监控] 注意! 玩家 RichangP 执行 LoginSecurity 插件 login 678585 命令 耗时 97ms 平均耗时 108ms!
+Jan 19, 2019 7:13:07 PM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 99ms 平均耗时 108ms!
+Jan 19, 2019 9:02:58 PM[Yum 能耗监控] 注意! 玩家 AKO 执行 LoginSecurity 插件 login 901125 命令 耗时 111ms 平均耗时 108ms!
+Jan 19, 2019 9:59:32 PM[Yum 能耗监控] 注意! 插件 MiaoBoard 处理 PlayerJoinEvent 事件 耗时 22ms 平均耗时 22ms!
+Jan 19, 2019 9:59:32 PM[Yum 能耗监控] 注意! 插件 LoginSecurity 处理 PlayerJoinEvent 事件 耗时 75ms 平均耗时 75ms!
+Jan 19, 2019 9:59:32 PM[Yum 能耗监控] 注意! 插件 Essentials 处理 PlayerTeleportEvent 事件 耗时 30ms 平均耗时 30ms!
+Jan 19, 2019 9:59:33 PM[Yum 能耗监控] 注意! 插件 WorldEdit 处理 PlayerGameModeChangeEvent 事件 耗时 229ms 平均耗时 229ms!
+Jan 19, 2019 10:00:00 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 140ms 平均耗时 140ms!
+Jan 19, 2019 10:00:51 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerJoinEvent 事件 耗时 43ms 平均耗时 24ms!
+Jan 19, 2019 10:00:51 PM[Yum 能耗监控] 注意! 插件 LoginSecurity 处理 PlayerJoinEvent 事件 耗时 26ms 平均耗时 50ms!
+Jan 19, 2019 10:01:15 PM[Yum 能耗监控] 注意! 玩家 AKO 执行 LoginSecurity 插件 login 901125 命令 耗时 176ms 平均耗时 158ms!
+Jan 19, 2019 10:06:29 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 InventoryCreativeEvent 事件 耗时 334ms 平均耗时 334ms!
+Jan 19, 2019 10:15:02 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerChatEvent 事件 耗时 48ms 平均耗时 48ms!
+Jan 19, 2019 10:15:08 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerChatEvent 事件 耗时 29ms 平均耗时 38ms!
+Jan 19, 2019 10:17:28 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerJoinEvent 事件 耗时 27ms 平均耗时 25ms!
+Jan 19, 2019 10:17:52 PM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 101ms 平均耗时 139ms!
+Jan 19, 2019 10:21:36 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 44ms 平均耗时 21ms!
+Jan 19, 2019 10:39:25 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 87ms 平均耗时 21ms!
+Jan 19, 2019 10:40:40 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerChatEvent 事件 耗时 28ms 平均耗时 35ms!
+Jan 19, 2019 10:41:02 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerChatEvent 事件 耗时 36ms 平均耗时 31ms!
+Jan 19, 2019 10:41:29 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 23ms 平均耗时 21ms!
+Jan 19, 2019 10:41:50 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 34ms 平均耗时 21ms!
+Jan 19, 2019 10:41:51 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 42ms 平均耗时 22ms!
+Jan 19, 2019 10:41:58 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerChatEvent 事件 耗时 50ms 平均耗时 34ms!
+Jan 19, 2019 10:43:20 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 38ms 平均耗时 22ms!
+Jan 19, 2019 10:53:15 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 48ms 平均耗时 22ms!
+Jan 19, 2019 10:54:51 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 26ms 平均耗时 22ms!
+Jan 19, 2019 10:55:15 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 25ms 平均耗时 21ms!
+Jan 19, 2019 10:56:12 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 46ms 平均耗时 21ms!
+Jan 19, 2019 10:56:15 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerChatEvent 事件 耗时 30ms 平均耗时 24ms!
+Jan 19, 2019 10:56:37 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerChatEvent 事件 耗时 26ms 平均耗时 21ms!
+Jan 19, 2019 10:57:22 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 26ms 平均耗时 21ms!
+Jan 20, 2019 12:17:51 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerJoinEvent 事件 耗时 59ms 平均耗时 33ms!
+Jan 20, 2019 12:18:28 AM[Yum 能耗监控] 注意! 玩家 AKO 执行 LoginSecurity 插件 login 901125 命令 耗时 105ms 平均耗时 131ms!
+Jan 20, 2019 12:18:46 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerJoinEvent 事件 耗时 34ms 平均耗时 33ms!
+Jan 20, 2019 12:18:46 AM[Yum 能耗监控] 注意! 插件 LoginSecurity 处理 PlayerJoinEvent 事件 耗时 21ms 平均耗时 31ms!
+Jan 20, 2019 12:19:02 AM[Yum 能耗监控] 注意! 玩家 RichangP 执行 LoginSecurity 插件 login 678585 命令 耗时 106ms 平均耗时 126ms!
+Jan 20, 2019 11:16:58 AM[Yum 能耗监控] 注意! 玩家 Mercury 执行 LoginSecurity 插件 login lanerayi 命令 耗时 91ms 平均耗时 120ms!
+Jan 20, 2019 11:58:48 AM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerJoinEvent 事件 耗时 34ms 平均耗时 26ms!
+Jan 20, 2019 11:59:43 AM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 104ms 平均耗时 118ms!
+Jan 20, 2019 1:30:33 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 96ms 平均耗时 115ms!
+Jan 20, 2019 2:01:27 PM[Yum 能耗监控] 注意! 玩家 Sodital 执行 LoginSecurity 插件 login 123456 命令 耗时 99ms 平均耗时 113ms!
+Jan 20, 2019 3:15:03 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerDeathEvent 事件 耗时 56ms 平均耗时 21ms!
+Jan 20, 2019 3:19:27 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerJoinEvent 事件 耗时 35ms 平均耗时 21ms!
+Jan 20, 2019 3:20:02 PM[Yum 能耗监控] 注意! 玩家 AKO 执行 LoginSecurity 插件 login 901125 命令 耗时 110ms 平均耗时 113ms!
+Jan 20, 2019 4:52:01 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 27ms 平均耗时 27ms!
+Jan 20, 2019 4:52:02 PM[Yum 能耗监控] 注意! 插件 MiaoBoard 处理 PlayerJoinEvent 事件 耗时 33ms 平均耗时 33ms!
+Jan 20, 2019 4:52:02 PM[Yum 能耗监控] 注意! 插件 CoreProtect 处理 PlayerJoinEvent 事件 耗时 46ms 平均耗时 46ms!
+Jan 20, 2019 4:52:02 PM[Yum 能耗监控] 注意! 插件 LoginSecurity 处理 PlayerJoinEvent 事件 耗时 88ms 平均耗时 88ms!
+Jan 20, 2019 4:52:02 PM[Yum 能耗监控] 注意! 插件 Essentials 处理 PlayerTeleportEvent 事件 耗时 57ms 平均耗时 57ms!
+Jan 20, 2019 4:52:31 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerJoinEvent 事件 耗时 74ms 平均耗时 40ms!
+Jan 20, 2019 4:52:54 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerCommandPreprocessEvent 事件 耗时 63ms 平均耗时 63ms!
+Jan 20, 2019 4:52:55 PM[Yum 能耗监控] 注意! 玩家 AKO 执行 LoginSecurity 插件 login 901125 命令 耗时 234ms 平均耗时 234ms!
+Jan 20, 2019 4:53:07 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 InventoryClickEvent 事件 耗时 249ms 平均耗时 249ms!
+Jan 20, 2019 4:53:17 PM[Yum 能耗监控] 注意! 插件 ItemExpansionPack 处理 PlayerInteractEvent 事件 耗时 46ms 平均耗时 23ms!
+Jan 20, 2019 4:55:41 PM[Yum 能耗监控] 注意! 玩家 NataliaTsunako 执行 LoginSecurity 插件 login gannimei 命令 耗时 90ms 平均耗时 162ms!
+Jan 20, 2019 4:56:11 PM[Yum 能耗监控] 注意! 插件 AdvancedLogger 处理 PlayerChatEvent 事件 耗时 87ms 平均耗时 44ms!
+Jan 20, 2019 4:57:14 PM[Yum 能耗监控] 注意! 插件 SkinsRestorer 处理 PlayerJoinEvent 事件 耗时 30ms 平均耗时 22ms!
+Jan 20, 2019 4:57:14 PM[Yum 能耗监控] 注意! 插件 LoginSecurity 处理 PlayerJoinEvent 事件 耗时 34ms 平均耗时 35ms!
+Jan 20, 2019 4:57:58 PM[Yum 能耗监控] 注意! 玩家 zuxt 执行 LoginSecurity 插件 login 40494049 命令 耗时 97ms 平均耗时 140ms!
+Jan 20, 2019 5:38:55 PM[Yum 能耗监控] 注意! 玩家 Sodital 执行 LoginSecurity 插件 login 123456 命令 耗时 104ms 平均耗时 105ms!
+Jan 20, 2019 5:59:42 PM[Yum 能耗监控] 注意! 玩家 HOLLYWU 执行 LoginSecurity 插件 login 1357924680 命令 耗时 92ms 平均耗时 88ms!

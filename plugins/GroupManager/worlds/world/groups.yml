@@ -9,48 +9,6 @@
 # Local group inheritances define your promotion tree when using 'manpromote/mandemote'
 
 groups:
-  Default:
-    default: true
-    permissions:
-    - -bukkit.command.kill
-    - MiaoChat.color
-    - MiaoChat.default
-    - MiaoChat.toggle
-    - plots.use
-    - plots.plot.1
-    - plots.permpack.basic
-    - plots.permpack.basicinbox
-    - plots.permpack.basicflags
-    - quickshop.use
-    - quickshop.create.sell
-    - quickshop.create.buy
-    - quickshop.create.changeprice
-    - quickshop.find
-    - coreprotect.inspect
-    - multiverse.access.world
-    - multiverse.access.world_nether
-    inheritance:
-    - g:groupmanager_default
-    - g:bukkit_default
-    - g:essentials_default
-    - g:towny_default
-    - g:essentials_builder
-    - g:towny_builder
-    info:
-      prefix: '&e'
-      build: true
-      suffix: ''
-  Builder:
-    default: false
-    permissions: []
-    inheritance:
-    - default
-    - g:essentials_builder
-    - g:towny_builder
-    info:
-      prefix: '&2'
-      build: true
-      suffix: ''
   Moderator:
     default: false
     permissions: []
@@ -62,8 +20,31 @@ groups:
     - g:towny_moderator
     - g:vanish_moderator
     info:
-      prefix: '&5'
       build: true
+      prefix: '&5'
+      suffix: ''
+  Owner:
+    default: false
+    permissions:
+    - +vanish.effects.toggle.all
+    - -vanish.effects.*
+    - '*'
+    inheritance:
+    - admin
+    info:
+      build: true
+      prefix: '&4'
+      suffix: ''
+  Builder:
+    default: false
+    permissions: []
+    inheritance:
+    - default
+    - g:essentials_builder
+    - g:towny_builder
+    info:
+      build: true
+      prefix: '&2'
       suffix: ''
   Admin:
     default: false
@@ -76,18 +57,42 @@ groups:
     - g:towny_admin
     - g:vanish_admin
     info:
+      build: true
       prefix: '&c'
-      build: true
       suffix: ''
-  Owner:
-    default: false
+  Default:
+    default: true
     permissions:
-    - '*'
-    - -vanish.effects.*
-    - +vanish.effects.toggle.all
+    - -bukkit.command.kill
+    - coreprotect.inspect
+    - ier.achievement
+    - ier.guide
+    - MiaoChat.color
+    - MiaoChat.default
+    - MiaoChat.toggle
+    - morefish.help
+    - morefish.shop
+    - morefish.top
+    - multiverse.access.world
+    - multiverse.access.world_nether
+    - plots.permpack.basic
+    - plots.permpack.basicflags
+    - plots.permpack.basicinbox
+    - plots.plot.1
+    - plots.use
+    - quickshop.create.buy
+    - quickshop.create.changeprice
+    - quickshop.create.sell
+    - quickshop.find
+    - quickshop.use
     inheritance:
-    - admin
+    - g:groupmanager_default
+    - g:bukkit_default
+    - g:essentials_default
+    - g:towny_default
+    - g:essentials_builder
+    - g:towny_builder
     info:
-      prefix: '&4'
       build: true
+      prefix: '&e'
       suffix: ''

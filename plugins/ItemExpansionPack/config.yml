@@ -1,0 +1,1274 @@
+#==============================+
+#           物品总设置           |
+#==============================+
+Drop: 
+#毒苹果=======
+     I1:
+     #物品名称设置
+       Name: '毒苹果'
+     #物品的描述设置
+       Lore: 
+       - '§b听说这玩意之前毒死了某公主'
+       #吃下后获得的效果
+       Poision: 19
+       #持续时间
+       Time: 10
+       #药水效果等级（从1开始）
+       Level: 1
+       #是否允许通过合成获得
+       CanRecipe: true
+       #不要做任何编辑
+#香蕉=======
+     I2:
+       Name: '香蕉'
+       Lore: 
+       - '§b香蕉可以为你带来明显的回血效果哦'
+       Poision: 6
+       Time: 1
+       Level: 1
+#奇异果======
+     I3:
+       Name: '奇异果'
+       Lore: 
+       - '§b奇异果可以让玩家发光哦~'
+       Poision: 24
+       Time: 10
+       Level: 1
+#火龙果======
+     I4:
+       Name: '火龙果'
+       Lore: 
+       - '§b火龙果可以为玩家提供力量增益'
+       Poision: 5
+       Time: 10
+       Level: 2
+#葡萄======
+     I5:
+       Name: '葡萄'
+       Lore: 
+       - '§b葡萄可以暂时提供额外生命上限'
+       Poision: 21
+       Time: 10
+       Level: 1
+#草莓======
+     I6:
+       Name: '草莓'
+       Lore: 
+       - '§b草莓酸酸甜甜的，挺好吃的~'
+       Poision: 3
+       Time: 15
+       Level: 1
+#菠萝=======
+     I7:
+       Name: '菠萝'
+       Lore: 
+       - '§b来一发菠萝，嗨翻全场！'
+       Poision: 8
+       Time: 10
+       Level: 1
+#橘子=======
+     I8:
+       Name: '橘子'
+       Lore: 
+       - '§b橘子皮虽苦，却品味了人生'
+       Poision: 5
+       Time: 10
+       Level: 2
+       #负面效果设置（橘子独有）
+       DePoision: 19
+       DeTime: 10
+       DeLevel: 1
+#芒果======
+     I9:
+       Name: '芒果'
+       Lore: 
+       - '§b芒果可好吃了，要试试吗？'
+       Poision: 26
+       Time: 30
+       Level: 1
+#神圣果实======
+     I10:
+       Name: '神圣果实'
+       Lore: 
+       - '§b让神圣果实为你提供巨幅增益！'
+       Poision: 21
+       Time: 120
+       Level: 2
+#绿宝石弓========
+     I11:
+       Name: '绿宝石弓'
+       Lore: 
+       - '§b神奇的绿宝石弓，附加了自愈技能！'
+       CanRecipe: true
+       GoChance: 5.0
+       #治愈效果发动的治愈量（请注意，治愈的真实值需要减去1的损耗）
+       HealValue: 4
+#火鸟之翼=======
+     I12:
+       Name: '火鸟之翼'
+       Lore: 
+       - '§b神奇的翼弓，能够显著提高敏捷度！'
+       #移动速度加成（0.1为10%加成，负数则移动速度扣除）
+       MoveSpeed: 0.1
+       EffectTime: 3
+       GoChance: 50
+#红色刀锋========
+     I13:
+       Name: '红色刀锋'
+       Lore: 
+       - '§b红色的刀刃散发着一丝血意！'
+       #伤害值
+       Damage: 7.5
+       #攻击速度
+       Speed: 1.6
+       #效果发动概率1技能
+       GoChance1: 30.0
+       #效果发动概率2技能
+       GoChance2: 30.0
+       CanRecipe: false
+       EffectTime: 3
+#绿宝石剑========
+     I14:
+       Name: '绿宝石剑'
+       Lore: 
+       - '§b绿宝石制成的剑，简直无与伦比！'
+       Damage: 8.0
+       Speed: 1.6
+       CanRecipe: true
+#绿宝石锄========
+     I15:
+       Name: '绿宝石锄'
+       Lore: 
+       - '§b绿宝石工艺，绝佳的收藏品！'
+       Damage: 1.0
+       Speed: 3.0
+       CanRecipe: true
+#绿宝石锹========
+     I16:
+       Name: '绿宝石锹'
+       Lore: 
+       - '§b绿宝石制成的锹，在阳光下熠熠生辉！'
+       Damage: 6.0
+       Speed: 1.0
+       CanRecipe: true
+#绿宝石斧========
+     I17:
+       Name: '绿宝石斧'
+       Lore: 
+       - '§b绿宝石制成的斧头，贵族才能拥有的制品！'
+       Damage: 10.0
+       Speed: 1.0
+       CanRecipe: true
+#绿宝石镐========
+     I18:
+       Name: '绿宝石稿'
+       Lore: 
+       - '§b绿宝石稿子，据说可以挖到更多绿宝石？'
+       Damage: 7.0
+       Speed: 1.2
+       CanRecipe: true
+#绿宝石帽子========
+     I19:
+       Name: '绿宝石帽子'
+       Lore: 
+       - '§b绿宝石制作的帽子，挺好看的！'
+       #盔甲韧性（仅1.9无效，1.9.1后均有效）
+       ArmorToughness: 2
+       #护甲值
+       Armor: 4
+       CanRecipe: true
+#绿宝石胸甲========
+     I20:
+       Name: '绿宝石胸甲'
+       Lore: 
+       - '§b绿宝石胸甲，绿绿的诶！'
+       ArmorToughness: 2
+       Armor: 9
+       CanRecipe: true
+#绿宝石护腿========
+     I21:
+       Name: '绿宝石护腿'
+       Lore: 
+       - '§b绿色的护腿，似乎能有效保护玩家的腿部？'
+       ArmorToughness: 2
+       Armor: 7
+       CanRecipe: true
+#绿宝石靴========
+     I22:
+       Name: '绿宝石靴'
+       Lore: 
+       - '§b绿宝石制成的靴子，真好看啊！'
+       ArmorToughness: 2
+       Armor: 4
+       CanRecipe: true
+#石帽子========
+     I23:
+       Name: '石帽子'
+       Lore: 
+       - '§b石制的帽子，挺沉的'
+       Armor: 1
+       CanRecipe: true
+       MoveSpeed: -0.05
+#石胸甲========
+     I24:
+       Name: '石胸甲'
+       Lore: 
+       - '§b坚硬的石头，似乎能够抵御一部分伤害！'
+       Armor: 4
+       CanRecipe: true
+       MoveSpeed: -0.05
+#石护腿========
+     I25:
+       Name: '石护腿'
+       Lore: 
+       - '§b石头制成的护腿，虽然行动上有一些不便'
+       Armor: 3
+       CanRecipe: true
+       MoveSpeed: -0.05
+#石靴========
+     I26:
+       Name: '石靴'
+       Lore: 
+       - '§b石制的靴子，冰冷坚硬'
+       Armor: 1
+       CanRecipe: true
+       MoveSpeed: -0.05
+#石弓========
+     I27:
+       Name: '石弓'
+       Lore:
+       - '§b石质的大弓，坚硬冰冷。'
+       CanRecipe: true
+#金弓========
+     I28:  
+       Name: '金弓'
+       Lore:
+       - '§b金色的弓，金光闪闪！'   
+       CanRecipe: true
+#铁弓========
+     I29:  
+       Name: '铁弓'
+       Lore:
+       - '§b银色的铁质弓'
+       CanRecipe: true
+#钻石弓========
+     I30:  
+       Name: '钻石弓'
+       Lore:
+       - '§b据说这种材质能够提供特殊技能！'
+       CanRecipe: true
+       MoveSpeed: 0.05
+#西瓜沙冰========
+     I31:
+       Name: '西瓜沙冰'
+       Lore:
+       - '§b西瓜沙冰是什么？吃一口啊！'
+       Poision: 12
+       Time: 120
+       Level: 1
+       CanRecipe: true
+#胡萝卜汁========
+     I32:
+       Name: '胡萝卜汁'
+       Lore:
+       - '§b好喝的胡萝卜汁，能够提供特别的效果！'
+       CanRecipe: true
+       Poision: 16
+       Time: 20
+       Level: 1
+#苹果糖========
+     I33:
+       Name: '苹果糖'
+       Lore:
+       - '§b听说苹果糖很经典！'
+       Poision: 21
+       Time: 20
+       Level: 1
+       CanRecipe: true
+#猪肉烩========
+     I34:
+       Name: '猪肉烩'
+       Lore: 
+       - '§b这一锅还是费了一番苦心呢~'
+       CanRecipe: true
+       Poision: 0
+       Time: 0
+       Level: 0
+#羊肉汤锅========
+     I35:
+       Name: '羊肉汤锅'
+       Lore: 
+       - '§b暖暖身子吧'
+       CanRecipe: true
+       Poision: 0
+       Time: 0
+       Level: 0
+#麻辣牛肉========
+     I36:
+       Name: '麻辣牛肉'
+       Lore: 
+       - '§b辣不辣？'
+       CanRecipe: true
+       Poision: 0
+       Time: 0
+       Level: 0
+#鱿鱼========
+     I37:
+       Name: '鱿鱼'
+       Lore: 
+       - '§b来吃点海鲜'
+       Poision: 0
+       Time: 0
+       Level: 0
+#马肉========
+     I38:
+       Name: '马肉'
+       Lore: 
+       - '§b据说马肉可以补肾？'
+       Poision: 0
+       Time: 0
+       Level: 0
+#狼肉========
+     I39:
+       Name: '狼肉'
+       Lore: 
+       - '§b不仅马肉可以，狼肉也能补肾？'
+       Poision: 0
+       Time: 0
+       Level: 0
+#猫肉========
+     I40:
+       Name: '猫肉'
+       Lore: 
+       - '§b哇，猫肉也可以补肾诶！'
+       Poision: 0
+       Time: 0
+       Level: 0
+#树枝========
+     I41:
+       Name: '树枝'
+       Lore:
+       - '§b放在地上就可以得到木棍了！'
+#羽翅========
+     I42:
+       Name: '羽翅'
+       Lore:
+       - '§b白色的羽毛，是神的吗'
+       CanRecipe: true
+       MoveSpeed: 0.3
+#隐形的翅膀========
+     I43:
+       Name: '隐形的翅膀'
+       Lore:
+       - '§b看不见，摸不着'
+       CanRecipe: true
+#水翼========
+     I44:
+       Name: '水翼'
+       Lore:
+       - '§b海洋的深渊在呐喊'
+       CanRecipe: true
+#地心恐惧========
+     I45:
+       Name: '地心恐惧'
+       Lore:
+       - '§b来自地底的愤怒，蔓延开来！'
+       CanRecipe: true
+       HealthBoost: 6.0
+#蓝宝石========
+     I46:
+       Name: '蓝宝石'
+       Lore:
+       - '§b蓝色的宝石，可以用作交易'
+#红宝石========
+     I47:
+       Name: '红宝石'
+       Lore:
+       - '§b红色的宝石，可以用作交易'
+#黄宝石========
+     I48:
+       Name: '黄宝石'
+       Lore:
+       - '§b黄色的宝石，可以用作交易'
+       DropMob: []
+       ChanceMob: 0.0
+       ByWeapon: []
+       DontByWeapon: []
+       DropBlock: []
+       ChanceBlock: 0.0
+       ByTools: []
+       DontByTools: []
+#玩具刀========
+     I49:
+       Name: '贪玩蓝月'
+       Lore:
+       - '§b我系渣渣辉'
+       - '§b我系古天乐'
+       - '§b系兄弟就来砍我啊'
+#光剑·红=========
+     I50:
+       Name: '光剑·红'
+       Lore:
+       - '§b红色的光剑，看起来还是比较炫酷呢~'
+       Damage: 4.5
+       Speed: 1.9
+       CanRecipe: true
+#光剑·橙=========
+     I51:
+       Name: '光剑·橙'
+       Lore:
+       - '§b橙色的光剑，看起来还是比较炫酷呢~'
+       Damage: 4.0
+       Speed: 2.2
+       CanRecipe: true
+#光剑·黄=========
+     I52:
+       Name: '光剑·黄'
+       Lore:
+       - '§b黄色的光剑，看起来还是比较炫酷呢~'
+       Damage: 3.5
+       Speed: 2.5
+       CanRecipe: true
+#光剑·绿=========
+     I53:
+       Name: '光剑·绿'
+       Lore:
+       - '§b绿色的光剑，看起来还是比较炫酷呢~'
+       Damage: 3.0
+       Speed: 2.8
+       CanRecipe: true
+#光剑·蓝=========
+     I54:
+       Name: '光剑·蓝'
+       Lore:
+       - '§b蓝色的光剑，看起来还是比较炫酷呢~'
+       Damage: 2.5
+       Speed: 3.0
+       CanRecipe: true
+#光剑·紫=========
+     I55:
+       Name: '光剑·紫'
+       Lore:
+       - '§b紫色的光剑，看起来还是比较炫酷呢~'
+       Damage: 2.0
+       Speed: 3.3
+       CanRecipe: true
+#木枪=========
+     I56:
+       Name: '木枪'
+       Lore:
+       - '§b木质枪，感觉有点不尽人意呢'
+       Damage: 3.5
+       Speed: 1.4
+       CanRecipe: true
+#石枪=========
+     I57:
+       Name: '石枪'
+       Lore:
+       - '§b据说原始人常用这种武器'
+       Damage: 4.5
+       Speed: 1.4
+       CanRecipe: true
+#铁枪=========
+     I58:
+       Name: '铁枪'
+       Lore:
+       - '§b铁质枪，给人一种金属感'
+       Damage: 5.5
+       Speed: 1.4
+       CanRecipe: true
+#金枪=========
+     I59:
+       Name: '金枪'
+       Lore:
+       - '§b金色的利刃，似乎要突破天际了呢'
+       Damage: 4.0
+       Speed: 1.4
+       CanRecipe: true
+#钻石枪=========
+     I60:
+       Name: '钻石枪'
+       Lore:
+       - '§b只有最勇敢的冒险家才能配上这把钻石枪'
+       Damage: 6.5
+       Speed: 1.4
+       CanRecipe: true
+#绿宝石枪=========
+     I61:
+       Name: '绿宝石枪'
+       Lore:
+       - '§b绿宝石枪可谓是最珍贵的武器了'
+       Damage: 6.5
+       Speed: 1.6
+       CanRecipe: true
+#黑耀石枪=========
+     I62:
+       Name: '黑曜石枪'
+       Lore:
+       - '§b来自极夜的呼唤'
+       Damage: 7.0
+       Speed: 1.3
+       CanRecipe: true
+#末影珍珠·影能=========
+     I63:
+       Name: '末影珍珠·影能'
+       Lore:
+       - '§b传送并获得抗性提升'
+#剧毒刀刃=========
+     I64:
+       Name: '剧毒刀刃'
+       Lore:
+       - '§b充满剧毒的刀刃，有概率为敌人附上'
+       - '§b中毒效果！'
+       Damage: 5.5
+       Speed: 1.4
+       GoChance: 30.0
+       CanRecipe: true
+#剧毒刀刃二阶=========
+     I65:
+       Name: '剧毒刀刃·二阶'
+       Lore:
+       - '§b毒性更加凶猛的刀刃，会'
+       - '§b造成更严重的中毒！'
+       Damage: 6.5
+       Speed: 1.6
+       GoChance: 45.0
+#凋零刀刃=========
+     I66:
+       Name: '凋零刀刃'
+       Lore:
+       - '§b没有什么能比得过在时间流逝中杀死'
+       - '§b对手的感觉了！'
+       Damage: 5.5
+       Speed: 1.4
+       GoChance: 25.0
+       CanRecipe: true
+#凋零刀刃二阶=========
+     I67:
+       Name: '凋零刀刃·二阶'
+       Lore:
+       - '§b被染黑的血液似乎快堕落了呢'
+       Damage: 6.5
+       Speed: 1.6
+       GoChance: 40.0
+#凋零刀刃三阶=========
+     I68:
+       Name: '凋零刀刃·三阶'
+       Lore:
+       - '§b没有什么是人做不到的，痛下杀手？'
+       - '§b得了吧，那只是个游戏而已。'
+       Damage: 7.5
+       Speed: 1.8
+       GoChance: 50.0
+#木锤=========
+     I69:
+       Name: '木锤'
+       Lore:
+       - '§b经典的木质大锤'
+       Damage: 6.0
+       Speed: 1.0
+       CanRecipe: true
+#石锤=========
+     I70:
+       Name: '石锤'
+       Lore:
+       - '§b坚硬的石质大锤'
+       Damage: 7.0
+       Speed: 1.1
+       CanRecipe: true
+#铁锤=========
+     I71:
+       Name: '铁锤'
+       Lore:
+       - '§b强力的铁质大锤'
+       Damage: 8.0
+       Speed: 1.2
+       CanRecipe: true
+#金锤=========
+     I72:
+       Name: '金锤'
+       Lore:
+       - '§b闪亮的金质大锤'
+       Damage: 6.5
+       Speed: 1.3
+       CanRecipe: true
+#钻石锤=========
+     I73:
+       Name: '钻石锤'
+       Lore:
+       - '§b世上最奇怪的一种人叫朋友，略得些名利，'
+       - '§b朋友全来了'
+       Damage: 9.0
+       Speed: 1.4
+       CanRecipe: true
+#绿宝石锤=========
+     I74:
+       Name: '绿宝石锤'
+       Lore:
+       - '§b宽恕我的平凡，驱散了迷惘'
+       Damage: 9.0
+       Speed: 1.6
+       CanRecipe: true
+#黑曜石锤=========
+     I75:
+       Name: '黑曜石锤'
+       Lore:
+       - '§b苟利国家生死以，'
+       - '§b岂因福祸避趋之。'
+       Damage: 12.0
+       Speed: 1.2
+       CanRecipe: true
+#雷电法杖=========
+     I76:
+       Name: '§e雷电法杖 ⚡'
+       Lore:
+       - '§b此法杖拥有操控雷电的能力'
+       Cooldown: 30
+       CanRecipe: true
+#寒冰法杖=========
+     I77:
+       Name: '§b寒冰法杖 ❉'
+       Lore:
+       - '§b此法杖拥有操控寒冰的能力'
+       Cooldown: 3
+       CanRecipe: true
+#烈焰法杖=========
+     I78:
+       Name: '§c烈焰法杖 ✹'
+       Lore:
+       - '§b此法杖拥有操控烈焰的能力'
+       Cooldown: 30
+       CanRecipe: true
+       #召唤更大号火球的概率
+       LargeChance: 10.0
+#黑曜石剑=========
+     I79:
+       Name: '黑曜石剑'
+       Lore:
+       - '§b黑色的剑身显得格外绅士'
+       Damage: 10.0
+       Speed: 1.4
+       CanRecipe: true
+       MoveSpeed: -0.04
+#黑曜石锄=========
+     I80:
+       Name: '黑曜石锄'
+       Lore:
+       - '§b把它看成一把黑色的锄头就行了'
+       Damage: 6.0
+       Speed: 0.8
+       CanRecipe: true
+       MoveSpeed: -0.03
+#黑曜石锹=========
+     I81:
+       Name: '黑曜石锹'
+       Lore:
+       - '§b一把黑色的锹，怎么说呢'
+       - '§bemmmm...'
+       Damage: 8.0
+       Speed: 0.8
+       CanRecipe: true
+       MoveSpeed: -0.02
+#黑曜石斧=========
+     I82:
+       Name: '黑曜石斧'
+       Lore:
+       - '§b别跟我说这是黑色切割者'
+       Damage: 12.0
+       Speed: 0.8
+       CanRecipe: true
+       MoveSpeed: -0.05
+#黑曜石镐=========
+     I83:
+       Name: '黑曜石镐'
+       Lore:
+       - '§b尽力挖掘吧！'
+       Damage: 7.0
+       Speed: 1.0
+       CanRecipe: true
+       MoveSpeed: -0.05
+#黑曜石头盔=========
+     I84:
+       Name: '黑曜石头盔'
+       Lore:
+       - '§b黑色的头盔，还不错。'
+       ArmorToughness: 3
+       Armor: 3
+       CanRecipe: true
+       MoveSpeed: -0.07
+#黑曜石胸甲=========
+     I85:
+       Name: '黑曜石胸甲'
+       Lore:
+       - '§b黑曜石制成的胸甲，坚硬无比'
+       ArmorToughness: 3
+       Armor: 8
+       CanRecipe: true
+       MoveSpeed: -0.15
+#黑曜石护腿=========
+     I86:
+       Name: '黑曜石护腿'
+       Lore:
+       - '§b似乎能够保护你的膝盖的不被小白射穿'
+       ArmorToughness: 3
+       Armor: 6
+       CanRecipe: true
+       MoveSpeed: -0.08
+#黑曜石靴子=========
+     I87:
+       Name: '黑曜石靴子'
+       Lore:
+       - '黑曜石制成的靴子，行万里路！'
+       ArmorToughness: 3
+       Armor: 3
+       CanRecipe: true
+       MoveSpeed: -0.04
+#附魔珠=========
+     I88:
+       Name: '附魔珠'
+       Lore:
+       - '§b神奇的珠子，真的神奇！'
+       Cooldown: 60
+       CanRecipe: true
+#牛肉汤=========
+     I89:
+       Name: '牛肉汤'
+       Lore:
+       - '§b偶尔还是喝一碗养养神'
+       CanRecipe: true
+       Poision: 0
+       Time: 0
+       Level: 0
+#鸡肉汤=========
+     I90:
+       Name: '鸡肉汤'
+       Lore:
+       - '§b想不到竟是一碗毒鸡汤'
+       CanRecipe: true
+       Poision: 0
+       Time: 0
+       Level: 0
+#鱼汤=========
+     I91:
+       Name: '鱼汤'
+       Lore:
+       - '§b这鱼汤咋这么苦？鱼胆都没扣出去？！'
+       CanRecipe: true
+       Poision: 0
+       Time: 0
+       Level: 0
+#元素刃·幽暗=========
+     I92:
+       Name: '元素刃·幽暗'
+       Lore:
+       - '§b残忍的刀刃，能够使敌人致盲'
+       GoChance: 25.0
+       Damage: 5
+       Speed: 2
+       Cooldown: 5
+#元素刃·轻柔=========
+     I93:
+       Name: '元素刃·轻柔'
+       Lore:
+       - '§b强力的刀刃，能够让敌人漂浮'
+       GoChance: 25.0
+       Damage: 5
+       Speed: 2
+       Cooldown: 20
+#元素刃·追击=========
+     I94:
+       Name: '元素刃·追击'
+       Lore:
+       - '§b即使在敌人奄奄一息时也不'
+       - '§b手下留情，而是乘胜追击！'
+       GoChance: 25.0
+       Damage: 5
+       Speed: 2
+       Cooldown: 5
+#吸血之刃=========
+     I95:
+       Name: '吸血之刃'
+       Lore:
+       - '§b攻击敌人有概率吸血'
+       GoChance: 10.0
+       Damage: 7
+       Speed: 1.6
+       #吸血倍率
+       Mutiply: 0.2
+#狩猎之刃·亡灵=========
+     I96:
+       Name: '狩猎之刃·亡灵'
+       Lore:
+       - '§b在我的刀刃之下死去吧！'
+       GoChance: 5.0
+       Damage: 10
+       Speed: 1.4
+       DropExp: 1
+#双刃剑=========
+     I97:
+       Name: '双刃剑'
+       Lore:
+       - '§b一把双刃剑，恐怖至极！'
+       GoChance: 50.0
+       Damage: 3.5
+       Speed: 1.6
+       CanRecipe: true
+#生命交换者=========
+     I98:
+       Name: '生命交换者'
+       Lore:
+       - '§b想要交换生命值吗？'
+       CanRecipe: true
+#破败刃=========
+     I99:
+       Name: '破败刃'
+       Lore:
+       - '§b一把需要代价的武器！'
+       Damage: 7.0
+       Speed: 1.6
+       CanRecipe: true
+#经验果实=========
+     I100:
+       Name: '经验果实'
+       Lore:
+       - '§b经验果实？很好吃的样子诶！'
+       #吃下后获得的经验值
+       GiveXP: 10
+#便携式工作台=========
+     I101:
+       Name: '便携式工作台'
+       Lore:
+       - '§b右键即可快速使用工作台！'
+       CanRecipe: true
+#雪狐 X=========
+     I102:
+       Name: '雪狐 X'
+       Lore:
+       - '§b右键消耗背包内雪球，并发射！'
+       CanRecipe: true
+#炎爆 X=========
+     I103:
+       Name: '炎爆 X'
+       Lore:
+       - '§b右键发射背包内烈焰弹！'
+       CanRecipe: true
+#暗影 X=========
+     I104:
+       Name: '暗影 X'
+       Lore:
+       - '§b右键发射背包内凋零骷髅头颅炸弹！'
+       CanRecipe: true
+#寒冰之刃=========
+     I105:
+       Name: '寒冰之刃'
+       Lore:
+       - '§b这把剑充满了寒冰的气息！'
+       Damage: 5.5
+       Speed: 1.6
+       #冰冻时间
+       IceTime: 5
+       GoChance: 10.0
+       CanRecipe: true
+#无情之刃=========
+     I106:
+       Name: '无情之刃'
+       Lore:
+       - '§b无情之刃，是真的无情啊！'
+       Damage: 5.5
+       Speed: 1.6
+       GoChance: 30.0
+#血族契约=========
+     I107:
+       Name: '血族契约'
+       Lore:
+       - '§b一本强大的魔导书！'
+#冶炼者=========
+     I108:
+       Name: '冶炼者'
+       Lore:
+       - '§b在挖掘矿物时，自动冶炼！'
+#神圣光环·力量=========
+     I109:
+       Name: '神圣光环·力量'
+       Lore:
+       - '§b性价比相当高的辅助物品！'
+       goChance: 30.0
+#传送弓=========
+     I110:
+       Name: '传送弓'
+       Lore:
+       - '§b这把弓可以传送？假的吧？'
+#不死图腾=========
+     I111:
+       Name: '不死图腾'
+       Lore:
+       - '§b拥有复活玩家的神奇效果！'
+#神奇剪刀=========
+     I112:
+       Name: '神奇剪刀'
+       Lore:
+       - '§b一把神奇的剪刀，可以在剪羊毛时获得更多羊毛！'
+#等价契约=========
+     I113:
+       Name: '等价契约'
+       Lore:
+       - '§b凡是都会有牺牲，这就是契约！'
+#衰变药水=========
+     I114:
+       Name: '衰变药水'
+       Lore:
+       - '§b在衰变中死去吧！'
+#急迫药水=========
+     I115:
+       Name: '急迫药水'
+       Lore:
+       - '§b为你提供更高的效率！'
+#漂浮药水=========
+     I116:
+       Name: '漂浮药水'
+       Lore:
+       - '§b似乎要飞上云端了呢！'
+#反胃药水=========
+     I117:
+       Name: '反胃药水'
+       Lore:
+       - '§b想来尝试一次神魂颠倒吗？'
+#抵抗药水=========
+     I118:
+       Name: '抵抗药水'
+       Lore:
+       - '§b喝下它吧！背水一战！'
+#失明药水=========
+     I119:
+       Name: '失明药水'
+       Lore:
+       - '§b在无尽的黑暗中前行吧！'
+       DropMob: 
+       - 66
+       ChanceMob: 5.0
+       ByWeapon: 
+       - -1
+       DontByWeapon: []
+       DropBlock: []
+       ChanceBlock: 0.0
+       ByTools: []
+       DontByTools: []
+#饥饿药水=========
+     I120:
+       Name: '饥饿药水'
+       Lore:
+       - '§b饥荒将在这里蔓延！'
+#充盈药水=========
+     I121:
+       Name: '充盈药水'
+       Lore:
+       - '§b让你的生命值更多吧！'
+#吸收药水=========
+     I122:
+       Name: '吸收药水'
+       Lore:
+       - '§b获得伤害吸收效果！'
+#饱和药水=========
+     I123:
+       Name: '饱和药水'
+       Lore:
+       - '§b饿了么，来饱和一下吧！'
+#霉运药水=========
+     I124:
+       Name: '霉运药水'
+       Lore:
+       - '§b让倒霉伴你左右！'
+#发光药水=========
+     I125:
+       Name: '发光药水'
+       Lore:
+       - '§b居然！发光了诶！'
+#引导之书=========
+     I126:
+       Name: '引导之书'
+       Lore:
+       - '§b右键即可打开物品引导！'
+       - '§b请务必好好保管！'
+       CanRecipe: true
+#神典=========
+     I127:
+       Name: '神典'
+       Lore:
+       - '§b右键打开成就界面，你可以'
+       - '§b在这里插件所有已有的成就。'
+       CanRecipe: true
+#献岁帽=========
+     I128:
+       Name: '献岁·帽子'
+       Lore:
+       - '§b喜气洋洋的春节服饰，好像打怪'
+       - '§b可以掉落金币哦。'
+       CanRecipe: true
+       Armor: 1
+       getMoney: 1.0
+#献岁服=========
+     I129:
+       Name: '献岁·衣服'
+       Lore:
+       - '§b喜气洋洋的春节服饰，好像打怪'
+       - '§b可以掉落金币哦。'
+       Armor: 1
+       CanRecipe: true
+       getMoney: 1.0
+#献岁摇裤=========
+     I130:
+       Name: '献岁·裤子'
+       Lore:
+       - '§b喜气洋洋的春节服饰，好像打怪'
+       - '§b可以掉落金币哦。'
+       Armor: 1
+       CanRecipe: true
+       getMoney: 1.0
+#献岁鞋子=========
+     I131:
+       Name: '献岁·鞋子'
+       Lore:
+       - '§b喜气洋洋的春节服饰，好像打怪'
+       - '§b可以掉落金币哦。'
+       Armor: 1
+       CanRecipe: true
+       getMoney: 1.0
+#红包=========
+     I132:
+       Name: '红包'
+       Lore:
+       - '§c恭喜发财，红包拿来！'
+       CanRecipe: true
+#极光=========
+     I133:
+       Name: '极光'
+       Lore:
+       - '§b危险的刀刃，蕴藏着强大的电磁能！'
+       Damage: 8.0
+       Speed: 1.6
+       CanRecipe: true
+#逆影=========
+     I134:
+       Name: '逆影'
+       Lore:
+       - '§b消失在未来的神秘身影，强大的能力背后'
+       - '§b却有着一个半成品的危险副作用。'
+       CanRecipe: true
+#神圣光环·科技=========
+     I135:
+       Name: '神圣光环·科技'
+       Lore:
+       - '§b充满着未来科技的神秘光环，能够为'
+       - '§b科技物品提供强大无比的能量。'
+       CanRecipe: true
+#能源电池=========
+     I136:
+       Name: '能源电池'
+       Lore:
+       - '§b携带着微弱的能量，能够为科技光环'
+       - '§b进行充能。'
+       CanRecipe: true
+#裁决=========
+     I137:
+       Name: '裁决'
+       Lore:
+       - '§b准备好被裁决了吗！即使你在天边'
+       - '§b我也要找到你。'
+       Damage: 10.0
+       Speed: 1.3
+       CanRecipe: true
+#游身=========
+     I138:
+       Name: '游身'
+       Lore:
+       - '§b藏匿于未来的强大高耗能武器，通过'
+       - '§b击杀的叠加不断突破新的伤害。'
+       Damage: 3.0
+       Speed: 1.8
+       CanRecipe: true
+#驱动=========
+     I139:
+       Name: '驱动'
+       Lore:
+       - '§b爆发流输出武器，牺牲自己的生命值'
+       - '§b完成一个又一个不可思议的任务。'
+       Damage: 8.0
+       Speed: 1.6
+       CanRecipe: true
+#翔=========
+     I140:
+       Name: '*'
+       Lore:
+       - '§b这是什么啊，看起来很好吃诶！'
+       GetChance: 0.0
+#饺子=========
+     I141:
+       Name: '饺子'
+       Lore:
+       - '§b这是什么啊，看起来很好吃诶！'
+       GiveMoney: 1
+       CanRecipe: true
+#汤圆=========
+     I142:
+       Name: '汤圆'
+       Lore:
+       - '§b这是什么啊，看起来很好吃诶！'
+       GiveMoney: 1
+       CanRecipe: true
+#年糕=========
+     I143:
+       Name: '年糕'
+       Lore:
+       - '§b这是什么啊，看起来很好吃诶！'
+       GiveMoney: 1
+       CanRecipe: true
+#喷溅型衰变药水=========
+     I144:
+       Name: '喷溅型衰变药水'
+       Lore:
+       - '§b在衰变中死去吧！'
+#喷溅型急迫药水=========
+     I145:
+       Name: '喷溅型急迫药水'
+       Lore:
+       - '§b为你提供更高的效率！'
+#喷溅型漂浮药水=========
+     I146:
+       Name: '喷溅型漂浮药水'
+       Lore:
+       - '§b似乎要飞上云端了呢！'
+#喷溅型反胃药水=========
+     I147:
+       Name: '喷溅型反胃药水'
+       Lore:
+       - '§b想来尝试一次神魂颠倒吗？'
+#喷溅型抵抗药水=========
+     I148:
+       Name: '喷溅型抵抗药水'
+       Lore:
+       - '§b喝下它吧！背水一战！'
+#喷溅型失明药水=========
+     I149:
+       Name: '喷溅型失明药水'
+       Lore:
+       - '§b在无尽的黑暗中前行吧！'
+#喷溅型饥饿药水=========
+     I150:
+       Name: '喷溅型饥饿药水'
+       Lore:
+       - '§b饥荒将在这里蔓延！'
+#喷溅型充盈药水=========
+     I151:
+       Name: '喷溅型充盈药水'
+       Lore:
+       - '§b让你的生命值更多吧！'
+#喷溅型吸收药水=========
+     I152:
+       Name: '喷溅型吸收药水'
+       Lore:
+       - '§b获得伤害吸收效果！'
+#喷溅型饱和药水=========
+     I153:
+       Name: '喷溅型饱和药水'
+       Lore:
+       - '§b饿了么，来饱和一下吧！'
+#喷溅型霉运药水=========
+     I154:
+       Name: '喷溅型霉运药水'
+       Lore:
+       - '§b让倒霉伴你左右！'
+#喷溅型发光药水=========
+     I155:
+       Name: '喷溅型发光药水'
+       Lore:
+       - '§b居然！发光了诶！'
+#滞留型衰变药水=========
+     I156:
+       Name: '滞留型衰变药水'
+       Lore:
+       - '§b在衰变中死去吧！'
+#滞留型急迫药水=========
+     I157:
+       Name: '滞留型急迫药水'
+       Lore:
+       - '§b为你提供更高的效率！'
+#滞留型漂浮药水=========
+     I158:
+       Name: '滞留型漂浮药水'
+       Lore:
+       - '§b似乎要飞上云端了呢！'
+#滞留型反胃药水=========
+     I159:
+       Name: '滞留型反胃药水'
+       Lore:
+       - '§b想来尝试一次神魂颠倒吗？'
+#滞留型抵抗药水=========
+     I160:
+       Name: '滞留型抵抗药水'
+       Lore:
+       - '§b喝下它吧！背水一战！'
+#滞留型失明药水=========
+     I161:
+       Name: '滞留型失明药水'
+       Lore:
+       - '§b在无尽的黑暗中前行吧！'
+#滞留型饥饿药水=========
+     I162:
+       Name: '滞留型饥饿药水'
+       Lore:
+       - '§b饥荒将在这里蔓延！'
+#滞留型充盈药水=========
+     I163:
+       Name: '滞留型充盈药水'
+       Lore:
+       - '§b让你的生命值更多吧！'
+#滞留型吸收药水=========
+     I164:
+       Name: '滞留型吸收药水'
+       Lore:
+       - '§b获得伤害吸收效果！'
+#滞留型饱和药水=========
+     I165:
+       Name: '滞留型饱和药水'
+       Lore:
+       - '§b饿了么，来饱和一下吧！'
+#滞留型霉运药水=========
+     I166:
+       Name: '滞留型霉运药水'
+       Lore:
+       - '§b让倒霉伴你左右！'
+#滞留型发光药水=========
+     I167:
+       Name: '滞留型发光药水'
+       Lore:
+       - '§b居然！发光了诶！'
+#橡木树皮=========
+     I168:
+       Name: '橡木树皮'
+       Lore:
+       - '§b一层树皮而已，可用于装饰。'
+#丛林木树皮=========
+     I169:
+       Name: '丛林木树皮'
+       Lore:
+       - '§b一层树皮而已，可用于装饰。'
+#云杉木树皮=========
+     I170:
+       Name: '云杉木树皮'
+       Lore:
+       - '§b一层树皮而已，可用于装饰。'
+#白桦木树皮=========
+     I171:
+       Name: '白桦木树皮'
+       Lore:
+       - '§b一层树皮而已，可用于装饰。'
+#深色橡木树皮=========
+     I172:
+       Name: '深色橡木树皮'
+       Lore:
+       - '§b一层树皮而已，可用于装饰。'
+#金合欢树皮=========
+     I173:
+       Name: '金合欢树皮'
+       Lore:
+       - '§b一层树皮而已，可用于装饰。'

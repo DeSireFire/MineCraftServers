@@ -1,0 +1,30 @@
+lastAccountName: HOLLYWU
+timestamps:
+  login: 1547978351396
+  lastteleport: 1547979356789
+  logout: 1547979622885
+ipAddress: 58.33.104.60
+afk: false
+lastlocation:
+  world: world
+  x: 314.65386885716725
+  y: 84.0
+  z: 482.92618917253185
+  yaw: 143.5244
+  pitch: 21.300158
+homes:
+  home:
+    world: world
+    x: 309.73618018526463
+    y: 84.0
+    z: 488.8521341585333
+    yaw: 199.92441
+    pitch: 14.250157
+logoutlocation:
+  world: world
+  x: 278.55369272090763
+  y: 77.0
+  z: 354.7529476600354
+  yaw: 1.3916016
+  pitch: 2.8504822
+money: '28803.199999999996119'
