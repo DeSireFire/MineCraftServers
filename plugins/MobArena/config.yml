@@ -4,147 +4,59 @@
 global-settings:
   enabled: true
   allowed-commands: /list, /pl
-  update-notification: true
-  prefix: '&a[MobArena] '
+  update-notification: false
+  prefix: '&a[魔物副本] '
 classes:
-  Knight:
+  骑士:
     items: diamond_sword, potion:8197:3
-    armor: 306,307,308,309
+    armor: 309,307,308,309,306
     classchest: 182,3,242,0.0,0.0,world
-  Tank:
+  抖M:
     items: iron_sword, potion:8229:2
     armor: 310,311,312,313
-  Archer:
+  弓箭手:
     items: wood_sword, bow, arrow:256, potion:8197:3, bone
     armor: 298,299,300,301
-  Chemist:
+  炼药师:
     items: stone_sword, potion:16428:30, potion:16388:8, potion:16389:20, potion:8197:3,
-      potion:8226:1
+    potion:8226:1
     armor: 314,315,316,317
-  Oddjob:
+  临时工:
     items: stone_sword, flint_and_steel, netherrack:2, tnt:4, potion:8197:3
     armor: 298,299,300,301
+  手冲者:
+    items: stone_sword, flint_and_steel, netherrack:2, tnt:4, potion:8197:3
+    armor: 298,299,300,301
+    price: $10
+  拆迁办:
+    items: stone_sword, flint_and_steel, netherrack:2, tnt:4, potion:8197:3
+    armor: 298,299,300,301
+    price: $10
+  易大师:
+    items: stone_sword, flint_and_steel, netherrack:2, tnt:4, potion:8197:3
+    armor: 310,311,312,313    
+  奶四海:
+    items: stone_sword, flint_and_steel, netherrack:2, tnt:4, potion:8197:3
+    armor: 298,299,300,301    
+    price: $10
+    
 arenas:
-  default:
-    settings:
-      prefix: ''
-      world: world
-      enabled: true
-      protect: true
-      entry-fee: ''
-      default-class: ''
-      clear-wave-before-next: false
-      clear-boss-before-next: false
-      clear-wave-before-boss: false
-      soft-restore: false
-      soft-restore-drops: false
-      require-empty-inv-join: false
-      require-empty-inv-spec: false
-      hellhounds: false
-      pvp-enabled: false
-      monster-infight: false
-      allow-teleporting: false
-      spectate-on-death: true
-      auto-respawn: true
-      share-items-in-arena: true
-      min-players: 0
-      max-players: 0
-      max-join-distance: 0
-      first-wave-delay: 5
-      wave-interval: 15
-      final-wave: 0
-      monster-limit: 100
-      monster-exp: false
-      keep-exp: true
-      food-regen: false
-      lock-food-level: true
-      player-time-in-arena: world
-      auto-ignite-tnt: false
-      auto-start-timer: 0
-      start-delay-timer: 0
-      auto-ready: false
-      use-class-chests: false
-      display-waves-as-level: false
-      display-timer-as-level: false
-      use-scoreboards: true
-      isolated-chat: false
-      global-join-announce: false
-      global-end-announce: false
-      show-death-messages: true
-    waves:
-      recurrent:
-        def1:
-          type: default
-          priority: 1
-          frequency: 1
-          monsters:
-            zombies: 10
-            skeletons: 10
-            spiders: 10
-            creepers: 10
-            wolves: 10
-        spec1:
-          type: special
-          priority: 2
-          frequency: 4
-          monsters:
-            powered-creepers: 10
-            zombie-pigmen: 10
-            angry-wolves: 10
-            blazes: 10
-      single:
-        swarm1:
-          type: swarm
-          wave: 6
-          monster: slime
-          amount: low
-        boss1:
-          type: boss
-          wave: 10
-          monster: cave_spider
-          health: high
-          abilities: arrows, root-target, throw-nearby
-    rewards:
-      waves:
-        every:
-          '3': feather, bone, stick
-          '5': dirt:4, gravel:4, stone:4
-          '10': iron_ingot:10, gold_ingot:8
-        after:
-          '7': minecart, storage_minecart, powered_minecart
-          '13': iron_sword, iron_pickaxe, iron_spade
-          '16': diamond_sword
-    coords:
-      spawnpoints: {}
-      containers: {}
-      p1: 170,1,234,0.0,0.0,world
-      p2: 170,1,234,0.0,0.0,world
-      lobby: 189.5,6,255.5,172.8,0.0,world
-      l1: 182,2,247,0.0,0.0,world
-      l2: 182,2,247,0.0,0.0,world
-    class-limits:
-      Oddjob: -1
-      Knight: -1
-      Archer: -1
-      My Items: -1
-      Tank: -1
-      Chemist: -1
   地下陵墓:
     settings:
-      prefix: ''
+      prefix: '地下陵墓'
       world: world
       enabled: true
       protect: true
       entry-fee: ''
-      default-class: ''
-      clear-wave-before-next: false
-      clear-boss-before-next: false
-      clear-wave-before-boss: false
+      default-class: '骑士'
+      clear-wave-before-next: true
+      clear-boss-before-next: true
+      clear-wave-before-boss: true
       soft-restore: false
       soft-restore-drops: false
       require-empty-inv-join: false
       require-empty-inv-spec: false
-      hellhounds: false
+      hellhounds: true
       pvp-enabled: false
       monster-infight: false
       allow-teleporting: false
@@ -154,26 +66,26 @@ arenas:
       min-players: 0
       max-players: 0
       max-join-distance: 0
-      first-wave-delay: 5
+      first-wave-delay: 10
       wave-interval: 15
       final-wave: 0
       monster-limit: 100
-      monster-exp: false
+      monster-exp: true
       keep-exp: true
       food-regen: false
       lock-food-level: true
       player-time-in-arena: world
-      auto-ignite-tnt: false
+      auto-ignite-tnt: true
       auto-start-timer: 0
       start-delay-timer: 0
       auto-ready: false
-      use-class-chests: false
+      use-class-chests: true
       display-waves-as-level: false
       display-timer-as-level: false
       use-scoreboards: true
       isolated-chat: false
-      global-join-announce: false
-      global-end-announce: false
+      global-join-announce: true
+      global-end-announce: true
       show-death-messages: true
     waves:
       recurrent:
@@ -214,6 +126,7 @@ arenas:
           '3': feather, bone, stick
           '5': dirt:4, gravel:4, stone:4
           '10': iron_ingot:10, gold_ingot:8
+          '15': diamond:5
         after:
           '7': minecart, storage_minecart, powered_minecart
           '13': iron_sword, iron_pickaxe, iron_spade
@@ -234,9 +147,9 @@ arenas:
       p2: 208,28,273,0.0,0.0,world
       arena: 171.5,20,250.5,97.33,0.0,world
     class-limits:
-      Oddjob: -1
-      Knight: -1
-      Archer: -1
+      临时工: -1
+      骑士: -1
+      弓箭手: -1
+      抖M: -1
+      炼药师: -1
       My Items: -1
-      Tank: -1
-      Chemist: -1

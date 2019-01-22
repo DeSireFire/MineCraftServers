@@ -1,13 +1,13 @@
 arena-start: 游戏开始!
 arena-end: 游戏结束.
 arena-does-not-exist: 没有找到那个竞技场. 请使用&e/ma arenas&r查看可加入的竞技场列表.
-arena-end-global: 竞技场 &e%&r 的游戏已结束! 请使用 &e/ma j %&r 来加入新的一局游戏!
+arena-end-global: 竞技场 &e%&r 的游戏已结束! 请使用 &e/ma j %&r 来加入新的一局游戏!或者&e/ma l %&r退出游戏！
 arena-join-global: 竞技场 &e%&r 的游戏正在准备开始!请使用&e/ma j %&r 来加入!
 arena-lboard-not-found: 那个竞技场没有设置排行榜.
 arena-auto-start: 竞技场自动开始游戏还有 &c%&r 秒.
 arena-start-delay: 竞技场即将开始，请等待 &e%&r 秒.
 join-not-enabled: MobArena插件未启用.
-join-in-other-arena: 你已经加入了竞技场了! 请先退出.
+join-in-other-arena: 你已经加入了竞技场了! 需要更换，请先输入“/ma[空格]l”退出.
 join-arena-not-enabled: 这个竞技场未开放.
 join-arena-not-setup: 这个竞技场尚未配置完成.
 join-arena-edit-mode: 这个竞技场还在编辑模式.
@@ -23,7 +23,7 @@ join-empty-inv: 你需要清空背包才能加入竞技场.
 join-player-limit-reached: 竞技场的人数已达上限.
 join-store-inv-fail: 保存背包失败. 请重试.
 join-existing-inv-restored: 你的背包物品已还原
-join-player-joined: 你加入了竞技场. 玩的开心!
+join-player-joined: 你加入了竞技场. 玩的开心！&e左击游戏大厅职业牌子选择职业 %&r，然后&e左击铁块表示准备完毕 %&r 所有人准备完毕即可开始游戏！
 leave-not-playing: 你不在竞技场里面.
 leave-not-ready: 你还没有准备,请右键铁块进行准备.
 leave-player-left: 你离开了竞技场,感谢游戏!
@@ -48,10 +48,10 @@ lobby-pick-class: 你需要先选择一个职业!
 lobby-class-full: 这个职业不能再选择了, 人数已满!
 lobby-not-enough-players: 玩家人数不足无法开始.至少需要&c%&r名玩家.
 lobby-right-click: 左键.而不是右键.
-lobby-class-picked: 你选择了&e%&r作为你的职业!
+lobby-class-picked: 你选择了&e%&r作为你的职业，可左击职业牌子更换职业或左击“My Items”牌子使用自己带的装备!
 lobby-class-random: 你会被随机选择一个职业.
 lobby-class-permission: 你没有使用这个职业的权限!
-lobby-class-price: 这个职业需要&c%&r (在开始游戏前支付).
+lobby-class-price: 这个职业需要&c%&r (在开始游戏后自动扣除).
 lobby-class-too-expensive: 你没有足够的钱使用这个职业(&c%&r)
 lobby-no-such-class: 没有名为&c%&r的职业.
 warp-to-arena: 禁止在竞技场内传送!
@@ -75,5 +75,5 @@ misc-multiple-matches: 你是在说这个命令吗?
 misc-no-matches: 未找到该命令.请使用&e/ma help&r
 misc-ma-leave-reminder: 请使用&e/ma leave&r当你结束游戏的时候.
 misc-none: '&6<无>&r'
-wave-boss-killed: '&a%&r killed the boss!'
+wave-boss-killed: '&a%&r 干死了Boss!'
 wave-boss-reward-earned: 'You earned: &e%'
