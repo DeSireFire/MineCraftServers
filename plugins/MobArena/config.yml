@@ -70,7 +70,7 @@ arenas:
       require-empty-inv-join: false
       require-empty-inv-spec: false
       hellhounds: true
-      pvp-enabled: false
+      pvp-enabled: true
       monster-infight: false
       allow-teleporting: false
       spectate-on-death: true
@@ -81,12 +81,12 @@ arenas:
       max-join-distance: 0
       first-wave-delay: 15
       wave-interval: 15
-      final-wave: 0
-      monster-limit: 250
+      final-wave: 120
+      monster-limit: 500
       monster-exp: true
       keep-exp: true
       food-regen: false
-      lock-food-level: true
+      lock-food-level: false
       player-time-in-arena: world
       auto-ignite-tnt: true
       auto-start-timer: 0
@@ -107,51 +107,203 @@ arenas:
           priority: 1
           frequency: 1
           monsters:
-            zombies: 10
+            zombies: 40
+            husk: 40
             skeletons: 10
             spiders: 10
-            creepers: 10
+            creepers: 60
             wolves: 10
+            zombie-pigmen: 30
         spec1:
           type: special
           priority: 2
           frequency: 4
           monsters:
-            powered-creepers: 10
-            zombie-pigmen: 10
-            angry-wolves: 10
-            blazes: 10
+            powered-creepers: 50
+            zombie-pigmen: 50
+            angry-wolves: 50
+            blazes: 50
+            wither_skeleton: 50
+            zombies: 50
+            husk: 50
+            skeletons: 50
+            spiders: 50
+            creepers: 100
+            zombie-pigmen: 50
       single:
         swarm1:
           type: swarm
           wave: 6
-          monster: slime
+          monster: zombies
+          amount: verylow
+        swarm2:
+          type: swarm
+          wave: 16
+          monster: powered-creepers
+          amount: verylow
+        swarm3:
+          type: swarm
+          wave: 26
+          monster: husk
           amount: low
+        swarm4:
+          type: swarm
+          wave: 36
+          monster: wither_skeleton
+          amount: low
+        swarm5:
+          type: swarm
+          wave: 46
+          monster: zombie-pigmen
+          amount: medium
+        swarm6:
+          type: swarm
+          wave: 56
+          monster: stray
+          amount: medium
+        swarm7:
+          type: swarm
+          wave: 66
+          monster: shulker
+          amount: high
+        swarm8:
+          type: swarm
+          wave: 76
+          monster: blaze
+          amount: high
+        swarm9:
+          type: swarm
+          wave: 86
+          monster: silverfish
+          amount: veryhigh
+        swarm10:
+          type: swarm
+          wave: 96
+          monster: vex
+          amount: veryhigh
+        swarm11:
+          type: swarm
+          wave: 106
+          monster: evoker
+          amount: veryhigh
+        swarm12:
+          type: swarm
+          wave: 116
+          monster: witch
+          amount: veryhigh
         boss1:
           type: boss
           wave: 10
+          monster: magma_cube
+          health: verylow
+          abilities: root-target
+        boss2:
+          type: boss
+          wave: 20
+          monster: wither_skeleton
+          health: verylow
+          abilities: root-target, obsidian-bomb
+        boss3:
+          type: boss
+          wave: 30
+          monster: skeletons
+          health: low
+          abilities: arrows, throw-nearby
+        boss4:
+          type: boss
+          wave: 40
+          monster: husk
+          health: low
+          abilities: fire-aura, fireballs
+        boss5:
+          type: boss
+          wave: 50
           monster: cave_spider
+          health: low
+          abilities: pull-target, disorient-nearby, throw-target
+        boss6:
+          type: boss
+          wave: 60
+          monster: shulker
+          health: medium
+          abilities: lightning-aura, living-bomb, chain-lightning
+        boss7:
+          type: boss
+          wave: 70
+          monster: vindication_illager
+          health: medium
+          abilities: lightning-aura, fire-aura, fireballs, living-bomb
+        boss8:
+          type: boss
+          wave: 80
+          monster: stray
           health: high
-          abilities: arrows, root-target, throw-nearby
+          abilities: lightning-aura, fire-aura, arrows, living-bomb, disorient-nearby
+        boss9:
+          type: boss
+          wave: 90
+          monster: blaze
+          health: high
+          abilities: fireballs, fire-aura, living-bomb, obsidian-bomb, disorient-distant, throw-target
+        boss10:
+          type: boss
+          wave: 100
+          monster: evoker
+          health: veryhigh
+          abilities: fireballs, fire-aura, chain-lightning, obsidian-bomb, disorient-distant, lightning-aura, pull-nearby
+        boss11:
+          type: boss
+          wave: 110
+          monster: witch
+          health: veryhigh
+          abilities: fireballs, fire-aura, chain-lightning, obsidian-bomb, disorient-distant, lightning-aura, pull-nearby, throw-nearby
+        boss12:
+          type: boss
+          wave: 120
+          monster: wither
+          health: psycho
+          abilities: fireballs, fire-aura, chain-lightning, obsidian-bomb, disorient-distant, lightning-aura, pull-nearby, throw-nearby, fetch-distant
     rewards:
       waves:
         every:
-          '3': feather, bone, stick
-          '5': dirt:4, gravel:4, stone:4
-          '10': iron_ingot:10, gold_ingot:8
-          '20': diamond:8
+          '3': glowstone_dust:4, clay_ball:4, coal:2
+          '5': experience_bottle:10, cookie:10, apple:10, ghast_tear:2
+          '10': iron_ingot:10, gold_ingot:8, ender_pearl:2
+          '20': diamond:10, wheat:2, leather:1, lead:1， saddle:1
+          '30': diamond:15, wheat:3, quartz:30
+          '40': diamond:20, wheat:4, brick:40
+          '50': diamond:25, wheat:5, book:10
+          '60': diamond:30, wheat:6, name_tag:10
+          '70': diamond:35, wheat:7, fire_charge:35
+          '80': diamond:40, wheat:8, sea_lantern:8
+          '90': diamond:45, wheat:9, emerald:45
+          '100': diamond:50, wheat:10, emerald:50, elytra:1
         after:
-          '7': minecart, storage_minecart, powered_minecart
-          '13': iron_sword, iron_pickaxe, iron_spade
-          '16': diamond_sword
+          '20': diamond:10, wheat:2, leather:1, lead:1， saddle:1
+          '30': diamond:15, wheat:3, quartz:30
+          '40': diamond:20, wheat:4, brick:40
+          '50': diamond:25, wheat:5, book:10
+          '60': diamond:30, wheat:6, name_tag:10
+          '70': diamond:35, wheat:7, fire_charge:35
+          '80': diamond:40, wheat:8, sea_lantern:8
+          '90': diamond:45, wheat:9, emerald:45
+          '100': diamond:50, wheat:10, emerald:50, elytra:1
     coords:
       spawnpoints:
-        194,20,249: 194.5,20,249.5,0.0,0.0,world
-        198,20,250: 198.5,20,250.5,0.0,0.0,world
-        198,20,256: 198.5,20,256.5,0.0,0.0,world
-        192,20,257: 192.5,20,257.5,0.0,0.0,world
-        208,20,270: 208.5,20,270.5,0.0,0.0,world
         193,20,236: 193.5,20,236.5,0.0,0.0,world
+        192,20,259: 192.5,20,259.5,0.0,0.0,world
+        194,20,247: 194.5,20,247.5,0.0,0.0,world
+        200,20,250: 200.5,20,250.5,0.0,0.0,world
+        200,20,256: 200.5,20,256.5,0.0,0.0,world
+        204,20,270: 204.5,20,270.5,0.0,0.0,world
+        171,20,251: 171.5,20,251.5,0.0,0.0,world
+        171,20,249: 171.5,20,249.5,0.0,0.0,world
+        172,20,236: 172.5,20,236.5,0.0,0.0,world
+        176,20,236: 176.5,20,236.5,0.0,0.0,world
+        180,20,236: 180.5,20,236.5,0.0,0.0,world
+        184,20,236: 184.5,20,236.5,0.0,0.0,world
+        196,25,250: 196.5,25,250.5,0.0,0.0,world
+        190,25,251: 190.5,25,251.5,0.0,0.0,world
       containers: {}
       l1: 171,2,236,0.0,0.0,world
       l2: 184,16,249,0.0,0.0,world
@@ -161,13 +313,14 @@ arenas:
       arena: 177.5,26,251.5,81.0,0.0,world
       spectator: 194.5,20,251.5,2.25,0.0,world
     class-limits:
-      临时工: -1
+      王大锤: 2
       弓箭手: 2
       手冲者: 2
       拆迁办: 2
-      奶四海: 2
+      奶四海: 1
       骑士: -1
       炼药师: -1
-      My Items: -1
-      易大师: -1
+      My Items: 1
+      易大师: 2
       抖M: -1
+      钢坦克: 1
