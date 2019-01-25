@@ -1,0 +1,205 @@
+prefix:
+- '&a粘液科技 &7> '
+messages:
+  not-researched:
+  - '&4你不够聪明，你无法理解'
+  not-enough-xp:
+  - '&4你没有足够的经验解锁'
+  unlocked:
+  - '&b你解锁了 &7"%research%"'
+  fortune-cookie:
+  - '&7帮助我！我掉进了幸运曲奇工厂！'
+  - '&7明天你会被苦力怕炸死'
+  - '&7在你的生命中的某些点坏事将会发生！'
+  - '&7下周你会发现你并不是处在一个真实的世界，它被称作“矩阵”，没错它是一个电脑游戏'
+  - '&7在几秒钟内这个曲奇会尝起来很好吃'
+  - '&7你很快会挂掉并且你听到的最后一个字是“消灭！！！”'
+  - '&7无论如何，都不要试着和苦力怕来个深情的拥抱，相信我，这样很爽，但是不值得'
+  only-players:
+  - '&4这个命令只有玩家能使用'
+  no-permission:
+  - '&4你没有足够的权限'
+  usage:
+  - '&4用法: &c%usage%'
+  not-online:
+  - '&4%player% &c没在线!'
+  not-valid-item:
+  - '&4%item% &c不是有效的物品!'
+  not-valid-amount:
+  - '&4%amount% &cis not a valid amount : it must be higher than 0!'
+  given-item:
+  - '&bYou have been given &a%amount% &7"%item%&7"'
+  give-item:
+  - '&bYou have given %player% &a%amount% &7"%item%&7"'
+  not-valid-research:
+  - '&4%research% &c不是一个有效的知识!'
+  give-research:
+  - '&bYou have given %player% the Research &7"%research%&7"'
+  battery:
+    add:
+    - '&2+ &7%charge% J &8(%machine%)'
+    remove:
+    - '&4- &7%charge% J &8(%machine%)'
+  hungry:
+  - '&c你太饿了!'
+  mode-change:
+  - '&b%device% 模式切换为: &9%mode%'
+  disabled-in-world:
+  - '&4&l这个物品已经被从这个世界上封印了'
+  talisman:
+    anvil:
+    - '&a&o你的护符保护了你的工具'
+    miner:
+    - '&a&o你的护符让你得到了双倍掉落'
+    hunter:
+    - '&a&o你的护符让你得到了双倍掉落'
+    lava:
+    - '&a&o你的护符让你免于烧死'
+    water:
+    - '&a&o你的护符让你免于溺死'
+    angel:
+    - '&a&o你的护符让你从高处落下毫发无损'
+    fire:
+    - '&a&o你的护符让你免于烧死'
+    magician:
+    - '&a&o你的护符给予了你额外的附魔'
+    traveller:
+    - '&a&o你的护符加快了你的移速'
+    warrior:
+    - '&a&o你的护符让你短时间强壮了'
+    knight:
+    - '&a&o你的护符给予了你 5 秒的生命恢复'
+    whirlwind:
+    - '&a&o你的护符弹回了飞行道具'
+    wizard:
+    - '&a&o你的护符给了你更高的幸运类附魔的等级，但是可能降低了其他附魔的等级'
+  broken-leg:
+  - '&c&o你的腿似乎断掉了，也许你需要一块夹板？'
+  fixed-leg:
+  - '&a&o借助夹板的帮助，它感觉好多了...'
+  start-bleeding:
+  - '&c&o你开始流血了，也许你需要绷带？'
+  stop-bleeding:
+  - '&a&o绷带成功止血...'
+  disabled-item:
+  - '&4&l这个物品已经被禁止了，你是怎么得到它的？'
+  research:
+    start:
+    - '&7远古精灵的密语在你的耳畔响起!'
+    progress:
+    - '&7你尝试去理解它... &b%research% &e(%progress%)'
+  fire-extinguish:
+  - '&7你扑灭了自己身上的火'
+  cannot-place:
+  - '&cYou cannot place that block there!'
+commands:
+  help:
+  - 显示帮助界面
+  cheat:
+  - 允许你作弊获得物品
+  give:
+  - 给某人一些粘液科技的物品
+  research:
+    desc:
+    - 给一个玩家解锁一项研究
+    reset:
+    - '&c你重置了 %player% 的知识'
+    reset-target:
+    - '&c你脑袋一晃，好像忘记了什么...'
+  guide:
+  - 给你自己一个粘液科技指南
+  timings:
+  - 关于你服务器的滞后信息
+  teleporter:
+  - 查看某个玩家的锚点
+  versions:
+  - 列出所有已安装的版本/附属
+  open_guide:
+  - Opens Slimefun's guide without using the book
+  stats:
+  - 显示一个玩家的数据
+machines:
+  pattern-not-found:
+  - '&e对不起，我无法识别这个图案，请将物品以正确的配方放入发射器'
+  unknown-material:
+  - '&e对不起，我不知道这是什么东西，请将我知道的东西放入发射器'
+  wrong-item:
+  - '&e对不起，我不知道你右击我的东西。请检查指南并查看正确的东西'
+  full-inventory:
+  - '&e对不起，空间不足...'
+  in-use:
+  - '&c这个方块的仓库正在被不同玩家打开'
+  ignition-chamber-no-flint:
+  - '&cIgnition Chamber is missing Flint and Steel.'
+  ANCIENT_ALTAR:
+    not-enough-pedestals:
+    - '&4这个祭坛周围没有包围足够的基座 &c(%pedestals% / 8)'
+    unknown-catalyst:
+    - '&4未知媒介! &c请改用正确的配方!'
+    unknown-recipe:
+    - '&4未知配方! &c请改用正确的配方!'
+  ANCIENT_PEDESTAL:
+    obstructed:
+    - '&4Pedestal is obstructed! &cRemove anything above the pedestal!'
+  HOLOGRAM_PROJECTOR:
+    enter-text:
+    - '&7请在聊天框中输入所需的全息文本 &r(支持颜色代码!)'
+  ELEVATOR:
+    no-destinations:
+    - '&4找不到目的地'
+  CARGO_NODES:
+    must-be-placed:
+    - '&4必须放入一个箱子/机器'
+miner:
+  no-ores:
+  - '&e对不起，我找不到周围的矿石!'
+backpack:
+  already-open:
+  - '&cSorry, this backpack is open somewhere else!'
+  no-stack:
+  - '&cYou cannot stack Backpacks'
+workbench:
+  not-enhanced:
+  - '&4平凡的工作台无法承受这来自粘液的力量...'
+anvil:
+  not-working:
+  - '&4平凡的铁毡无法承受这来自粘液的力量...'
+gps:
+  waypoint:
+    new:
+    - '&e请在聊天框里输入锚点名称 &7(支持颜色代码!)'
+    added:
+    - '&a成功添加一个新锚点'
+    max:
+    - '&4你的锚点数量已经达到了上限'
+  insufficient-complexity:
+  - '&4GPS 网络完整度不足: &c%complexity%'
+  - '&4a) 你尚未设定GPS网络'
+  - '&4b) 你的GPS网络不够完整'
+  geo:
+    scan-required:
+    - '&4需要地理扫描! &c请先使用地理扫描仪扫描该区块'
+robot:
+  started:
+  - '&7你的机器人恢复其运行脚本'
+  stopped:
+  - '&7你的机器人已暂停其脚本'
+inventory:
+  no-access:
+  - '&4你无权访问这个方块'
+android:
+  scripts:
+    already-uploaded:
+    - '&4脚本已上传.'
+    enter-name:
+    - ''
+    - '&e请输入脚本名称'
+    - ''
+    uploaded:
+    - '&b上传中...'
+    - '&a脚本成功上传!'
+    rating:
+      own:
+      - '&4你无法给自己的脚本投票!'
+      already:
+      - '&4你已经给这个脚本投票了!'
