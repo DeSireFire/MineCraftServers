@@ -1,0 +1,377 @@
+#------------------------------------------------------------------------
+#------------------------SlimeFunBugFix Skript-------------------------------
+#-------------------------------------------------------By Bug_NiShiMiYa----
+#permissions
+#coin.user 기본 유저에게 있어야할 펄미션입니다.
+#coin.admin 어드민에게 있어야할 펄미션입니다.
+#coin.check 특정 유저의 MC比特币을 확인할떄 필요한 펄미션입니다.
+
+options:
+	a: &a ! &7
+#a는 트리거를 작동시킨 플레이어에게 보이는 prefix입니다.
+	s: &e ! &7
+#s는 모든 플레이어에게 보이는 prefix입니다.
+	b: &c ! &7
+#b는 오류 혹은 권한이 없을떄 보이는 prefix입니다.
+	weed_name: &a中南海G
+on break of stained_hardened_clay:
+	loop players in radius 300 of the player:
+		add 1 to {_warn.%player%}
+	if {_warn.%player%} > 1:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,该行动只允许岛屿上留1个人,请让岛员离开该世界"
+		stop
+on drop:
+	if player's held item is a head:
+		message "{@b} 为了防止恶意使用BUG复制物品,不能边持着东西扔东西"
+		cancel event
+		stop
+on inventory click:
+	if tool of player is enchanted_book:
+		if name of tool of player is "&a粘液科技指南 &7(箱子 GUI)":
+			cancel event
+			message "{@b} 请不要手持着该物品&e移动物品,&7造成的损失&a&n&l一律不赔偿"
+on rightclick with torch:
+	if name of tool of player is "中南海":
+		apply nausea to the player for 60 seconds
+		message "LOL!"
+on break of floor_mob_head_block:
+	loop players in radius 300 of the player:
+		add 1 to {_warn.%player%}
+	if {_warn.%player%} > 1:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,该行动只允许岛屿上留1个人,请让岛员离开该世界"
+		stop
+on break of wall_mob_head_block:
+	loop players in radius 300 of the player:
+		add 1 to {_warn.%player%}
+	if {_warn.%player%} > 1:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,该行动只允许岛屿上留1个人,请让岛员离开该世界"
+		stop
+on break of daylight_sensor:
+	loop players in radius 300 of the player:
+		add 1 to {_warn.%player%}
+	if {_warn.%player%} > 1:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,该行动只允许岛屿上留1个人,请让岛员离开该世界"
+		stop
+on break of daylight_detector_inverted:
+	loop players in radius 300 of the player:
+		add 1 to {_warn.%player%}
+	if {_warn.%player%} > 1:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,该行动只允许岛屿上留1个人,请让岛员离开该世界"
+		stop
+on break of crafting_table:
+	loop players in radius 300 of the player:
+		add 1 to {_warn.%player%}
+	if {_warn.%player%} > 1:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,该行动只允许岛屿上留1个人,请让岛员离开该世界"
+		stop
+on break of furnace:
+	loop players in radius 300 of the player:
+		add 1 to {_warn.%player%}
+	if {_warn.%player%} > 1:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,该行动只允许岛屿上留1个人,请让岛员离开该世界"
+		stop
+on break of glass block:
+	loop players in radius 300 of the player:
+		add 1 to {_warn.%player%}
+	if {_warn.%player%} > 1:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,该行动只允许岛屿上留1个人,请让岛员离开该世界"
+		stop
+on break of enchantment_table:
+	loop players in radius 300 of the player:
+		add 1 to {_warn.%player%}
+	if {_warn.%player%} > 1:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,该行动只允许岛屿上留1个人,请让岛员离开该世界"
+		stop
+on break of iron block:
+	loop players in radius 300 of the player:
+		add 1 to {_warn.%player%}
+	if {_warn.%player%} > 1:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,该行动只允许岛屿上留1个人,请让岛员离开该世界"
+		stop
+on break of dispenser:
+	loop players in radius 300 of the player:
+		add 1 to {_warn.%player%}
+	if {_warn.%player%} > 1:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,该行动只允许岛屿上留1个人,请让岛员离开该世界"
+		stop
+on break of piston:
+	loop players in radius 300 of the player:
+		add 1 to {_warn.%player%}
+	if {_warn.%player%} > 1:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,该行动只允许岛屿上留1个人,请让岛员离开该世界"
+		stop
+on break of hay block:
+	loop players in radius 300 of the player:
+		add 1 to {_warn.%player%}
+	if {_warn.%player%} > 1:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,该行动只允许岛屿上留1个人,请让岛员离开该世界"
+		stop
+on break of obsidian:
+	loop players in radius 300 of the player:
+		add 1 to {_warn.%player%}
+	if {_warn.%player%} > 1:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,该行动只允许岛屿上留1个人,请让岛员离开该世界"
+		stop
+on gamemode change to creative:
+	if player doesn't have permission "op":
+		cancel event
+		wait 1 ticks
+		message "&c !  已检测到你非法获取游戏模式!屡次尝试将会 &4Ban"
+		stop
+on gamemode change to spectator:
+	if player doesn't have permission "op":
+		cancel event
+		wait 1 ticks
+		message "&c !  已检测到你非法获取游戏模式!屡次尝试将会 &4Ban"
+		stop
+on anvil rename:
+	if event-item is a mob_spawner:
+		message "{@b} 禁止利用该BUG!!!!"
+		cancel event
+		stop
+on block break:
+	if {inventory-is-open-variable.soup.%player%} is true:
+		message "&c !  已检测到你在使用非法软件!屡次尝试将会 &4Ban"
+		cancel event
+on inventory open:
+    set {inventory-is-open-variable.soup.%player%} to true
+on inventory close:
+    set {inventory-is-open-variable.soup.%player%} to false
+on place of floor_mob_head_block:
+	loop blocks in radius 2 of player:
+		if loop-block is Piston_base:
+			add 1 to {_warn.%player%h.%player%}
+	if {_warn.%player%h.%player%} > 0:
+		message "&c !  为了防止恶意使用BUG复制物品,请远离活塞2格放置头颅"
+		cancel event
+		stop
+on place of wall_mob_head_block:
+	loop blocks in radius 2 of player:
+		if loop-block is Piston_base:
+			add 1 to {_warn.%player%h.%player%}
+	if {_warn.%player%.%player%} > 0:
+		message "&c !  为了防止恶意使用BUG复制物品,请远离活塞2格放置头颅"
+		cancel event
+		stop
+on place of water:
+	loop blocks in radius 2 of player:
+		if loop-block is floor_mob_head_block:
+			add 1 to {_warns.%player%h.%player%}
+	if {_warns.%player%h.%player%} > 0:
+		message "&c !  为了防止恶意使用BUG复制物品,请远离头颅2格放置水"
+		cancel event
+		stop
+on place of water:
+	loop blocks in radius 2 of player:
+		if loop-block is wall_mob_head_block:
+			add 1 to {_warns.%player%h.%player%}
+	if {_warns.%player%h.%player%} > 0:
+		message "&c !  为了防止恶意使用BUG复制物品,请远离头颅2格放置水"
+		cancel event
+		stop
+on break of obsidian:
+	loop blocks in radius 1 of event-block:
+		if loop-block is wall_mob_head_block:
+			add 1 to {_warno.%player%}
+	if {_warno.%player%} > 0:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,请先破坏机器旁边的头颅机器"
+		stop
+on break of stained_hardened_clay:
+	loop blocks in radius 1 of event-block:
+		if loop-block is wall_mob_head_block:
+			add 1 to {_warno.%player%}
+	if {_warno.%player%} > 0:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,请先破坏机器旁边的头颅机器"
+		stop
+on break of daylight_sensor:
+	loop blocks in radius 1 of event-block:
+		if loop-block is wall_mob_head_block:
+			add 1 to {_warno.%player%}
+	if {_warno.%player%} > 0:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,请先破坏机器旁边的头颅机器"
+		stop
+on break of daylight_detector_inverted:
+	loop blocks in radius 1 of event-block:
+		if loop-block is wall_mob_head_block:
+			add 1 to {_warno.%player%}
+	if {_warno.%player%} > 0:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,请先破坏机器旁边的头颅机器"
+		stop
+on break of crafting_table:
+	loop blocks in radius 1 of event-block:
+		if loop-block is wall_mob_head_block:
+			add 1 to {_warno.%player%}
+	if {_warno.%player%} > 0:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,请先破坏机器旁边的头颅机器"
+		stop
+on break of furnace:
+	loop blocks in radius 1 of event-block:
+		if loop-block is wall_mob_head_block:
+			add 1 to {_warno.%player%}
+	if {_warno.%player%} > 0:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,请先破坏机器旁边的头颅机器"
+		stop
+on break of glass block:
+	loop blocks in radius 1 of event-block:
+		if loop-block is wall_mob_head_block:
+			add 1 to {_warno.%player%}
+	if {_warno.%player%} > 0:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,请先破坏机器旁边的头颅机器"
+		stop
+on break of enchantment_table:
+	loop blocks in radius 1 of event-block:
+		if loop-block is wall_mob_head_block:
+			add 1 to {_warno.%player%}
+	if {_warno.%player%} > 0:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,请先破坏机器旁边的头颅机器"
+		stop
+on break of iron block:
+	loop blocks in radius 1 of event-block:
+		if loop-block is wall_mob_head_block:
+			add 1 to {_warno.%player%}
+	if {_warno.%player%} > 0:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,请先破坏机器旁边的头颅机器"
+		stop
+on break of dispenser:
+	loop blocks in radius 1 of event-block:
+		if loop-block is wall_mob_head_block:
+			add 1 to {_warno.%player%}
+	if {_warno.%player%} > 0:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,请先破坏机器旁边的头颅机器"
+		stop
+on break of piston:
+	loop blocks in radius 1 of event-block:
+		if loop-block is wall_mob_head_block:
+			add 1 to {_warno.%player%}
+	if {_warno.%player%} > 0:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,请先破坏机器旁边的头颅机器"
+		stop
+on break of hay block:
+	loop blocks in radius 1 of event-block:
+		if loop-block is wall_mob_head_block:
+			add 1 to {_warno.%player%}
+	if {_warno.%player%} > 0:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,请先破坏机器旁边的头颅机器"
+		stop
+on break of obsidian:
+	loop blocks in radius 1 of event-block:
+		if loop-block is floor_mob_head_block:
+			add 1 to {_warno.%player%}
+	if {_warno.%player%} > 0:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,请先破坏机器旁边的头颅机器"
+		stop
+on break of stained_hardened_clay:
+	loop blocks in radius 1 of event-block:
+		if loop-block is floor_mob_head_block:
+			add 1 to {_warno.%player%}
+	if {_warno.%player%} > 0:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,请先破坏机器旁边的头颅机器"
+		stop
+on break of daylight_sensor:
+	loop blocks in radius 1 of event-block:
+		if loop-block is floor_mob_head_block:
+			add 1 to {_warno.%player%}
+	if {_warno.%player%} > 0:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,请先破坏机器旁边的头颅机器"
+		stop
+on break of daylight_detector_inverted:
+	loop blocks in radius 1 of event-block:
+		if loop-block is floor_mob_head_block:
+			add 1 to {_warno.%player%}
+	if {_warno.%player%} > 0:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,请先破坏机器旁边的头颅机器"
+		stop
+on break of crafting_table:
+	loop blocks in radius 1 of event-block:
+		if loop-block is floor_mob_head_block:
+			add 1 to {_warno.%player%}
+	if {_warno.%player%} > 0:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,请先破坏机器旁边的头颅机器"
+		stop
+on break of furnace:
+	loop blocks in radius 1 of event-block:
+		if loop-block is floor_mob_head_block:
+			add 1 to {_warno.%player%}
+	if {_warno.%player%} > 0:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,请先破坏机器旁边的头颅机器"
+		stop
+on break of glass block:
+	loop blocks in radius 1 of event-block:
+		if loop-block is floor_mob_head_block:
+			add 1 to {_warno.%player%}
+	if {_warno.%player%} > 0:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,请先破坏机器旁边的头颅机器"
+		stop
+on break of enchantment_table:
+	loop blocks in radius 1 of event-block:
+		if loop-block is floor_mob_head_block:
+			add 1 to {_warno.%player%}
+	if {_warno.%player%} > 0:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,请先破坏机器旁边的头颅机器"
+		stop
+on break of iron block:
+	loop blocks in radius 1 of event-block:
+		if loop-block is floor_mob_head_block:
+			add 1 to {_warno.%player%}
+	if {_warno.%player%} > 0:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,请先破坏机器旁边的头颅机器"
+		stop
+on break of dispenser:
+	loop blocks in radius 1 of event-block:
+		if loop-block is floor_mob_head_block:
+			add 1 to {_warno.%player%}
+	if {_warno.%player%} > 0:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,请先破坏机器旁边的头颅机器"
+		stop
+on break of piston:
+	loop blocks in radius 1 of event-block:
+		if loop-block is floor_mob_head_block:
+			add 1 to {_warno.%player%}
+	if {_warno.%player%} > 0:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,请先破坏机器旁边的头颅机器"
+		stop
+on break of hay block:
+	loop blocks in radius 1 of event-block:
+		if loop-block is floor_mob_head_block:
+			add 1 to {_warno.%player%}
+	if {_warno.%player%} > 0:
+		cancel event
+		message "{@b} 为了防止恶意使用BUG复制物品,请先破坏机器旁边的头颅机器"
+		stop

@@ -1224,7 +1224,7 @@ ENDER_ANVIL_TALISMAN:
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans
 MINER_TALISMAN:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -2010,7 +2010,7 @@ FARMER_SHOES:
   allow-disenchanting: true
   required-permission: ''
 EXPLOSIVE_PICKAXE:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -2193,7 +2193,7 @@ ARMORED_JETBOOTS:
   allow-disenchanting: true
   required-permission: ''
 SEISMIC_AXE:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -2201,7 +2201,7 @@ SEISMIC_AXE:
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Seismic-Axe
 PICKAXE_OF_VEIN_MINING:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -2543,7 +2543,7 @@ CHRISTMAS_CAKE:
   allow-disenchanting: true
   required-permission: ''
 SCROLL_OF_DIMENSIONAL_TELEPOSITION:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -2594,7 +2594,7 @@ ICY_BOW:
   required-permission: ''
   wiki: https://github.com/TheBusyBiscuit/Slimefun4/wiki/Special-Bows
 TOME_OF_KNOWLEDGE_SHARING:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
@@ -2673,7 +2673,7 @@ ANCIENT_PEDESTAL:
   required-permission: ''
   youtube: https://youtu.be/mx2Y5DP8uZI
 ANCIENT_ALTAR:
-  enabled: true
+  enabled: false
   can-be-used-in-workbenches: false
   hide-in-guide: false
   allow-enchanting: true
